@@ -1,6 +1,6 @@
 # TradeX v0.1 - [Collections Assembled]
 
-## Following versions:
+## Following versions {Prepration for}:
 ### v0.2 - architectures assembling
 ### v0.3 - baseline creation non Catalysts
 ### v0.4 - baseline with Catalysts 
