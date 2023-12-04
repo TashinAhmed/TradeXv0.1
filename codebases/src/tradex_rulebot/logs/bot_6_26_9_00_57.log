@@ -1,0 +1,16 @@
+INFO:2022-09-26 00:57:59,520:Sleep for 0
+INFO:2022-09-26 00:58:00,787:Sleep for 59
+INFO:2022-09-26 00:59:01,312:Fast 1294.1 / Slow: 1293.7616666666668 / Position: 0 / Should Buy: True / Symbol: ETHUSD / Side: BUY / Quantity: 1
+INFO:2022-09-26 00:59:01,313:Sleep for 58
+INFO:2022-09-26 01:00:00,871:Fast 1294.1 / Slow: 1293.7616666666668 / Position: 0.9975 / Should Buy: True / Symbol: ETHUSD / Side: BUY / Quantity: 1
+INFO:2022-09-26 01:00:00,871:Sleep for 59
+INFO:2022-09-26 01:01:01,395:Fast 1295.085 / Slow: 1293.8241666666665 / Position: 1.995 / Should Buy: True / Symbol: ETHUSD / Side: BUY / Quantity: 1
+INFO:2022-09-26 01:01:01,395:Sleep for 58
+INFO:2022-09-26 01:02:01,077:Fast 1295.0841666666668 / Slow: 1293.82375 / Position: 2.9925 / Should Buy: True / Symbol: ETHUSD / Side: BUY / Quantity: 1
+INFO:2022-09-26 01:02:01,078:Sleep for 58
+INFO:2022-09-26 01:03:00,574:Fast 1295.535 / Slow: 1293.9041666666667 / Position: 3.99 / Should Buy: True / Symbol: ETHUSD / Side: BUY / Quantity: 1
+INFO:2022-09-26 01:03:00,574:Sleep for 59
+INFO:2022-09-26 01:04:01,100:Fast 1296.0108333333335 / Slow: 1293.9775 / Position: 4.9875 / Should Buy: True / Symbol: ETHUSD / Side: BUY / Quantity: 1
+INFO:2022-09-26 01:04:01,101:Sleep for 58
+INFO:2022-09-26 01:05:00,619:Fast 1296.3791666666666 / Slow: 1294.0195833333335 / Position: 5.985 / Should Buy: True / Symbol: ETHUSD / Side: BUY / Quantity: 1
+INFO:2022-09-26 01:05:00,620:Sleep for 59

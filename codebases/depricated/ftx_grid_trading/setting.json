@@ -1,0 +1,11 @@
+{
+  "LOGFILE":"ftx.log",
+  "apiKey":"2lHklL_aE6ZuDAQG6nezaJNeogfdiGHykQdvQMDc",
+  "secret":"XtdVQyd7VsEL53SZpLIFIAvI3na3ouHf8UUZWQjL",
+  "sub_account":"subaccount_01",
+  "symbol":"SRM/USD", 
+  "grid_level":30,
+  "lower_price":2.0,
+  "upper_price":2.5,
+  "amount":1000
+}

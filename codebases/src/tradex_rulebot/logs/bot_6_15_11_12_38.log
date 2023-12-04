@@ -1,0 +1,909 @@
+INFO 2022-11-15 12:38:26,914 close: 1251.8 tenkan_prev: 1252.9299999999998 tenkan: 1252.9299999999998 kijun: 1251.79 senkou_a:  nan senkou_b:  nan chikou: 1251.84 close_chikou: 1250.17
+WARNING 2022-11-15 12:38:26,914 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:38:26,914 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:39:00,669 close: 1251.8 tenkan_prev: 1252.9299999999998 tenkan: 1252.9299999999998 kijun: 1251.79 senkou_a:  nan senkou_b:  nan chikou: 1251.84 close_chikou: 1250.17
+WARNING 2022-11-15 12:39:00,670 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:39:00,670 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:40:00,275 close: 1251.74 tenkan_prev: 1252.9299999999998 tenkan: 1252.9299999999998 kijun: 1251.79 senkou_a:  nan senkou_b:  nan chikou: 1251.8 close_chikou: 1250.95
+WARNING 2022-11-15 12:40:00,276 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:40:00,276 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:40:59,868 close: 1250.8 tenkan_prev: 1252.9299999999998 tenkan: 1252.9299999999998 kijun: 1251.79 senkou_a:  nan senkou_b:  nan chikou: 1251.74 close_chikou: 1249.15
+WARNING 2022-11-15 12:40:59,868 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:40:59,868 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:41:00,473 close: 1250.8 tenkan_prev: 1252.9299999999998 tenkan: 1252.9299999999998 kijun: 1251.79 senkou_a:  nan senkou_b:  nan chikou: 1251.74 close_chikou: 1249.15
+WARNING 2022-11-15 12:41:00,474 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:41:00,474 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:42:00,103 close: 1250.39 tenkan_prev: 1252.9299999999998 tenkan: 1252.74 kijun: 1251.79 senkou_a:  nan senkou_b:  nan chikou: 1250.8 close_chikou: 1249.07
+WARNING 2022-11-15 12:42:00,104 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:42:00,104 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:42:59,809 close: 1251.34 tenkan_prev: 1252.74 tenkan: 1252.08 kijun: 1251.79 senkou_a:  nan senkou_b:  nan chikou: 1250.39 close_chikou: 1249.16
+WARNING 2022-11-15 12:42:59,810 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:42:59,810 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:43:00,407 close: 1251.34 tenkan_prev: 1252.74 tenkan: 1252.08 kijun: 1251.79 senkou_a:  nan senkou_b:  nan chikou: 1250.39 close_chikou: 1249.16
+WARNING 2022-11-15 12:43:00,407 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:43:00,408 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:44:00,006 close: 1251.32 tenkan_prev: 1252.08 tenkan: 1251.5500000000002 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1251.34 close_chikou: 1249.84
+WARNING 2022-11-15 12:44:00,006 CONDITIONS BUY: False, False, False, False, True
+WARNING 2022-11-15 12:44:00,006 CONDITIONS SELL: True, True, False, False, False
+INFO 2022-11-15 12:44:59,891 close: 1252.2 tenkan_prev: 1251.5500000000002 tenkan: 1251.3000000000002 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1251.32 close_chikou: 1249.34
+WARNING 2022-11-15 12:44:59,891 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:44:59,891 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:45:00,515 close: 1252.2 tenkan_prev: 1251.5500000000002 tenkan: 1251.3000000000002 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1251.32 close_chikou: 1249.34
+WARNING 2022-11-15 12:45:00,516 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:45:00,516 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:46:00,321 close: 1252.92 tenkan_prev: 1251.3000000000002 tenkan: 1251.77 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1252.2 close_chikou: 1249.95
+WARNING 2022-11-15 12:46:00,322 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:46:00,322 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:46:59,944 close: 1253.72 tenkan_prev: 1251.77 tenkan: 1251.955 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1252.92 close_chikou: 1250.54
+WARNING 2022-11-15 12:46:59,944 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:46:59,944 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:47:00,537 close: 1253.72 tenkan_prev: 1251.77 tenkan: 1251.955 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1252.92 close_chikou: 1250.54
+WARNING 2022-11-15 12:47:00,538 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:47:00,538 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:48:00,150 close: 1252.76 tenkan_prev: 1251.955 tenkan: 1251.955 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1253.72 close_chikou: 1250.89
+WARNING 2022-11-15 12:48:00,151 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:48:00,151 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:48:59,834 close: 1252.77 tenkan_prev: 1251.955 tenkan: 1251.955 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1252.76 close_chikou: 1250.36
+WARNING 2022-11-15 12:48:59,834 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:48:59,834 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:49:00,447 close: 1252.77 tenkan_prev: 1251.955 tenkan: 1251.955 kijun: 1252.0749999999998 senkou_a:  nan senkou_b:  nan chikou: 1252.76 close_chikou: 1250.36
+WARNING 2022-11-15 12:49:00,447 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:49:00,447 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:50:00,094 close: 1252.83 tenkan_prev: 1251.955 tenkan: 1251.955 kijun: 1252.12 senkou_a:  nan senkou_b:  nan chikou: 1252.77 close_chikou: 1249.45
+WARNING 2022-11-15 12:50:00,095 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:50:00,095 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:50:59,735 close: 1252.61 tenkan_prev: 1251.955 tenkan: 1252.0 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1252.83 close_chikou: 1249.23
+WARNING 2022-11-15 12:50:59,735 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:50:59,735 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:51:01,055 close: 1252.61 tenkan_prev: 1251.955 tenkan: 1252.0 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1252.83 close_chikou: 1249.23
+WARNING 2022-11-15 12:51:01,056 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:51:01,056 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:51:59,788 close: 1252.54 tenkan_prev: 1252.0 tenkan: 1252.1100000000001 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1252.61 close_chikou: 1250.73
+WARNING 2022-11-15 12:51:59,788 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:51:59,789 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:52:00,384 close: 1252.54 tenkan_prev: 1252.0 tenkan: 1252.1100000000001 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1252.61 close_chikou: 1250.73
+WARNING 2022-11-15 12:52:00,384 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:52:00,384 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:53:00,001 close: 1252.82 tenkan_prev: 1252.1100000000001 tenkan: 1252.605 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1252.54 close_chikou: 1250.69
+WARNING 2022-11-15 12:53:00,002 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 12:53:00,002 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 12:53:59,764 close: 1253.97 tenkan_prev: 1252.605 tenkan: 1253.17 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1252.82 close_chikou: 1250.73
+WARNING 2022-11-15 12:53:59,765 CONDITIONS BUY: True, True, False, False, True
+WARNING 2022-11-15 12:53:59,765 CONDITIONS SELL: False, False, False, False, False
+INFO 2022-11-15 12:54:00,385 close: 1253.97 tenkan_prev: 1252.605 tenkan: 1253.17 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1252.82 close_chikou: 1250.73
+WARNING 2022-11-15 12:54:00,386 CONDITIONS BUY: True, True, False, False, True
+WARNING 2022-11-15 12:54:00,386 CONDITIONS SELL: False, False, False, False, False
+INFO 2022-11-15 12:54:59,991 close: 1254.11 tenkan_prev: 1253.17 tenkan: 1253.48 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1253.97 close_chikou: 1250.8
+WARNING 2022-11-15 12:54:59,992 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:54:59,992 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:55:00,598 close: 1254.11 tenkan_prev: 1253.17 tenkan: 1253.48 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1253.97 close_chikou: 1250.8
+WARNING 2022-11-15 12:55:00,598 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:55:00,598 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:56:00,267 close: 1254.32 tenkan_prev: 1253.48 tenkan: 1253.6799999999998 kijun: 1252.74 senkou_a:  nan senkou_b:  nan chikou: 1254.11 close_chikou: 1251.41
+WARNING 2022-11-15 12:56:00,268 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 12:56:00,268 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:56:59,877 close: 1254.31 tenkan_prev: 1253.6799999999998 tenkan: 1253.6799999999998 kijun: 1252.74 senkou_a: 1249.34 senkou_b: 1248.705 chikou: 1254.32 close_chikou: 1252.29
+WARNING 2022-11-15 12:56:59,877 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 12:56:59,877 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:57:00,484 close: 1254.31 tenkan_prev: 1253.6799999999998 tenkan: 1253.6799999999998 kijun: 1252.74 senkou_a: 1249.34 senkou_b: 1248.705 chikou: 1254.32 close_chikou: 1252.29
+WARNING 2022-11-15 12:57:00,484 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 12:57:00,485 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:58:00,256 close: 1253.77 tenkan_prev: 1253.6799999999998 tenkan: 1253.6799999999998 kijun: 1252.74 senkou_a: 1249.7549999999999 senkou_b: 1249.5349999999999 chikou: 1254.31 close_chikou: 1252.83
+WARNING 2022-11-15 12:58:00,258 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 12:58:00,258 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:59:00,016 close: 1253.88 tenkan_prev: 1253.6799999999998 tenkan: 1253.6799999999998 kijun: 1252.74 senkou_a: 1249.835 senkou_b: 1249.5349999999999 chikou: 1253.77 close_chikou: 1252.39
+WARNING 2022-11-15 12:59:00,017 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 12:59:00,018 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 12:59:59,640 close: 1254.7 tenkan_prev: 1253.6799999999998 tenkan: 1253.815 kijun: 1252.65 senkou_a: 1250.7275 senkou_b: 1250.475 chikou: 1253.88 close_chikou: 1253.48
+WARNING 2022-11-15 12:59:59,642 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 12:59:59,642 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:00:00,243 close: 1254.7 tenkan_prev: 1253.6799999999998 tenkan: 1253.815 kijun: 1252.65 senkou_a: 1250.7275 senkou_b: 1250.475 chikou: 1253.88 close_chikou: 1253.48
+WARNING 2022-11-15 13:00:00,243 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:00:00,244 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:00:59,914 close: 1255.1 tenkan_prev: 1253.815 tenkan: 1254.115 kijun: 1252.9450000000002 senkou_a: 1250.7475 senkou_b: 1250.5149999999999 chikou: 1254.7 close_chikou: 1253.24
+WARNING 2022-11-15 13:00:59,915 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:00:59,915 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:01:00,510 close: 1255.1 tenkan_prev: 1253.815 tenkan: 1254.115 kijun: 1252.9450000000002 senkou_a: 1250.7475 senkou_b: 1250.5149999999999 chikou: 1254.7 close_chikou: 1253.24
+WARNING 2022-11-15 13:01:00,510 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:01:00,511 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:02:00,164 close: 1255.88 tenkan_prev: 1254.115 tenkan: 1254.77 kijun: 1253.3899999999999 senkou_a: 1250.8975 senkou_b: 1250.755 chikou: 1255.1 close_chikou: 1252.7
+WARNING 2022-11-15 13:02:00,164 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:02:00,164 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:02:59,829 close: 1255.2 tenkan_prev: 1254.77 tenkan: 1255.505 kijun: 1253.995 senkou_a: 1251.065 senkou_b: 1250.9 chikou: 1255.88 close_chikou: 1251.94
+WARNING 2022-11-15 13:02:59,830 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:02:59,830 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:03:00,425 close: 1255.2 tenkan_prev: 1254.77 tenkan: 1255.505 kijun: 1253.995 senkou_a: 1251.065 senkou_b: 1250.9 chikou: 1255.88 close_chikou: 1251.94
+WARNING 2022-11-15 13:03:00,425 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:03:00,425 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:04:00,040 close: 1254.88 tenkan_prev: 1255.505 tenkan: 1255.505 kijun: 1253.995 senkou_a: 1252.3075 senkou_b: 1251.79 chikou: 1255.2 close_chikou: 1251.31
+WARNING 2022-11-15 13:04:00,040 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:04:00,041 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:04:59,716 close: 1254.2 tenkan_prev: 1255.505 tenkan: 1255.505 kijun: 1253.995 senkou_a: 1252.3075 senkou_b: 1251.79 chikou: 1254.88 close_chikou: 1251.84
+WARNING 2022-11-15 13:04:59,717 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:04:59,717 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:05:00,315 close: 1254.2 tenkan_prev: 1255.505 tenkan: 1255.505 kijun: 1253.995 senkou_a: 1252.3075 senkou_b: 1251.79 chikou: 1254.88 close_chikou: 1251.84
+WARNING 2022-11-15 13:05:00,316 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:05:00,316 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:06:00,062 close: 1254.32 tenkan_prev: 1255.505 tenkan: 1255.505 kijun: 1253.995 senkou_a: 1252.31 senkou_b: 1251.79 chikou: 1254.2 close_chikou: 1251.8
+WARNING 2022-11-15 13:06:00,062 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:06:00,063 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:06:59,812 close: 1254.17 tenkan_prev: 1255.505 tenkan: 1255.505 kijun: 1253.995 senkou_a: 1252.31 senkou_b: 1251.79 chikou: 1254.32 close_chikou: 1251.74
+WARNING 2022-11-15 13:06:59,812 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:06:59,812 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:07:00,413 close: 1254.17 tenkan_prev: 1255.505 tenkan: 1255.505 kijun: 1253.995 senkou_a: 1252.31 senkou_b: 1251.79 chikou: 1254.32 close_chikou: 1251.74
+WARNING 2022-11-15 13:07:00,413 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:07:00,413 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:08:00,036 close: 1254.28 tenkan_prev: 1255.505 tenkan: 1255.74 kijun: 1254.04 senkou_a: 1252.36 senkou_b: 1251.79 chikou: 1254.17 close_chikou: 1250.8
+WARNING 2022-11-15 13:08:00,037 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:08:00,037 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:08:59,681 close: 1255.93 tenkan_prev: 1255.74 tenkan: 1255.78 kijun: 1254.15 senkou_a: 1252.36 senkou_b: 1251.79 chikou: 1254.28 close_chikou: 1250.39
+WARNING 2022-11-15 13:08:59,681 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:08:59,681 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:09:00,281 close: 1255.93 tenkan_prev: 1255.74 tenkan: 1255.78 kijun: 1254.15 senkou_a: 1252.36 senkou_b: 1251.79 chikou: 1254.28 close_chikou: 1250.39
+WARNING 2022-11-15 13:09:00,281 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:09:00,282 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:09:59,910 close: 1255.49 tenkan_prev: 1255.78 tenkan: 1255.78 kijun: 1254.645 senkou_a: 1252.36 senkou_b: 1251.79 chikou: 1255.93 close_chikou: 1251.34
+WARNING 2022-11-15 13:09:59,911 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:09:59,911 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:10:00,522 close: 1255.49 tenkan_prev: 1255.78 tenkan: 1255.78 kijun: 1254.645 senkou_a: 1252.36 senkou_b: 1251.79 chikou: 1255.93 close_chikou: 1251.34
+WARNING 2022-11-15 13:10:00,523 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:10:00,523 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:11:00,136 close: 1255.83 tenkan_prev: 1255.78 tenkan: 1255.78 kijun: 1255.025 senkou_a: 1252.36 senkou_b: 1251.79 chikou: 1255.49 close_chikou: 1251.32
+WARNING 2022-11-15 13:11:00,137 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:11:00,138 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:11:59,799 close: 1256.15 tenkan_prev: 1255.78 tenkan: 1255.6100000000001 kijun: 1255.025 senkou_a: 1252.2649999999999 senkou_b: 1251.79 chikou: 1255.83 close_chikou: 1252.2
+WARNING 2022-11-15 13:11:59,800 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:11:59,801 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:12:00,812 close: 1256.15 tenkan_prev: 1255.78 tenkan: 1255.6100000000001 kijun: 1255.025 senkou_a: 1252.2649999999999 senkou_b: 1251.79 chikou: 1255.83 close_chikou: 1252.2
+WARNING 2022-11-15 13:12:00,812 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:12:00,812 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:13:00,594 close: 1257.15 tenkan_prev: 1255.6100000000001 tenkan: 1255.6100000000001 kijun: 1255.025 senkou_a: 1251.935 senkou_b: 1251.79 chikou: 1256.15 close_chikou: 1252.92
+WARNING 2022-11-15 13:13:00,595 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:13:00,595 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:14:00,299 close: 1259.76 tenkan_prev: 1255.6100000000001 tenkan: 1257.54 kijun: 1256.755 senkou_a: 1251.8125 senkou_b: 1252.0749999999998 chikou: 1257.15 close_chikou: 1253.72
+WARNING 2022-11-15 13:14:00,300 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:14:00,300 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:14:59,930 close: 1260.02 tenkan_prev: 1257.54 tenkan: 1257.54 kijun: 1256.755 senkou_a: 1251.6875 senkou_b: 1252.0749999999998 chikou: 1259.76 close_chikou: 1252.76
+WARNING 2022-11-15 13:14:59,931 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:14:59,931 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:15:00,566 close: 1260.02 tenkan_prev: 1257.54 tenkan: 1257.54 kijun: 1256.755 senkou_a: 1251.6875 senkou_b: 1252.0749999999998 chikou: 1259.76 close_chikou: 1252.76
+WARNING 2022-11-15 13:15:00,567 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:15:00,568 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:16:00,549 close: 1262.37 tenkan_prev: 1257.54 tenkan: 1258.0949999999998 kijun: 1257.31 senkou_a: 1251.9225 senkou_b: 1252.0749999999998 chikou: 1260.02 close_chikou: 1252.77
+WARNING 2022-11-15 13:16:00,550 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:16:00,550 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:17:00,334 close: 1262.75 tenkan_prev: 1258.0949999999998 tenkan: 1258.565 kijun: 1257.71 senkou_a: 1252.0149999999999 senkou_b: 1252.0749999999998 chikou: 1262.37 close_chikou: 1252.83
+WARNING 2022-11-15 13:17:00,334 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:17:00,334 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:17:59,951 close: 1263.66 tenkan_prev: 1258.565 tenkan: 1260.03 kijun: 1258.7649999999999 senkou_a: 1252.0149999999999 senkou_b: 1252.0749999999998 chikou: 1262.75 close_chikou: 1252.61
+WARNING 2022-11-15 13:17:59,952 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:17:59,952 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:18:00,564 close: 1263.66 tenkan_prev: 1258.565 tenkan: 1260.03 kijun: 1258.7649999999999 senkou_a: 1252.0149999999999 senkou_b: 1252.0749999999998 chikou: 1262.75 close_chikou: 1252.61
+WARNING 2022-11-15 13:18:00,564 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:18:00,565 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:19:00,173 close: 1265.83 tenkan_prev: 1260.03 tenkan: 1260.815 kijun: 1259.76 senkou_a: 1252.0149999999999 senkou_b: 1252.0749999999998 chikou: 1263.66 close_chikou: 1252.54
+WARNING 2022-11-15 13:19:00,173 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:19:00,173 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:19:59,945 close: 1267.37 tenkan_prev: 1260.815 tenkan: 1262.525 kijun: 1261.405 senkou_a: 1252.0375 senkou_b: 1252.12 chikou: 1265.83 close_chikou: 1252.82
+WARNING 2022-11-15 13:19:59,946 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:19:59,946 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:20:00,552 close: 1267.37 tenkan_prev: 1260.815 tenkan: 1262.525 kijun: 1261.405 senkou_a: 1252.0375 senkou_b: 1252.12 chikou: 1265.83 close_chikou: 1252.82
+WARNING 2022-11-15 13:20:00,552 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:20:00,552 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:21:00,172 close: 1269.55 tenkan_prev: 1262.525 tenkan: 1263.62 kijun: 1262.5 senkou_a: 1252.37 senkou_b: 1252.74 chikou: 1267.37 close_chikou: 1253.97
+WARNING 2022-11-15 13:21:00,173 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:21:00,173 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:21:59,858 close: 1268.65 tenkan_prev: 1263.62 tenkan: 1264.24 kijun: 1262.5 senkou_a: 1252.4250000000002 senkou_b: 1252.74 chikou: 1269.55 close_chikou: 1254.11
+WARNING 2022-11-15 13:21:59,859 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:21:59,860 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:22:00,466 close: 1268.65 tenkan_prev: 1263.62 tenkan: 1264.24 kijun: 1262.5 senkou_a: 1252.4250000000002 senkou_b: 1252.74 chikou: 1269.55 close_chikou: 1254.11
+WARNING 2022-11-15 13:22:00,466 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:22:00,467 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:23:00,096 close: 1270.03 tenkan_prev: 1264.24 tenkan: 1265.04 kijun: 1262.5 senkou_a: 1252.6725000000001 senkou_b: 1252.74 chikou: 1268.65 close_chikou: 1254.32
+WARNING 2022-11-15 13:23:00,097 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:23:00,097 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:23:59,742 close: 1268.65 tenkan_prev: 1265.04 tenkan: 1265.5749999999998 kijun: 1262.5 senkou_a: 1252.955 senkou_b: 1252.74 chikou: 1270.03 close_chikou: 1254.31
+WARNING 2022-11-15 13:23:59,743 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:23:59,743 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:24:00,083 Symbol:  ETHUSD | Position:    0 | close price:  1268.65 | Side:  BUY 🔴 | Profits:  -1268.65 | Quantity:    1 🤑
+INFO 2022-11-15 13:24:59,712 close: 1268.68 tenkan_prev: 1265.5749999999998 tenkan: 1266.0549999999998 kijun: 1262.7350000000001 senkou_a: 1253.1100000000001 senkou_b: 1252.74 chikou: 1268.65 close_chikou: 1253.77
+WARNING 2022-11-15 13:24:59,713 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:24:59,713 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:25:00,322 close: 1268.68 tenkan_prev: 1265.5749999999998 tenkan: 1266.0549999999998 kijun: 1262.7350000000001 senkou_a: 1253.1100000000001 senkou_b: 1252.74 chikou: 1268.65 close_chikou: 1253.77
+WARNING 2022-11-15 13:25:00,322 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:25:00,322 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:25:59,927 close: 1269.14 tenkan_prev: 1266.0549999999998 tenkan: 1267.005 kijun: 1262.775 senkou_a: 1253.21 senkou_b: 1252.74 chikou: 1268.68 close_chikou: 1253.88
+WARNING 2022-11-15 13:25:59,928 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:25:59,928 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:26:00,529 close: 1269.14 tenkan_prev: 1266.0549999999998 tenkan: 1267.005 kijun: 1262.775 senkou_a: 1253.21 senkou_b: 1252.74 chikou: 1268.68 close_chikou: 1253.88
+WARNING 2022-11-15 13:26:00,529 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:26:00,530 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:27:00,250 close: 1267.48 tenkan_prev: 1267.005 tenkan: 1267.31 kijun: 1262.775 senkou_a: 1253.21 senkou_b: 1252.74 chikou: 1269.14 close_chikou: 1254.7
+WARNING 2022-11-15 13:27:00,252 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:27:00,252 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:27:59,869 close: 1267.82 tenkan_prev: 1267.31 tenkan: 1268.4099999999999 kijun: 1262.775 senkou_a: 1253.21 senkou_b: 1252.74 chikou: 1267.48 close_chikou: 1255.1
+WARNING 2022-11-15 13:27:59,870 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:27:59,870 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:28:00,626 close: 1267.82 tenkan_prev: 1267.31 tenkan: 1268.4099999999999 kijun: 1262.775 senkou_a: 1253.21 senkou_b: 1252.74 chikou: 1267.48 close_chikou: 1255.1
+WARNING 2022-11-15 13:28:00,626 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:28:00,626 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:29:00,438 close: 1265.73 tenkan_prev: 1268.4099999999999 tenkan: 1268.75 kijun: 1262.775 senkou_a: 1253.21 senkou_b: 1252.74 chikou: 1267.82 close_chikou: 1255.88
+WARNING 2022-11-15 13:29:00,440 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:29:00,440 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:30:00,255 close: 1264.36 tenkan_prev: 1268.75 tenkan: 1267.78 kijun: 1262.775 senkou_a: 1253.2325 senkou_b: 1252.65 chikou: 1265.73 close_chikou: 1255.2
+WARNING 2022-11-15 13:30:00,257 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:30:00,257 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:30:59,872 close: 1265.32 tenkan_prev: 1267.78 tenkan: 1266.97 kijun: 1262.8049999999998 senkou_a: 1253.5300000000002 senkou_b: 1252.9450000000002 chikou: 1264.36 close_chikou: 1254.88
+WARNING 2022-11-15 13:30:59,873 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:30:59,874 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:31:00,481 close: 1265.32 tenkan_prev: 1267.78 tenkan: 1266.97 kijun: 1262.8049999999998 senkou_a: 1253.5300000000002 senkou_b: 1252.9450000000002 chikou: 1264.36 close_chikou: 1254.88
+WARNING 2022-11-15 13:31:00,481 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:31:00,481 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:32:00,767 close: 1262.65 tenkan_prev: 1266.97 tenkan: 1266.88 kijun: 1262.8049999999998 senkou_a: 1254.08 senkou_b: 1253.3899999999999 chikou: 1265.32 close_chikou: 1254.2
+WARNING 2022-11-15 13:32:00,769 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:32:00,769 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:33:00,660 close: 1263.16 tenkan_prev: 1266.88 tenkan: 1265.9099999999999 kijun: 1262.8049999999998 senkou_a: 1254.75 senkou_b: 1253.995 chikou: 1262.65 close_chikou: 1254.32
+WARNING 2022-11-15 13:33:00,662 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:33:00,662 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:34:00,634 close: 1263.89 tenkan_prev: 1265.9099999999999 tenkan: 1265.895 kijun: 1263.01 senkou_a: 1254.75 senkou_b: 1253.995 chikou: 1263.16 close_chikou: 1254.17
+WARNING 2022-11-15 13:34:00,636 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:34:00,637 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:35:00,249 close: 1264.69 tenkan_prev: 1265.895 tenkan: 1265.895 kijun: 1263.425 senkou_a: 1254.75 senkou_b: 1253.995 chikou: 1263.89 close_chikou: 1254.28
+WARNING 2022-11-15 13:35:00,249 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:35:00,250 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:35:59,832 close: 1265.68 tenkan_prev: 1265.895 tenkan: 1265.12 kijun: 1263.425 senkou_a: 1254.75 senkou_b: 1253.995 chikou: 1264.69 close_chikou: 1255.93
+WARNING 2022-11-15 13:35:59,832 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:35:59,833 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:36:00,443 close: 1265.68 tenkan_prev: 1265.895 tenkan: 1265.12 kijun: 1263.425 senkou_a: 1254.75 senkou_b: 1253.995 chikou: 1264.69 close_chikou: 1255.93
+WARNING 2022-11-15 13:36:00,444 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:36:00,444 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:37:00,687 close: 1267.02 tenkan_prev: 1265.12 tenkan: 1265.005 kijun: 1263.62 senkou_a: 1254.75 senkou_b: 1253.995 chikou: 1265.68 close_chikou: 1255.49
+WARNING 2022-11-15 13:37:00,688 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:37:00,688 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:38:00,447 close: 1266.47 tenkan_prev: 1265.005 tenkan: 1264.8899999999999 kijun: 1263.62 senkou_a: 1254.8899999999999 senkou_b: 1254.04 chikou: 1267.02 close_chikou: 1255.83
+WARNING 2022-11-15 13:38:00,449 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:38:00,449 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:39:00,094 close: 1265.54 tenkan_prev: 1264.8899999999999 tenkan: 1264.8899999999999 kijun: 1264.24 senkou_a: 1254.9650000000001 senkou_b: 1254.15 chikou: 1266.47 close_chikou: 1256.15
+WARNING 2022-11-15 13:39:00,096 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:39:00,096 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:40:01,295 close: 1264.9 tenkan_prev: 1264.8899999999999 tenkan: 1264.8899999999999 kijun: 1265.04 senkou_a: 1255.2125 senkou_b: 1254.645 chikou: 1265.54 close_chikou: 1257.15
+WARNING 2022-11-15 13:40:01,297 CONDITIONS BUY: False, False, True, True, True
+WARNING 2022-11-15 13:40:01,297 CONDITIONS SELL: True, True, False, False, False
+INFO 2022-11-15 13:41:00,031 close: 1264.24 tenkan_prev: 1264.8899999999999 tenkan: 1264.8899999999999 kijun: 1265.5749999999998 senkou_a: 1255.4025000000001 senkou_b: 1255.025 chikou: 1264.9 close_chikou: 1259.76
+WARNING 2022-11-15 13:41:00,032 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 13:41:00,032 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 13:41:59,663 close: 1265.51 tenkan_prev: 1264.8899999999999 tenkan: 1265.3249999999998 kijun: 1266.0549999999998 senkou_a: 1255.3175 senkou_b: 1255.025 chikou: 1264.24 close_chikou: 1260.02
+WARNING 2022-11-15 13:41:59,664 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 13:41:59,664 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 13:42:00,265 close: 1265.51 tenkan_prev: 1264.8899999999999 tenkan: 1265.3249999999998 kijun: 1266.0549999999998 senkou_a: 1255.3175 senkou_b: 1255.025 chikou: 1264.24 close_chikou: 1260.02
+WARNING 2022-11-15 13:42:00,265 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 13:42:00,265 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 13:42:59,892 close: 1267.27 tenkan_prev: 1265.3249999999998 tenkan: 1265.53 kijun: 1266.895 senkou_a: 1255.3175 senkou_b: 1255.025 chikou: 1265.51 close_chikou: 1262.37
+WARNING 2022-11-15 13:42:59,893 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 13:42:59,894 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 13:43:00,507 close: 1267.27 tenkan_prev: 1265.3249999999998 tenkan: 1265.53 kijun: 1266.895 senkou_a: 1255.3175 senkou_b: 1255.025 chikou: 1265.51 close_chikou: 1262.37
+WARNING 2022-11-15 13:43:00,507 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 13:43:00,508 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 13:44:00,139 close: 1266.51 tenkan_prev: 1265.53 tenkan: 1265.9699999999998 kijun: 1266.895 senkou_a: 1257.1475 senkou_b: 1256.755 chikou: 1267.27 close_chikou: 1262.75
+WARNING 2022-11-15 13:44:00,141 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 13:44:00,141 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 13:45:02,644 close: 1266.71 tenkan_prev: 1265.9699999999998 tenkan: 1265.9699999999998 kijun: 1266.895 senkou_a: 1257.1475 senkou_b: 1256.755 chikou: 1266.51 close_chikou: 1263.66
+WARNING 2022-11-15 13:45:02,645 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 13:45:02,645 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 13:46:00,263 close: 1267.35 tenkan_prev: 1265.9699999999998 tenkan: 1266.165 kijun: 1266.895 senkou_a: 1257.7024999999999 senkou_b: 1257.31 chikou: 1266.71 close_chikou: 1265.83
+WARNING 2022-11-15 13:46:00,264 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 13:46:00,264 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 13:46:59,883 close: 1268.2 tenkan_prev: 1266.165 tenkan: 1266.54 kijun: 1266.615 senkou_a: 1258.1375 senkou_b: 1257.71 chikou: 1267.35 close_chikou: 1267.37
+WARNING 2022-11-15 13:46:59,884 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 13:46:59,884 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 13:47:00,504 close: 1268.2 tenkan_prev: 1266.165 tenkan: 1266.54 kijun: 1266.615 senkou_a: 1258.1375 senkou_b: 1257.71 chikou: 1267.35 close_chikou: 1267.37
+WARNING 2022-11-15 13:47:00,504 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 13:47:00,504 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 13:48:00,285 close: 1266.37 tenkan_prev: 1266.54 tenkan: 1266.54 kijun: 1266.615 senkou_a: 1259.3975 senkou_b: 1258.7649999999999 chikou: 1268.2 close_chikou: 1269.55
+WARNING 2022-11-15 13:48:00,286 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 13:48:00,286 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 13:48:59,918 close: 1268.32 tenkan_prev: 1266.54 tenkan: 1266.54 kijun: 1266.615 senkou_a: 1260.2875 senkou_b: 1259.76 chikou: 1266.37 close_chikou: 1268.65
+WARNING 2022-11-15 13:48:59,920 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 13:48:59,920 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 13:49:00,533 close: 1268.32 tenkan_prev: 1266.54 tenkan: 1266.54 kijun: 1266.615 senkou_a: 1260.2875 senkou_b: 1259.76 chikou: 1266.37 close_chikou: 1268.65
+WARNING 2022-11-15 13:49:00,553 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 13:49:00,553 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 13:50:00,192 close: 1268.94 tenkan_prev: 1266.54 tenkan: 1267.475 kijun: 1266.355 senkou_a: 1261.9650000000001 senkou_b: 1261.405 chikou: 1268.32 close_chikou: 1270.03
+WARNING 2022-11-15 13:50:00,193 CONDITIONS BUY: True, True, True, True, False
+WARNING 2022-11-15 13:50:00,193 CONDITIONS SELL: False, False, False, False, True
+INFO 2022-11-15 13:50:59,825 close: 1269.86 tenkan_prev: 1267.475 tenkan: 1268.21 kijun: 1266.355 senkou_a: 1263.06 senkou_b: 1262.5 chikou: 1268.94 close_chikou: 1268.65
+WARNING 2022-11-15 13:50:59,827 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:50:59,827 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:51:00,456 close: 1269.86 tenkan_prev: 1267.475 tenkan: 1268.21 kijun: 1266.355 senkou_a: 1263.06 senkou_b: 1262.5 chikou: 1268.94 close_chikou: 1268.65
+WARNING 2022-11-15 13:51:00,456 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:51:00,456 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:52:00,467 close: 1268.55 tenkan_prev: 1268.21 tenkan: 1268.3000000000002 kijun: 1266.355 senkou_a: 1263.37 senkou_b: 1262.5 chikou: 1269.86 close_chikou: 1268.68
+WARNING 2022-11-15 13:52:00,469 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:52:00,469 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:53:00,369 close: 1266.29 tenkan_prev: 1268.3000000000002 tenkan: 1268.3000000000002 kijun: 1266.355 senkou_a: 1263.77 senkou_b: 1262.5 chikou: 1268.55 close_chikou: 1269.14
+WARNING 2022-11-15 13:53:00,370 CONDITIONS BUY: False, True, True, True, False
+WARNING 2022-11-15 13:53:00,371 CONDITIONS SELL: True, False, False, False, True
+INFO 2022-11-15 13:54:00,474 close: 1264.9 tenkan_prev: 1268.3000000000002 tenkan: 1267.7 kijun: 1266.355 senkou_a: 1264.0375 senkou_b: 1262.5 chikou: 1266.29 close_chikou: 1267.48
+WARNING 2022-11-15 13:54:00,474 CONDITIONS BUY: False, True, True, True, False
+WARNING 2022-11-15 13:54:00,475 CONDITIONS SELL: True, False, False, False, True
+INFO 2022-11-15 13:55:00,492 close: 1265.0 tenkan_prev: 1267.7 tenkan: 1267.6750000000002 kijun: 1266.355 senkou_a: 1264.395 senkou_b: 1262.7350000000001 chikou: 1264.9 close_chikou: 1267.82
+WARNING 2022-11-15 13:55:00,493 CONDITIONS BUY: False, True, True, True, False
+WARNING 2022-11-15 13:55:00,493 CONDITIONS SELL: True, False, False, False, True
+INFO 2022-11-15 13:56:00,497 close: 1265.47 tenkan_prev: 1267.6750000000002 tenkan: 1267.6750000000002 kijun: 1266.355 senkou_a: 1264.89 senkou_b: 1262.775 chikou: 1265.0 close_chikou: 1265.73
+WARNING 2022-11-15 13:56:00,498 CONDITIONS BUY: False, True, True, True, False
+WARNING 2022-11-15 13:56:00,498 CONDITIONS SELL: True, False, False, False, True
+INFO 2022-11-15 13:57:00,519 close: 1265.86 tenkan_prev: 1267.6750000000002 tenkan: 1267.6750000000002 kijun: 1266.355 senkou_a: 1265.0425 senkou_b: 1262.775 chikou: 1265.47 close_chikou: 1264.36
+WARNING 2022-11-15 13:57:00,520 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:57:00,520 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:58:00,413 close: 1266.17 tenkan_prev: 1267.6750000000002 tenkan: 1267.6750000000002 kijun: 1266.355 senkou_a: 1265.5925 senkou_b: 1262.775 chikou: 1265.86 close_chikou: 1265.32
+WARNING 2022-11-15 13:58:00,414 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:58:00,414 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 13:59:00,317 close: 1265.9 tenkan_prev: 1267.6750000000002 tenkan: 1267.35 kijun: 1266.79 senkou_a: 1265.7625 senkou_b: 1262.775 chikou: 1266.17 close_chikou: 1262.65
+WARNING 2022-11-15 13:59:00,319 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 13:59:00,320 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:00:00,312 close: 1265.19 tenkan_prev: 1267.35 tenkan: 1267.22 kijun: 1266.975 senkou_a: 1265.2775000000001 senkou_b: 1262.775 chikou: 1265.9 close_chikou: 1263.16
+WARNING 2022-11-15 14:00:00,313 CONDITIONS BUY: False, True, False, True, True
+WARNING 2022-11-15 14:00:00,313 CONDITIONS SELL: True, False, True, False, False
+INFO 2022-11-15 14:00:00,716 Symbol:  ETHUSD | Position:    1 | close price:  1265.19 | Side:  BUY 🔴 | Profits:  -2533.84 | Quantity:    1 🤑
+INFO 2022-11-15 14:01:00,677 close: 1264.97 tenkan_prev: 1267.22 tenkan: 1266.47 kijun: 1267.415 senkou_a: 1264.8874999999998 senkou_b: 1262.8049999999998 chikou: 1265.19 close_chikou: 1263.89
+WARNING 2022-11-15 14:01:00,678 CONDITIONS BUY: False, False, True, True, True
+WARNING 2022-11-15 14:01:00,678 CONDITIONS SELL: True, True, False, False, False
+INFO 2022-11-15 14:02:00,729 close: 1265.21 tenkan_prev: 1266.47 tenkan: 1265.54 kijun: 1267.415 senkou_a: 1264.8425 senkou_b: 1262.8049999999998 chikou: 1264.97 close_chikou: 1264.69
+WARNING 2022-11-15 14:02:00,730 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 14:02:00,730 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 14:03:00,739 close: 1266.21 tenkan_prev: 1265.54 tenkan: 1265.6950000000002 kijun: 1267.415 senkou_a: 1264.3574999999998 senkou_b: 1262.8049999999998 chikou: 1265.21 close_chikou: 1265.68
+WARNING 2022-11-15 14:03:00,739 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:03:00,739 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:04:00,630 close: 1264.97 tenkan_prev: 1265.6950000000002 tenkan: 1265.64 kijun: 1267.415 senkou_a: 1264.4524999999999 senkou_b: 1263.01 chikou: 1266.21 close_chikou: 1267.02
+WARNING 2022-11-15 14:04:00,632 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:04:00,632 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:05:00,591 close: 1263.91 tenkan_prev: 1265.64 tenkan: 1265.375 kijun: 1267.29 senkou_a: 1264.6599999999999 senkou_b: 1263.425 chikou: 1264.97 close_chikou: 1266.47
+WARNING 2022-11-15 14:05:00,592 CONDITIONS BUY: True, False, False, True, False
+WARNING 2022-11-15 14:05:00,592 CONDITIONS SELL: False, True, True, False, True
+INFO 2022-11-15 14:06:00,551 close: 1264.17 tenkan_prev: 1265.375 tenkan: 1265.02 kijun: 1266.935 senkou_a: 1264.2725 senkou_b: 1263.425 chikou: 1263.91 close_chikou: 1265.54
+WARNING 2022-11-15 14:06:00,552 CONDITIONS BUY: True, False, False, True, False
+WARNING 2022-11-15 14:06:00,553 CONDITIONS SELL: False, True, True, False, True
+INFO 2022-11-15 14:07:00,547 close: 1263.68 tenkan_prev: 1265.02 tenkan: 1265.02 kijun: 1266.935 senkou_a: 1264.3125 senkou_b: 1263.62 chikou: 1264.17 close_chikou: 1264.9
+WARNING 2022-11-15 14:07:00,550 CONDITIONS BUY: True, False, False, True, False
+WARNING 2022-11-15 14:07:00,551 CONDITIONS SELL: False, True, True, False, True
+INFO 2022-11-15 14:08:00,547 close: 1264.43 tenkan_prev: 1265.02 tenkan: 1265.02 kijun: 1266.935 senkou_a: 1264.2549999999999 senkou_b: 1263.62 chikou: 1263.68 close_chikou: 1264.24
+WARNING 2022-11-15 14:08:00,548 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:08:00,548 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:09:00,565 close: 1263.37 tenkan_prev: 1265.02 tenkan: 1264.89 kijun: 1266.805 senkou_a: 1264.565 senkou_b: 1264.24 chikou: 1264.43 close_chikou: 1265.51
+WARNING 2022-11-15 14:09:00,566 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 14:09:00,566 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 14:10:00,461 close: 1262.21 tenkan_prev: 1264.89 tenkan: 1264.44 kijun: 1266.355 senkou_a: 1264.965 senkou_b: 1265.04 chikou: 1263.37 close_chikou: 1267.27
+WARNING 2022-11-15 14:10:00,462 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 14:10:00,463 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 14:10:00,860 Symbol:  ETHUSD | Position:    2 | close price:  1262.21 | Side: SELL 🟢 | Profits:  -1271.63 | Quantity:    1 💵
+INFO 2022-11-15 14:11:00,774 close: 1262.71 tenkan_prev: 1264.44 tenkan: 1264.44 kijun: 1266.355 senkou_a: 1265.2324999999998 senkou_b: 1265.5749999999998 chikou: 1262.21 close_chikou: 1266.51
+WARNING 2022-11-15 14:11:00,775 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 14:11:00,775 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 14:12:00,678 close: 1265.76 tenkan_prev: 1264.44 tenkan: 1264.27 kijun: 1266.355 senkou_a: 1265.6899999999998 senkou_b: 1266.0549999999998 chikou: 1262.71 close_chikou: 1266.71
+WARNING 2022-11-15 14:12:00,679 CONDITIONS BUY: True, False, True, False, False
+WARNING 2022-11-15 14:12:00,679 CONDITIONS SELL: False, True, False, True, True
+INFO 2022-11-15 14:13:00,879 close: 1264.48 tenkan_prev: 1264.27 tenkan: 1264.045 kijun: 1266.355 senkou_a: 1266.2125 senkou_b: 1266.895 chikou: 1265.76 close_chikou: 1267.35
+WARNING 2022-11-15 14:13:00,880 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 14:13:00,880 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 14:14:00,775 close: 1265.12 tenkan_prev: 1264.045 tenkan: 1264.045 kijun: 1266.355 senkou_a: 1266.4325 senkou_b: 1266.895 chikou: 1264.48 close_chikou: 1268.2
+WARNING 2022-11-15 14:14:00,777 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 14:14:00,777 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 14:15:00,704 close: 1265.57 tenkan_prev: 1264.045 tenkan: 1264.045 kijun: 1266.355 senkou_a: 1266.4325 senkou_b: 1266.895 chikou: 1265.12 close_chikou: 1266.37
+WARNING 2022-11-15 14:15:00,706 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 14:15:00,706 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 14:16:00,717 close: 1264.56 tenkan_prev: 1264.045 tenkan: 1264.045 kijun: 1266.03 senkou_a: 1266.53 senkou_b: 1266.895 chikou: 1265.57 close_chikou: 1268.32
+WARNING 2022-11-15 14:16:00,718 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 14:16:00,719 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 14:17:00,616 close: 1266.88 tenkan_prev: 1264.045 tenkan: 1264.48 kijun: 1265.9650000000001 senkou_a: 1266.5774999999999 senkou_b: 1266.615 chikou: 1264.56 close_chikou: 1268.94
+WARNING 2022-11-15 14:17:00,617 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:17:00,618 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:18:00,508 close: 1268.65 tenkan_prev: 1264.48 tenkan: 1265.325 kijun: 1265.325 senkou_a: 1266.5774999999999 senkou_b: 1266.615 chikou: 1266.88 close_chikou: 1269.86
+WARNING 2022-11-15 14:18:00,508 CONDITIONS BUY: True, True, True, True, False
+WARNING 2022-11-15 14:18:00,509 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:19:00,407 close: 1267.5 tenkan_prev: 1265.325 tenkan: 1265.48 kijun: 1265.48 senkou_a: 1266.5774999999999 senkou_b: 1266.615 chikou: 1268.65 close_chikou: 1268.55
+WARNING 2022-11-15 14:19:00,409 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:19:00,409 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 14:20:00,372 close: 1267.98 tenkan_prev: 1265.48 tenkan: 1265.645 kijun: 1265.48 senkou_a: 1266.915 senkou_b: 1266.355 chikou: 1267.5 close_chikou: 1266.29
+WARNING 2022-11-15 14:20:00,374 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:20:00,374 CONDITIONS SELL: False, False, False, False, False
+INFO 2022-11-15 14:20:00,723 Symbol:  ETHUSD | Position:    1 | close price:  1267.98 | Side:  BUY 🔴 | Profits:  -2539.61 | Quantity:    1 🤑
+INFO 2022-11-15 14:21:00,626 close: 1269.36 tenkan_prev: 1265.645 tenkan: 1267.005 kijun: 1265.9299999999998 senkou_a: 1267.2825 senkou_b: 1266.355 chikou: 1267.98 close_chikou: 1264.9
+WARNING 2022-11-15 14:21:00,627 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:21:00,627 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:22:00,826 close: 1268.21 tenkan_prev: 1267.005 tenkan: 1267.1149999999998 kijun: 1265.9299999999998 senkou_a: 1267.3275 senkou_b: 1266.355 chikou: 1269.36 close_chikou: 1265.0
+WARNING 2022-11-15 14:22:00,827 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:22:00,827 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:23:00,893 close: 1269.93 tenkan_prev: 1267.1149999999998 tenkan: 1267.79 kijun: 1266.585 senkou_a: 1267.3275 senkou_b: 1266.355 chikou: 1268.21 close_chikou: 1265.47
+WARNING 2022-11-15 14:23:00,893 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:23:00,894 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:24:00,084 close: 1273.46 tenkan_prev: 1267.79 tenkan: 1269.205 kijun: 1268.0 senkou_a: 1267.0275000000001 senkou_b: 1266.355 chikou: 1269.93 close_chikou: 1265.86
+WARNING 2022-11-15 14:24:00,086 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:24:00,086 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:25:00,311 close: 1273.89 tenkan_prev: 1269.205 tenkan: 1270.15 kijun: 1268.85 senkou_a: 1267.015 senkou_b: 1266.355 chikou: 1273.46 close_chikou: 1266.17
+WARNING 2022-11-15 14:25:00,311 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:25:00,312 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:26:00,540 close: 1272.59 tenkan_prev: 1270.15 tenkan: 1271.0500000000002 kijun: 1268.85 senkou_a: 1267.015 senkou_b: 1266.355 chikou: 1273.89 close_chikou: 1265.9
+WARNING 2022-11-15 14:26:00,541 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:26:00,541 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:27:00,967 close: 1271.69 tenkan_prev: 1271.0500000000002 tenkan: 1271.56 kijun: 1268.85 senkou_a: 1267.015 senkou_b: 1266.355 chikou: 1272.59 close_chikou: 1265.19
+WARNING 2022-11-15 14:27:00,967 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:27:00,967 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:28:00,262 close: 1273.64 tenkan_prev: 1271.56 tenkan: 1271.56 kijun: 1268.85 senkou_a: 1267.015 senkou_b: 1266.355 chikou: 1271.69 close_chikou: 1264.97
+WARNING 2022-11-15 14:28:00,263 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:28:00,263 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:29:00,554 close: 1274.81 tenkan_prev: 1271.56 tenkan: 1271.755 kijun: 1268.85 senkou_a: 1267.07 senkou_b: 1266.79 chikou: 1273.64 close_chikou: 1265.21
+WARNING 2022-11-15 14:29:00,555 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:29:00,556 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:30:01,034 close: 1277.45 tenkan_prev: 1271.755 tenkan: 1272.8600000000001 kijun: 1269.955 senkou_a: 1267.0974999999999 senkou_b: 1266.975 chikou: 1274.81 close_chikou: 1266.21
+WARNING 2022-11-15 14:30:01,035 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:30:01,035 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:31:00,273 close: 1274.36 tenkan_prev: 1272.8600000000001 tenkan: 1272.8600000000001 kijun: 1269.955 senkou_a: 1266.9425 senkou_b: 1267.415 chikou: 1277.45 close_chikou: 1264.97
+WARNING 2022-11-15 14:31:00,274 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:31:00,274 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:31:00,673 Symbol:  ETHUSD | Position:    2 | close price:  1274.36 | Side: SELL 🟢 | Profits:  -1265.25 | Quantity:    1 💵
+INFO 2022-11-15 14:32:00,564 close: 1273.49 tenkan_prev: 1272.8600000000001 tenkan: 1273.46 kijun: 1269.955 senkou_a: 1266.4775 senkou_b: 1267.415 chikou: 1274.36 close_chikou: 1263.91
+WARNING 2022-11-15 14:32:00,564 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:32:00,564 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:33:00,469 close: 1274.0 tenkan_prev: 1273.46 tenkan: 1274.5300000000002 kijun: 1269.955 senkou_a: 1266.555 senkou_b: 1267.415 chikou: 1273.49 close_chikou: 1264.17
+WARNING 2022-11-15 14:33:00,469 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:33:00,470 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:34:00,381 close: 1272.24 tenkan_prev: 1274.5300000000002 tenkan: 1274.5300000000002 kijun: 1269.955 senkou_a: 1266.5275000000001 senkou_b: 1267.415 chikou: 1274.0 close_chikou: 1263.68
+WARNING 2022-11-15 14:34:00,383 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:34:00,383 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:35:00,276 close: 1271.49 tenkan_prev: 1274.5300000000002 tenkan: 1274.5300000000002 kijun: 1269.955 senkou_a: 1266.3325 senkou_b: 1267.29 chikou: 1272.24 close_chikou: 1264.43
+WARNING 2022-11-15 14:35:00,278 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:35:00,278 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:36:00,190 close: 1272.78 tenkan_prev: 1274.5300000000002 tenkan: 1274.585 kijun: 1269.955 senkou_a: 1265.9775 senkou_b: 1266.935 chikou: 1271.49 close_chikou: 1263.37
+WARNING 2022-11-15 14:36:00,192 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:36:00,192 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:37:00,243 close: 1273.64 tenkan_prev: 1274.585 tenkan: 1274.6550000000002 kijun: 1270.12 senkou_a: 1265.9775 senkou_b: 1266.935 chikou: 1272.78 close_chikou: 1262.21
+WARNING 2022-11-15 14:37:00,244 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:37:00,244 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:38:00,155 close: 1274.17 tenkan_prev: 1274.6550000000002 tenkan: 1274.6550000000002 kijun: 1271.0300000000002 senkou_a: 1265.9775 senkou_b: 1266.935 chikou: 1273.64 close_chikou: 1262.71
+WARNING 2022-11-15 14:38:00,156 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:38:00,157 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:39:00,141 close: 1273.31 tenkan_prev: 1274.6550000000002 tenkan: 1274.275 kijun: 1271.1399999999999 senkou_a: 1265.8475 senkou_b: 1266.805 chikou: 1274.17 close_chikou: 1265.76
+WARNING 2022-11-15 14:39:00,142 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:39:00,142 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:40:00,054 close: 1273.39 tenkan_prev: 1274.275 tenkan: 1273.315 kijun: 1271.16 senkou_a: 1265.3975 senkou_b: 1266.355 chikou: 1273.31 close_chikou: 1264.48
+WARNING 2022-11-15 14:40:00,055 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:40:00,055 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:40:59,973 close: 1272.47 tenkan_prev: 1273.315 tenkan: 1273.115 kijun: 1271.16 senkou_a: 1265.3975 senkou_b: 1266.355 chikou: 1273.39 close_chikou: 1265.12
+WARNING 2022-11-15 14:40:59,973 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:40:59,973 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:41:02,199 close: 1272.89 tenkan_prev: 1273.115 tenkan: 1273.115 kijun: 1271.255 senkou_a: 1265.3125 senkou_b: 1266.355 chikou: 1272.47 close_chikou: 1265.57
+WARNING 2022-11-15 14:41:02,199 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:41:02,199 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:42:00,093 close: 1272.89 tenkan_prev: 1273.115 tenkan: 1273.115 kijun: 1271.255 senkou_a: 1265.3125 senkou_b: 1266.355 chikou: 1272.47 close_chikou: 1265.57
+WARNING 2022-11-15 14:42:00,095 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:42:00,095 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:42:59,984 close: 1272.96 tenkan_prev: 1273.115 tenkan: 1273.115 kijun: 1272.1550000000002 senkou_a: 1265.2 senkou_b: 1266.355 chikou: 1272.89 close_chikou: 1264.56
+WARNING 2022-11-15 14:42:59,985 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:42:59,986 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:43:00,877 close: 1272.96 tenkan_prev: 1273.115 tenkan: 1273.115 kijun: 1272.1550000000002 senkou_a: 1265.2 senkou_b: 1266.355 chikou: 1272.89 close_chikou: 1264.56
+WARNING 2022-11-15 14:43:00,877 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:43:00,877 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:44:00,889 close: 1272.92 tenkan_prev: 1273.115 tenkan: 1273.185 kijun: 1272.665 senkou_a: 1265.2 senkou_b: 1266.355 chikou: 1272.96 close_chikou: 1266.88
+WARNING 2022-11-15 14:44:00,890 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:44:00,890 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:45:00,996 close: 1272.69 tenkan_prev: 1273.185 tenkan: 1273.5349999999999 kijun: 1272.665 senkou_a: 1265.2 senkou_b: 1266.355 chikou: 1272.92 close_chikou: 1268.65
+WARNING 2022-11-15 14:45:00,998 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:45:00,998 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:46:00,897 close: 1272.44 tenkan_prev: 1273.5349999999999 tenkan: 1273.385 kijun: 1272.8600000000001 senkou_a: 1265.0375 senkou_b: 1266.03 chikou: 1272.69 close_chikou: 1267.5
+WARNING 2022-11-15 14:46:00,897 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:46:00,898 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:47:00,804 close: 1271.97 tenkan_prev: 1273.385 tenkan: 1273.275 kijun: 1272.8600000000001 senkou_a: 1265.2225 senkou_b: 1265.9650000000001 chikou: 1272.44 close_chikou: 1267.98
+WARNING 2022-11-15 14:47:00,805 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:47:00,805 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:48:00,802 close: 1273.08 tenkan_prev: 1273.275 tenkan: 1272.885 kijun: 1272.8600000000001 senkou_a: 1265.325 senkou_b: 1265.325 chikou: 1271.97 close_chikou: 1269.36
+WARNING 2022-11-15 14:48:00,803 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 14:48:00,803 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 14:48:01,116 Symbol:  ETHUSD | Position:    1 | close price:  1273.08 | Side:  BUY 🔴 | Profits:  -2538.33 | Quantity:    1 🤑
+INFO 2022-11-15 14:49:00,024 close: 1272.08 tenkan_prev: 1272.885 tenkan: 1272.83 kijun: 1273.46 senkou_a: 1265.48 senkou_b: 1265.48 chikou: 1273.08 close_chikou: 1268.21
+WARNING 2022-11-15 14:49:00,025 CONDITIONS BUY: False, False, True, True, True
+WARNING 2022-11-15 14:49:00,025 CONDITIONS SELL: True, True, False, False, False
+INFO 2022-11-15 14:50:00,005 close: 1272.33 tenkan_prev: 1272.83 tenkan: 1272.615 kijun: 1274.5300000000002 senkou_a: 1265.5625 senkou_b: 1265.48 chikou: 1272.08 close_chikou: 1269.93
+WARNING 2022-11-15 14:50:00,007 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 14:50:00,007 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 14:51:00,008 close: 1271.65 tenkan_prev: 1272.615 tenkan: 1272.615 kijun: 1274.5300000000002 senkou_a: 1266.4675 senkou_b: 1265.9299999999998 chikou: 1272.33 close_chikou: 1273.46
+WARNING 2022-11-15 14:51:00,010 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:51:00,010 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:52:00,017 close: 1272.96 tenkan_prev: 1272.615 tenkan: 1272.615 kijun: 1274.5300000000002 senkou_a: 1266.5224999999998 senkou_b: 1265.9299999999998 chikou: 1271.65 close_chikou: 1273.89
+WARNING 2022-11-15 14:52:00,019 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:52:00,019 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:52:59,907 close: 1271.48 tenkan_prev: 1272.615 tenkan: 1272.545 kijun: 1274.5500000000002 senkou_a: 1267.1875 senkou_b: 1266.585 chikou: 1272.96 close_chikou: 1272.59
+WARNING 2022-11-15 14:52:59,908 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 14:52:59,908 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 14:53:00,835 close: 1271.48 tenkan_prev: 1272.615 tenkan: 1272.545 kijun: 1274.5500000000002 senkou_a: 1267.1875 senkou_b: 1266.585 chikou: 1272.96 close_chikou: 1272.59
+WARNING 2022-11-15 14:53:00,836 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 14:53:00,836 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 14:54:00,746 close: 1270.8 tenkan_prev: 1272.545 tenkan: 1272.225 kijun: 1274.23 senkou_a: 1268.6025 senkou_b: 1268.0 chikou: 1271.48 close_chikou: 1271.69
+WARNING 2022-11-15 14:54:00,746 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:54:00,747 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:55:00,629 close: 1270.8 tenkan_prev: 1272.225 tenkan: 1271.85 kijun: 1273.855 senkou_a: 1269.5 senkou_b: 1268.85 chikou: 1270.8 close_chikou: 1273.64
+WARNING 2022-11-15 14:55:00,631 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:55:00,631 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:56:00,554 close: 1271.69 tenkan_prev: 1271.85 tenkan: 1271.85 kijun: 1273.475 senkou_a: 1269.95 senkou_b: 1268.85 chikou: 1270.8 close_chikou: 1274.81
+WARNING 2022-11-15 14:56:00,555 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:56:00,555 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:57:00,455 close: 1272.52 tenkan_prev: 1271.85 tenkan: 1271.85 kijun: 1272.5149999999999 senkou_a: 1270.205 senkou_b: 1268.85 chikou: 1271.69 close_chikou: 1277.45
+WARNING 2022-11-15 14:57:00,456 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:57:00,457 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:58:00,534 close: 1273.72 tenkan_prev: 1271.85 tenkan: 1271.8600000000001 kijun: 1272.315 senkou_a: 1270.205 senkou_b: 1268.85 chikou: 1272.52 close_chikou: 1274.36
+WARNING 2022-11-15 14:58:00,535 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 14:58:00,536 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 14:59:00,875 close: 1272.96 tenkan_prev: 1271.8600000000001 tenkan: 1271.92 kijun: 1272.315 senkou_a: 1270.3025 senkou_b: 1268.85 chikou: 1273.72 close_chikou: 1273.49
+WARNING 2022-11-15 14:59:00,876 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 14:59:00,878 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 15:00:00,860 close: 1273.44 tenkan_prev: 1271.92 tenkan: 1272.1100000000001 kijun: 1272.315 senkou_a: 1271.4075 senkou_b: 1269.955 chikou: 1272.96 close_chikou: 1274.0
+WARNING 2022-11-15 15:00:00,861 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 15:00:00,861 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 15:01:00,102 close: 1272.79 tenkan_prev: 1272.1100000000001 tenkan: 1272.1100000000001 kijun: 1272.315 senkou_a: 1271.4075 senkou_b: 1269.955 chikou: 1273.44 close_chikou: 1272.24
+WARNING 2022-11-15 15:01:00,104 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 15:01:00,104 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 15:02:00,004 close: 1273.35 tenkan_prev: 1272.1100000000001 tenkan: 1272.1100000000001 kijun: 1272.315 senkou_a: 1271.7075 senkou_b: 1269.955 chikou: 1272.79 close_chikou: 1271.49
+WARNING 2022-11-15 15:02:00,006 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 15:02:00,006 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 15:03:00,400 close: 1273.29 tenkan_prev: 1272.1100000000001 tenkan: 1272.1100000000001 kijun: 1272.315 senkou_a: 1272.2425 senkou_b: 1269.955 chikou: 1273.35 close_chikou: 1272.78
+WARNING 2022-11-15 15:03:00,401 CONDITIONS BUY: True, False, True, True, True
+WARNING 2022-11-15 15:03:00,402 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 15:04:00,714 close: 1272.83 tenkan_prev: 1272.1100000000001 tenkan: 1272.41 kijun: 1272.315 senkou_a: 1272.2425 senkou_b: 1269.955 chikou: 1273.29 close_chikou: 1273.64
+WARNING 2022-11-15 15:04:00,716 CONDITIONS BUY: True, True, True, True, False
+WARNING 2022-11-15 15:04:00,717 CONDITIONS SELL: False, False, False, False, True
+INFO 2022-11-15 15:05:00,820 close: 1272.81 tenkan_prev: 1272.41 tenkan: 1272.955 kijun: 1272.1100000000001 senkou_a: 1272.2425 senkou_b: 1269.955 chikou: 1272.83 close_chikou: 1274.17
+WARNING 2022-11-15 15:05:00,822 CONDITIONS BUY: False, True, True, True, False
+WARNING 2022-11-15 15:05:00,822 CONDITIONS SELL: True, False, False, False, True
+INFO 2022-11-15 15:06:00,829 close: 1272.27 tenkan_prev: 1272.955 tenkan: 1273.13 kijun: 1272.1100000000001 senkou_a: 1272.27 senkou_b: 1269.955 chikou: 1272.81 close_chikou: 1273.31
+WARNING 2022-11-15 15:06:00,831 CONDITIONS BUY: False, True, False, True, False
+WARNING 2022-11-15 15:06:00,831 CONDITIONS SELL: True, False, False, False, True
+INFO 2022-11-15 15:07:00,826 close: 1273.33 tenkan_prev: 1273.13 tenkan: 1273.1950000000002 kijun: 1272.1100000000001 senkou_a: 1272.3875 senkou_b: 1270.12 chikou: 1272.27 close_chikou: 1273.39
+WARNING 2022-11-15 15:07:00,827 CONDITIONS BUY: False, True, True, True, False
+WARNING 2022-11-15 15:07:00,828 CONDITIONS SELL: True, False, False, False, True
+INFO 2022-11-15 15:08:00,129 close: 1272.98 tenkan_prev: 1273.1950000000002 tenkan: 1273.1950000000002 kijun: 1272.1100000000001 senkou_a: 1272.8425000000002 senkou_b: 1271.0300000000002 chikou: 1273.33 close_chikou: 1272.47
+WARNING 2022-11-15 15:08:00,129 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:08:00,129 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:09:00,060 close: 1273.16 tenkan_prev: 1273.1950000000002 tenkan: 1272.96 kijun: 1272.1100000000001 senkou_a: 1272.7075 senkou_b: 1271.1399999999999 chikou: 1272.98 close_chikou: 1272.89
+WARNING 2022-11-15 15:09:00,061 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:09:00,061 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:10:00,306 close: 1273.35 tenkan_prev: 1272.96 tenkan: 1272.96 kijun: 1272.1100000000001 senkou_a: 1272.2375000000002 senkou_b: 1271.16 chikou: 1273.16 close_chikou: 1272.96
+WARNING 2022-11-15 15:10:00,307 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:10:00,308 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:11:00,552 close: 1274.0 tenkan_prev: 1272.96 tenkan: 1273.49 kijun: 1272.405 senkou_a: 1272.1375 senkou_b: 1271.16 chikou: 1273.35 close_chikou: 1272.92
+WARNING 2022-11-15 15:11:00,554 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:11:00,554 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:12:01,112 close: 1274.88 tenkan_prev: 1273.49 tenkan: 1273.76 kijun: 1272.675 senkou_a: 1272.185 senkou_b: 1271.255 chikou: 1274.0 close_chikou: 1272.69
+WARNING 2022-11-15 15:12:01,113 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:12:01,113 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:13:00,625 close: 1275.99 tenkan_prev: 1273.76 tenkan: 1274.28 kijun: 1273.195 senkou_a: 1272.6350000000002 senkou_b: 1272.1550000000002 chikou: 1274.88 close_chikou: 1272.44
+WARNING 2022-11-15 15:13:00,626 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:13:00,626 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:14:00,003 close: 1274.54 tenkan_prev: 1274.28 tenkan: 1274.28 kijun: 1273.195 senkou_a: 1272.925 senkou_b: 1272.665 chikou: 1275.99 close_chikou: 1271.97
+WARNING 2022-11-15 15:14:00,005 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:14:00,005 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:15:00,212 close: 1274.48 tenkan_prev: 1274.28 tenkan: 1274.2849999999999 kijun: 1273.195 senkou_a: 1273.1 senkou_b: 1272.665 chikou: 1274.54 close_chikou: 1273.08
+WARNING 2022-11-15 15:15:00,213 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:15:00,214 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:16:00,466 close: 1274.53 tenkan_prev: 1274.2849999999999 tenkan: 1274.56 kijun: 1273.195 senkou_a: 1273.1225 senkou_b: 1272.8600000000001 chikou: 1274.48 close_chikou: 1272.08
+WARNING 2022-11-15 15:16:00,467 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:16:00,467 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:17:00,798 close: 1274.51 tenkan_prev: 1274.56 tenkan: 1274.6 kijun: 1273.195 senkou_a: 1273.0675 senkou_b: 1272.8600000000001 chikou: 1274.53 close_chikou: 1272.33
+WARNING 2022-11-15 15:17:00,799 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:17:00,799 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:18:00,022 close: 1274.11 tenkan_prev: 1274.6 tenkan: 1274.6 kijun: 1273.195 senkou_a: 1272.8725 senkou_b: 1272.8600000000001 chikou: 1274.51 close_chikou: 1271.65
+WARNING 2022-11-15 15:18:00,024 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 15:18:00,024 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 15:19:00,499 close: 1272.02 tenkan_prev: 1274.6 tenkan: 1274.3049999999998 kijun: 1273.195 senkou_a: 1273.145 senkou_b: 1273.46 chikou: 1274.11 close_chikou: 1272.96
+WARNING 2022-11-15 15:19:00,500 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 15:19:00,501 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-15 15:19:00,886 Symbol:  ETHUSD | Position:    2 | close price:  1272.02 | Side: SELL 🟢 | Profits:  -1266.31 | Quantity:    1 💵
+INFO 2022-11-15 15:20:00,908 close: 1271.58 tenkan_prev: 1274.3049999999998 tenkan: 1274.045 kijun: 1273.195 senkou_a: 1273.5725000000002 senkou_b: 1274.5300000000002 chikou: 1272.02 close_chikou: 1271.48
+WARNING 2022-11-15 15:20:00,909 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 15:20:00,910 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-15 15:21:00,916 close: 1272.23 tenkan_prev: 1274.045 tenkan: 1273.9 kijun: 1273.495 senkou_a: 1273.5725000000002 senkou_b: 1274.5300000000002 chikou: 1271.58 close_chikou: 1270.8
+WARNING 2022-11-15 15:21:00,917 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 15:21:00,917 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-15 15:22:00,933 close: 1273.95 tenkan_prev: 1273.9 tenkan: 1273.67 kijun: 1273.9 senkou_a: 1273.5725000000002 senkou_b: 1274.5300000000002 chikou: 1272.23 close_chikou: 1270.8
+WARNING 2022-11-15 15:22:00,934 CONDITIONS BUY: False, False, True, False, True
+WARNING 2022-11-15 15:22:00,935 CONDITIONS SELL: True, True, False, True, False
+INFO 2022-11-15 15:23:00,935 close: 1273.89 tenkan_prev: 1273.67 tenkan: 1273.255 kijun: 1273.9 senkou_a: 1273.5475000000001 senkou_b: 1274.5500000000002 chikou: 1273.95 close_chikou: 1271.69
+WARNING 2022-11-15 15:23:00,936 CONDITIONS BUY: True, False, True, False, True
+WARNING 2022-11-15 15:23:00,937 CONDITIONS SELL: False, True, False, True, False
+INFO 2022-11-15 15:24:00,940 close: 1272.27 tenkan_prev: 1273.255 tenkan: 1273.255 kijun: 1273.9 senkou_a: 1273.2275 senkou_b: 1274.23 chikou: 1273.89 close_chikou: 1272.52
+WARNING 2022-11-15 15:24:00,941 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 15:24:00,942 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-15 15:25:00,951 close: 1269.52 tenkan_prev: 1273.255 tenkan: 1271.875 kijun: 1272.52 senkou_a: 1272.8525 senkou_b: 1273.855 chikou: 1272.27 close_chikou: 1273.72
+WARNING 2022-11-15 15:25:00,953 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:25:00,953 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:26:01,016 close: 1268.82 tenkan_prev: 1271.875 tenkan: 1270.37 kijun: 1271.1399999999999 senkou_a: 1272.6625 senkou_b: 1273.475 chikou: 1269.52 close_chikou: 1272.96
+WARNING 2022-11-15 15:26:01,017 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:26:01,017 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:27:00,034 close: 1268.53 tenkan_prev: 1270.37 tenkan: 1270.31 kijun: 1271.1399999999999 senkou_a: 1272.1825 senkou_b: 1272.5149999999999 chikou: 1268.82 close_chikou: 1273.44
+WARNING 2022-11-15 15:27:00,034 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:27:00,034 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:28:00,022 close: 1269.48 tenkan_prev: 1270.31 tenkan: 1270.31 kijun: 1271.1399999999999 senkou_a: 1272.0875 senkou_b: 1272.315 chikou: 1268.53 close_chikou: 1272.79
+WARNING 2022-11-15 15:28:00,022 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:28:00,023 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:28:59,952 close: 1267.76 tenkan_prev: 1270.31 tenkan: 1270.31 kijun: 1271.1399999999999 senkou_a: 1272.1175 senkou_b: 1272.315 chikou: 1269.48 close_chikou: 1273.35
+WARNING 2022-11-15 15:28:59,953 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:28:59,953 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:29:00,873 close: 1267.76 tenkan_prev: 1270.31 tenkan: 1270.31 kijun: 1271.1399999999999 senkou_a: 1272.1175 senkou_b: 1272.315 chikou: 1269.48 close_chikou: 1273.35
+WARNING 2022-11-15 15:29:00,874 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:29:00,874 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:30:00,882 close: 1269.21 tenkan_prev: 1270.31 tenkan: 1270.31 kijun: 1271.1399999999999 senkou_a: 1272.2125 senkou_b: 1272.315 chikou: 1267.76 close_chikou: 1273.29
+WARNING 2022-11-15 15:30:00,883 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:30:00,884 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:31:00,891 close: 1267.79 tenkan_prev: 1270.31 tenkan: 1270.31 kijun: 1271.1399999999999 senkou_a: 1272.2125 senkou_b: 1272.315 chikou: 1269.21 close_chikou: 1272.83
+WARNING 2022-11-15 15:31:00,892 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:31:00,892 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:32:00,897 close: 1267.24 tenkan_prev: 1270.31 tenkan: 1269.97 kijun: 1271.1399999999999 senkou_a: 1272.2125 senkou_b: 1272.315 chikou: 1267.79 close_chikou: 1272.81
+WARNING 2022-11-15 15:32:00,898 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:32:00,898 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:33:01,105 close: 1263.73 tenkan_prev: 1269.97 tenkan: 1267.66 kijun: 1269.7649999999999 senkou_a: 1272.2125 senkou_b: 1272.315 chikou: 1267.24 close_chikou: 1272.27
+WARNING 2022-11-15 15:33:01,106 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:33:01,106 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:34:00,025 close: 1263.05 tenkan_prev: 1267.66 tenkan: 1266.48 kijun: 1269.085 senkou_a: 1272.3625000000002 senkou_b: 1272.315 chikou: 1263.73 close_chikou: 1273.33
+WARNING 2022-11-15 15:34:00,026 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:34:00,026 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:34:00,386 Symbol:  ETHUSD | Position:    1 | close price:  1263.05 | Side:  BUY 🔴 | Profits:  -2529.36 | Quantity:    1 🤑
+INFO 2022-11-15 15:35:00,413 close: 1261.38 tenkan_prev: 1266.48 tenkan: 1265.91 kijun: 1268.5149999999999 senkou_a: 1272.5325 senkou_b: 1272.1100000000001 chikou: 1263.05 close_chikou: 1272.98
+WARNING 2022-11-15 15:35:00,414 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:35:00,414 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:36:00,327 close: 1262.23 tenkan_prev: 1265.91 tenkan: 1265.56 kijun: 1268.165 senkou_a: 1272.6200000000001 senkou_b: 1272.1100000000001 chikou: 1261.38 close_chikou: 1273.16
+WARNING 2022-11-15 15:36:00,328 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:36:00,329 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:37:00,324 close: 1263.81 tenkan_prev: 1265.56 tenkan: 1264.655 kijun: 1268.165 senkou_a: 1272.6525000000001 senkou_b: 1272.1100000000001 chikou: 1262.23 close_chikou: 1273.35
+WARNING 2022-11-15 15:37:00,325 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:37:00,325 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:38:00,335 close: 1264.24 tenkan_prev: 1264.655 tenkan: 1264.475 kijun: 1268.165 senkou_a: 1272.6525000000001 senkou_b: 1272.1100000000001 chikou: 1263.81 close_chikou: 1274.0
+WARNING 2022-11-15 15:38:00,337 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:38:00,337 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:39:00,341 close: 1263.3 tenkan_prev: 1264.475 tenkan: 1264.4099999999999 kijun: 1267.935 senkou_a: 1272.535 senkou_b: 1272.1100000000001 chikou: 1264.24 close_chikou: 1274.88
+WARNING 2022-11-15 15:39:00,343 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:39:00,343 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:40:00,434 close: 1261.97 tenkan_prev: 1264.4099999999999 tenkan: 1264.37 kijun: 1267.52 senkou_a: 1272.535 senkou_b: 1272.1100000000001 chikou: 1263.3 close_chikou: 1275.99
+WARNING 2022-11-15 15:40:00,435 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:40:00,436 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:41:00,361 close: 1258.08 tenkan_prev: 1264.37 tenkan: 1262.45 kijun: 1266.275 senkou_a: 1272.9475 senkou_b: 1272.405 chikou: 1261.97 close_chikou: 1274.54
+WARNING 2022-11-15 15:41:00,362 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:41:00,363 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:42:00,377 close: 1259.7 tenkan_prev: 1262.45 tenkan: 1261.3 kijun: 1266.275 senkou_a: 1273.2175 senkou_b: 1272.675 chikou: 1258.08 close_chikou: 1274.48
+WARNING 2022-11-15 15:42:00,379 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:42:00,379 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:43:01,707 close: 1261.17 tenkan_prev: 1261.3 tenkan: 1260.935 kijun: 1266.15 senkou_a: 1273.7375 senkou_b: 1273.195 chikou: 1259.7 close_chikou: 1274.53
+WARNING 2022-11-15 15:43:01,708 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:43:01,708 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:44:00,694 close: 1260.68 tenkan_prev: 1260.935 tenkan: 1260.935 kijun: 1266.0900000000001 senkou_a: 1273.7375 senkou_b: 1273.195 chikou: 1261.17 close_chikou: 1274.51
+WARNING 2022-11-15 15:44:00,696 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:44:00,696 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:45:00,703 close: 1259.67 tenkan_prev: 1260.935 tenkan: 1260.905 kijun: 1266.06 senkou_a: 1273.7399999999998 senkou_b: 1273.195 chikou: 1260.68 close_chikou: 1274.11
+WARNING 2022-11-15 15:45:00,704 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:45:00,704 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:46:00,709 close: 1258.4 tenkan_prev: 1260.905 tenkan: 1260.905 kijun: 1266.06 senkou_a: 1273.8775 senkou_b: 1273.195 chikou: 1259.67 close_chikou: 1272.02
+WARNING 2022-11-15 15:46:00,711 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:46:00,711 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:47:00,844 close: 1259.72 tenkan_prev: 1260.905 tenkan: 1260.875 kijun: 1266.06 senkou_a: 1273.8975 senkou_b: 1273.195 chikou: 1258.4 close_chikou: 1271.58
+WARNING 2022-11-15 15:47:00,844 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:47:00,844 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:48:00,745 close: 1256.63 tenkan_prev: 1260.875 tenkan: 1259.83 kijun: 1265.4650000000001 senkou_a: 1273.8975 senkou_b: 1273.195 chikou: 1259.72 close_chikou: 1272.23
+WARNING 2022-11-15 15:48:00,746 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:48:00,746 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:49:00,725 close: 1259.67 tenkan_prev: 1259.83 tenkan: 1259.315 kijun: 1265.125 senkou_a: 1273.75 senkou_b: 1273.195 chikou: 1256.63 close_chikou: 1273.95
+WARNING 2022-11-15 15:49:00,726 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:49:00,727 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:50:00,730 close: 1257.96 tenkan_prev: 1259.315 tenkan: 1258.97 kijun: 1264.19 senkou_a: 1273.62 senkou_b: 1273.195 chikou: 1259.67 close_chikou: 1273.89
+WARNING 2022-11-15 15:50:00,732 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:50:00,732 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:51:00,639 close: 1255.39 tenkan_prev: 1258.97 tenkan: 1258.03 kijun: 1262.75 senkou_a: 1273.6975 senkou_b: 1273.495 chikou: 1257.96 close_chikou: 1272.27
+WARNING 2022-11-15 15:51:00,640 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:51:00,641 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:52:00,651 close: 1256.18 tenkan_prev: 1258.03 tenkan: 1258.03 kijun: 1262.75 senkou_a: 1273.785 senkou_b: 1273.9 chikou: 1255.39 close_chikou: 1269.52
+WARNING 2022-11-15 15:52:00,653 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:52:00,653 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:52:01,054 Symbol:  ETHUSD | Position:    2 | close price:  1256.18 | Side: SELL 🟢 | Profits:  -1273.18 | Quantity:    1 💵
+INFO 2022-11-15 15:53:00,052 close: 1257.22 tenkan_prev: 1258.03 tenkan: 1257.635 kijun: 1262.75 senkou_a: 1273.5775 senkou_b: 1273.9 chikou: 1256.18 close_chikou: 1268.82
+WARNING 2022-11-15 15:53:00,053 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:53:00,054 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:54:00,124 close: 1258.02 tenkan_prev: 1257.635 tenkan: 1257.635 kijun: 1261.8449999999998 senkou_a: 1273.5775 senkou_b: 1273.9 chikou: 1257.22 close_chikou: 1268.53
+WARNING 2022-11-15 15:54:00,125 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:54:00,125 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:55:00,066 close: 1259.29 tenkan_prev: 1257.635 tenkan: 1257.635 kijun: 1261.665 senkou_a: 1272.1975 senkou_b: 1272.52 chikou: 1258.02 close_chikou: 1269.48
+WARNING 2022-11-15 15:55:00,068 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:55:00,068 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:56:00,043 close: 1259.29 tenkan_prev: 1257.635 tenkan: 1257.42 kijun: 1261.6 senkou_a: 1270.7549999999999 senkou_b: 1271.1399999999999 chikou: 1259.29 close_chikou: 1267.76
+WARNING 2022-11-15 15:56:00,044 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:56:00,044 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:56:59,976 close: 1260.41 tenkan_prev: 1257.42 tenkan: 1257.42 kijun: 1261.56 senkou_a: 1270.725 senkou_b: 1271.1399999999999 chikou: 1259.29 close_chikou: 1269.21
+WARNING 2022-11-15 15:56:59,977 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:56:59,977 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:57:00,898 close: 1260.41 tenkan_prev: 1257.42 tenkan: 1257.42 kijun: 1261.56 senkou_a: 1270.725 senkou_b: 1271.1399999999999 chikou: 1259.29 close_chikou: 1269.21
+WARNING 2022-11-15 15:57:00,898 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:57:00,898 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:58:00,913 close: 1259.95 tenkan_prev: 1257.42 tenkan: 1257.42 kijun: 1260.885 senkou_a: 1270.725 senkou_b: 1271.1399999999999 chikou: 1260.41 close_chikou: 1267.79
+WARNING 2022-11-15 15:58:00,914 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:58:00,914 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 15:59:00,912 close: 1259.35 tenkan_prev: 1257.42 tenkan: 1257.42 kijun: 1259.735 senkou_a: 1270.725 senkou_b: 1271.1399999999999 chikou: 1259.95 close_chikou: 1267.24
+WARNING 2022-11-15 15:59:00,913 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 15:59:00,914 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:00:00,921 close: 1259.0 tenkan_prev: 1257.42 tenkan: 1257.9 kijun: 1259.37 senkou_a: 1270.725 senkou_b: 1271.1399999999999 chikou: 1259.35 close_chikou: 1263.73
+WARNING 2022-11-15 16:00:00,922 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:00:00,923 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:01:00,993 close: 1258.78 tenkan_prev: 1257.9 tenkan: 1258.28 kijun: 1259.37 senkou_a: 1270.725 senkou_b: 1271.1399999999999 chikou: 1259.0 close_chikou: 1263.05
+WARNING 2022-11-15 16:01:00,994 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:01:00,995 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:02:00,938 close: 1260.5 tenkan_prev: 1258.28 tenkan: 1258.6 kijun: 1259.37 senkou_a: 1270.5549999999998 senkou_b: 1271.1399999999999 chikou: 1258.78 close_chikou: 1261.38
+WARNING 2022-11-15 16:02:00,939 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:02:00,939 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:03:00,936 close: 1260.56 tenkan_prev: 1258.6 tenkan: 1259.38 kijun: 1259.37 senkou_a: 1268.7125 senkou_b: 1269.7649999999999 chikou: 1260.5 close_chikou: 1262.23
+WARNING 2022-11-15 16:03:00,937 CONDITIONS BUY: True, True, False, False, False
+WARNING 2022-11-15 16:03:00,938 CONDITIONS SELL: False, False, True, True, True
+INFO 2022-11-15 16:04:00,951 close: 1261.7 tenkan_prev: 1259.38 tenkan: 1260.245 kijun: 1259.34 senkou_a: 1267.7825 senkou_b: 1269.085 chikou: 1260.56 close_chikou: 1263.81
+WARNING 2022-11-15 16:04:00,953 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:04:00,953 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:05:00,957 close: 1261.32 tenkan_prev: 1260.245 tenkan: 1260.245 kijun: 1258.8899999999999 senkou_a: 1267.2125 senkou_b: 1268.5149999999999 chikou: 1261.7 close_chikou: 1264.24
+WARNING 2022-11-15 16:05:00,958 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:05:00,958 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:06:00,961 close: 1261.07 tenkan_prev: 1260.245 tenkan: 1260.245 kijun: 1258.375 senkou_a: 1266.8625 senkou_b: 1268.165 chikou: 1261.32 close_chikou: 1263.3
+WARNING 2022-11-15 16:06:00,962 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:06:00,962 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:07:00,961 close: 1261.95 tenkan_prev: 1260.245 tenkan: 1260.245 kijun: 1258.09 senkou_a: 1266.4099999999999 senkou_b: 1268.165 chikou: 1261.07 close_chikou: 1261.97
+WARNING 2022-11-15 16:07:00,962 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:07:00,962 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:08:01,019 close: 1262.31 tenkan_prev: 1260.245 tenkan: 1260.4050000000002 kijun: 1258.25 senkou_a: 1266.32 senkou_b: 1268.165 chikou: 1261.95 close_chikou: 1258.08
+WARNING 2022-11-15 16:08:01,021 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 16:08:01,021 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-15 16:08:59,939 close: 1260.2 tenkan_prev: 1260.4050000000002 tenkan: 1261.065 kijun: 1258.9099999999999 senkou_a: 1266.1725 senkou_b: 1267.935 chikou: 1262.31 close_chikou: 1259.7
+WARNING 2022-11-15 16:08:59,940 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 16:08:59,941 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-15 16:09:00,860 close: 1260.2 tenkan_prev: 1260.4050000000002 tenkan: 1261.065 kijun: 1258.9099999999999 senkou_a: 1266.1725 senkou_b: 1267.935 chikou: 1262.31 close_chikou: 1259.7
+WARNING 2022-11-15 16:09:00,860 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 16:09:00,860 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-15 16:10:00,869 close: 1259.89 tenkan_prev: 1261.065 tenkan: 1261.19 kijun: 1258.9099999999999 senkou_a: 1265.945 senkou_b: 1267.52 chikou: 1260.2 close_chikou: 1261.17
+WARNING 2022-11-15 16:10:00,871 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:10:00,871 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:11:00,879 close: 1258.94 tenkan_prev: 1261.19 tenkan: 1261.185 kijun: 1258.9099999999999 senkou_a: 1264.3625000000002 senkou_b: 1266.275 chikou: 1259.89 close_chikou: 1260.68
+WARNING 2022-11-15 16:11:00,881 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:11:00,881 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:12:00,886 close: 1258.3 tenkan_prev: 1261.185 tenkan: 1260.62 kijun: 1258.9099999999999 senkou_a: 1263.7875 senkou_b: 1266.275 chikou: 1258.94 close_chikou: 1259.67
+WARNING 2022-11-15 16:12:00,888 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:12:00,888 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:13:00,803 close: 1259.5 tenkan_prev: 1260.62 tenkan: 1260.62 kijun: 1258.9099999999999 senkou_a: 1263.5425 senkou_b: 1266.15 chikou: 1258.3 close_chikou: 1258.4
+WARNING 2022-11-15 16:13:00,804 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:13:00,804 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:14:00,715 close: 1258.73 tenkan_prev: 1260.62 tenkan: 1260.62 kijun: 1258.9099999999999 senkou_a: 1263.5125 senkou_b: 1266.0900000000001 chikou: 1259.5 close_chikou: 1259.72
+WARNING 2022-11-15 16:14:00,716 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:14:00,717 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:15:00,759 close: 1258.28 tenkan_prev: 1260.62 tenkan: 1260.62 kijun: 1258.9099999999999 senkou_a: 1263.4825 senkou_b: 1266.06 chikou: 1258.73 close_chikou: 1256.63
+WARNING 2022-11-15 16:15:00,760 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 16:15:00,760 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-15 16:16:00,705 close: 1259.33 tenkan_prev: 1260.62 tenkan: 1260.62 kijun: 1258.9099999999999 senkou_a: 1263.4825 senkou_b: 1266.06 chikou: 1258.28 close_chikou: 1259.67
+WARNING 2022-11-15 16:16:00,706 CONDITIONS BUY: False, True, False, False, False
+WARNING 2022-11-15 16:16:00,706 CONDITIONS SELL: True, False, True, True, True
+INFO 2022-11-15 16:17:00,608 close: 1259.89 tenkan_prev: 1260.62 tenkan: 1260.62 kijun: 1259.3899999999999 senkou_a: 1263.4675 senkou_b: 1266.06 chikou: 1259.33 close_chikou: 1257.96
+WARNING 2022-11-15 16:17:00,609 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-15 16:17:00,609 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-15 16:18:00,501 close: 1260.35 tenkan_prev: 1260.62 tenkan: 1259.2849999999999 kijun: 1259.77 senkou_a: 1262.6475 senkou_b: 1265.4650000000001 chikou: 1259.89 close_chikou: 1255.39
+WARNING 2022-11-15 16:18:00,501 CONDITIONS BUY: False, False, False, False, True
+WARNING 2022-11-15 16:18:00,501 CONDITIONS SELL: True, True, True, True, False
+INFO 2022-11-15 16:19:00,420 close: 1258.74 tenkan_prev: 1259.2849999999999 tenkan: 1259.2849999999999 kijun: 1260.0900000000001 senkou_a: 1262.22 senkou_b: 1265.125 chikou: 1260.35 close_chikou: 1256.18
+WARNING 2022-11-15 16:19:00,421 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 16:19:00,421 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-15 16:20:00,314 close: 1259.42 tenkan_prev: 1259.2849999999999 tenkan: 1259.2849999999999 kijun: 1260.62 senkou_a: 1261.58 senkou_b: 1264.19 chikou: 1258.74 close_chikou: 1257.22
+WARNING 2022-11-15 16:20:00,315 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 16:20:00,315 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-15 16:21:00,244 close: 1258.94 tenkan_prev: 1259.2849999999999 tenkan: 1259.495 kijun: 1260.62 senkou_a: 1260.3899999999999 senkou_b: 1262.75 chikou: 1259.42 close_chikou: 1258.02
+WARNING 2022-11-15 16:21:00,246 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 16:21:00,246 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-15 16:22:00,250 close: 1259.56 tenkan_prev: 1259.495 tenkan: 1259.495 kijun: 1260.62 senkou_a: 1260.3899999999999 senkou_b: 1262.75 chikou: 1258.94 close_chikou: 1259.29
+WARNING 2022-11-15 16:22:00,251 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:22:00,251 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:23:00,131 close: 1260.22 tenkan_prev: 1259.495 tenkan: 1259.495 kijun: 1260.62 senkou_a: 1260.1925 senkou_b: 1262.75 chikou: 1259.56 close_chikou: 1259.29
+WARNING 2022-11-15 16:23:00,133 CONDITIONS BUY: True, False, True, False, True
+WARNING 2022-11-15 16:23:00,133 CONDITIONS SELL: False, True, False, True, False
+INFO 2022-11-15 16:23:59,992 close: 1260.11 tenkan_prev: 1259.495 tenkan: 1259.5900000000001 kijun: 1260.62 senkou_a: 1259.7399999999998 senkou_b: 1261.8449999999998 chikou: 1260.22 close_chikou: 1260.41
+WARNING 2022-11-15 16:23:59,993 CONDITIONS BUY: True, False, True, False, False
+WARNING 2022-11-15 16:23:59,993 CONDITIONS SELL: False, True, False, True, True
+INFO 2022-11-15 16:25:00,159 close: 1259.47 tenkan_prev: 1259.5900000000001 tenkan: 1259.6399999999999 kijun: 1260.62 senkou_a: 1259.65 senkou_b: 1261.665 chikou: 1260.11 close_chikou: 1259.95
+WARNING 2022-11-15 16:25:00,161 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 16:25:00,161 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-15 16:26:00,054 close: 1258.46 tenkan_prev: 1259.6399999999999 tenkan: 1259.6100000000001 kijun: 1260.62 senkou_a: 1259.51 senkou_b: 1261.6 chikou: 1259.47 close_chikou: 1259.35
+WARNING 2022-11-15 16:26:00,056 CONDITIONS BUY: True, False, False, False, True
+WARNING 2022-11-15 16:26:00,056 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-15 16:27:00,053 close: 1257.77 tenkan_prev: 1259.6100000000001 tenkan: 1258.975 kijun: 1260.62 senkou_a: 1259.49 senkou_b: 1261.56 chikou: 1258.46 close_chikou: 1259.0
+WARNING 2022-11-15 16:27:00,054 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:27:00,055 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:28:00,054 close: 1257.97 tenkan_prev: 1258.975 tenkan: 1258.925 kijun: 1260.62 senkou_a: 1259.1525000000001 senkou_b: 1260.885 chikou: 1257.77 close_chikou: 1258.78
+WARNING 2022-11-15 16:28:00,055 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:28:00,055 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:29:00,125 close: 1257.97 tenkan_prev: 1258.925 tenkan: 1258.925 kijun: 1260.62 senkou_a: 1258.5774999999999 senkou_b: 1259.735 chikou: 1257.97 close_chikou: 1260.5
+WARNING 2022-11-15 16:29:00,127 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:29:00,127 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:30:00,069 close: 1258.31 tenkan_prev: 1258.925 tenkan: 1258.925 kijun: 1260.62 senkou_a: 1258.635 senkou_b: 1259.37 chikou: 1257.97 close_chikou: 1260.56
+WARNING 2022-11-15 16:30:00,070 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:30:00,071 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:31:00,083 close: 1257.72 tenkan_prev: 1258.925 tenkan: 1258.7150000000001 kijun: 1260.4250000000002 senkou_a: 1258.8249999999998 senkou_b: 1259.37 chikou: 1258.31 close_chikou: 1261.7
+WARNING 2022-11-15 16:31:00,085 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:31:00,085 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:31:59,981 close: 1257.56 tenkan_prev: 1258.7150000000001 tenkan: 1258.67 kijun: 1260.4250000000002 senkou_a: 1258.985 senkou_b: 1259.37 chikou: 1257.72 close_chikou: 1261.32
+WARNING 2022-11-15 16:31:59,982 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:31:59,983 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:32:00,897 close: 1257.56 tenkan_prev: 1258.7150000000001 tenkan: 1258.67 kijun: 1260.4250000000002 senkou_a: 1258.985 senkou_b: 1259.37 chikou: 1257.72 close_chikou: 1261.32
+WARNING 2022-11-15 16:32:00,898 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:32:00,898 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:33:00,911 close: 1258.27 tenkan_prev: 1258.67 tenkan: 1258.67 kijun: 1260.4250000000002 senkou_a: 1259.375 senkou_b: 1259.37 chikou: 1257.56 close_chikou: 1261.07
+WARNING 2022-11-15 16:33:00,913 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:33:00,913 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:33:01,205 Symbol:  ETHUSD | Position:    1 | close price:  1258.27 | Side:  BUY 🔴 | Profits:  -2531.45 | Quantity:    1 🤑
+INFO 2022-11-15 16:34:00,091 close: 1256.47 tenkan_prev: 1258.67 tenkan: 1257.835 kijun: 1259.9250000000002 senkou_a: 1259.7925 senkou_b: 1259.34 chikou: 1258.27 close_chikou: 1261.95
+WARNING 2022-11-15 16:34:00,092 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:34:00,092 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:35:00,000 close: 1255.36 tenkan_prev: 1257.835 tenkan: 1256.165 kijun: 1257.13 senkou_a: 1259.5674999999999 senkou_b: 1258.8899999999999 chikou: 1256.47 close_chikou: 1262.31
+WARNING 2022-11-15 16:35:00,002 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:35:00,002 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:36:00,086 close: 1254.6 tenkan_prev: 1256.165 tenkan: 1256.065 kijun: 1257.13 senkou_a: 1259.31 senkou_b: 1258.375 chikou: 1255.36 close_chikou: 1260.2
+WARNING 2022-11-15 16:36:00,088 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:36:00,088 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:37:00,013 close: 1255.91 tenkan_prev: 1256.065 tenkan: 1256.065 kijun: 1257.13 senkou_a: 1259.1675 senkou_b: 1258.09 chikou: 1254.6 close_chikou: 1259.89
+WARNING 2022-11-15 16:37:00,015 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-15 16:37:00,015 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-15 16:38:00,024 close: 1259.65 tenkan_prev: 1256.065 tenkan: 1256.475 kijun: 1257.13 senkou_a: 1259.3275 senkou_b: 1258.25 chikou: 1255.91 close_chikou: 1258.94
+WARNING 2022-11-15 16:38:00,025 CONDITIONS BUY: True, False, True, True, False
+WARNING 2022-11-15 16:38:00,025 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 16:39:00,019 close: 1259.42 tenkan_prev: 1256.475 tenkan: 1257.0349999999999 kijun: 1257.13 senkou_a: 1259.9875 senkou_b: 1258.9099999999999 chikou: 1259.65 close_chikou: 1258.3
+WARNING 2022-11-15 16:39:00,020 CONDITIONS BUY: True, False, False, True, True
+WARNING 2022-11-15 16:39:00,021 CONDITIONS SELL: False, True, True, False, False
+INFO 2022-11-15 16:39:00,307 Symbol:  ETHUSD | Position:    2 | close price:  1259.42 | Side:  BUY 🔴 | Profits:  -3790.87 | Quantity:    1 🤑
+INFO 2022-11-15 16:40:00,242 close: 1261.09 tenkan_prev: 1257.0349999999999 tenkan: 1257.7350000000001 kijun: 1257.7350000000001 senkou_a: 1260.05 senkou_b: 1258.9099999999999 chikou: 1259.42 close_chikou: 1259.5
+WARNING 2022-11-15 16:40:00,242 CONDITIONS BUY: True, True, True, True, False
+WARNING 2022-11-15 16:40:00,242 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-11-15 16:41:00,136 close: 1260.69 tenkan_prev: 1257.7350000000001 tenkan: 1257.7350000000001 kijun: 1257.7350000000001 senkou_a: 1260.0475 senkou_b: 1258.9099999999999 chikou: 1261.09 close_chikou: 1258.73
+WARNING 2022-11-15 16:41:00,138 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:41:00,138 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 16:42:00,050 close: 1261.18 tenkan_prev: 1257.7350000000001 tenkan: 1257.7350000000001 kijun: 1257.7350000000001 senkou_a: 1259.7649999999999 senkou_b: 1258.9099999999999 chikou: 1260.69 close_chikou: 1258.28
+WARNING 2022-11-15 16:42:00,051 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:42:00,052 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 16:43:00,115 close: 1261.31 tenkan_prev: 1257.7350000000001 tenkan: 1257.8 kijun: 1257.8 senkou_a: 1259.7649999999999 senkou_b: 1258.9099999999999 chikou: 1261.18 close_chikou: 1259.33
+WARNING 2022-11-15 16:43:00,117 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:43:00,117 CONDITIONS SELL: False, True, False, False, False
+INFO 2022-11-15 16:44:00,004 close: 1262.14 tenkan_prev: 1257.8 tenkan: 1258.275 kijun: 1257.8 senkou_a: 1259.7649999999999 senkou_b: 1258.9099999999999 chikou: 1261.31 close_chikou: 1259.89
+WARNING 2022-11-15 16:44:00,005 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:44:00,006 CONDITIONS SELL: False, False, False, False, False
+INFO 2022-11-15 16:45:01,289 close: 1261.32 tenkan_prev: 1258.275 tenkan: 1258.275 kijun: 1257.8 senkou_a: 1259.7649999999999 senkou_b: 1258.9099999999999 chikou: 1262.14 close_chikou: 1260.35
+WARNING 2022-11-15 16:45:01,290 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:45:01,291 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:46:00,288 close: 1262.21 tenkan_prev: 1258.275 tenkan: 1259.965 kijun: 1258.655 senkou_a: 1259.7649999999999 senkou_b: 1258.9099999999999 chikou: 1261.32 close_chikou: 1258.74
+WARNING 2022-11-15 16:46:00,288 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:46:00,289 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:47:00,288 close: 1263.05 tenkan_prev: 1259.965 tenkan: 1261.79 kijun: 1258.875 senkou_a: 1260.0049999999999 senkou_b: 1259.3899999999999 chikou: 1262.21 close_chikou: 1259.42
+WARNING 2022-11-15 16:47:00,288 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:47:00,289 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:48:00,299 close: 1263.15 tenkan_prev: 1261.79 tenkan: 1261.79 kijun: 1258.875 senkou_a: 1259.5275 senkou_b: 1259.77 chikou: 1263.05 close_chikou: 1258.94
+WARNING 2022-11-15 16:48:00,300 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:48:00,300 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:48:00,694 Symbol:  ETHUSD | Position:    3 | close price:  1263.15 | Side: SELL 🟢 | Profits:  -2527.72 | Quantity:    1 💵
+INFO 2022-11-15 16:49:00,721 close: 1262.53 tenkan_prev: 1261.79 tenkan: 1262.32 kijun: 1258.875 senkou_a: 1259.6875 senkou_b: 1260.0900000000001 chikou: 1263.15 close_chikou: 1259.56
+WARNING 2022-11-15 16:49:00,723 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:49:00,723 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:50:00,789 close: 1261.91 tenkan_prev: 1262.32 tenkan: 1262.32 kijun: 1258.875 senkou_a: 1259.9524999999999 senkou_b: 1260.62 chikou: 1262.53 close_chikou: 1260.22
+WARNING 2022-11-15 16:50:00,790 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:50:00,790 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:51:00,726 close: 1260.68 tenkan_prev: 1262.32 tenkan: 1262.44 kijun: 1258.875 senkou_a: 1260.0575 senkou_b: 1260.62 chikou: 1261.91 close_chikou: 1260.11
+WARNING 2022-11-15 16:51:00,728 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:51:00,728 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:52:00,626 close: 1261.14 tenkan_prev: 1262.44 tenkan: 1262.3 kijun: 1258.875 senkou_a: 1260.0575 senkou_b: 1260.62 chikou: 1260.68 close_chikou: 1259.47
+WARNING 2022-11-15 16:52:00,626 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:52:00,626 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:53:00,577 close: 1261.39 tenkan_prev: 1262.3 tenkan: 1262.3 kijun: 1258.875 senkou_a: 1260.0575 senkou_b: 1260.62 chikou: 1261.14 close_chikou: 1258.46
+WARNING 2022-11-15 16:53:00,577 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:53:00,577 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:54:00,494 close: 1260.96 tenkan_prev: 1262.3 tenkan: 1262.3 kijun: 1258.875 senkou_a: 1260.105 senkou_b: 1260.62 chikou: 1261.39 close_chikou: 1257.77
+WARNING 2022-11-15 16:54:00,494 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:54:00,495 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:55:00,427 close: 1260.54 tenkan_prev: 1262.3 tenkan: 1262.3 kijun: 1258.875 senkou_a: 1260.1299999999999 senkou_b: 1260.62 chikou: 1260.96 close_chikou: 1257.97
+WARNING 2022-11-15 16:55:00,428 CONDITIONS BUY: False, True, True, False, True
+WARNING 2022-11-15 16:55:00,428 CONDITIONS SELL: True, False, False, True, False
+INFO 2022-11-15 16:56:00,378 close: 1261.09 tenkan_prev: 1262.3 tenkan: 1261.715 kijun: 1258.875 senkou_a: 1260.115 senkou_b: 1260.62 chikou: 1260.54 close_chikou: 1257.97
+WARNING 2022-11-15 16:56:00,378 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:56:00,378 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-15 16:57:00,432 close: 1262.01 tenkan_prev: 1261.715 tenkan: 1261.695 kijun: 1258.875 senkou_a: 1259.7975 senkou_b: 1260.62 chikou: 1261.09 close_chikou: 1258.31
+WARNING 2022-11-15 16:57:00,433 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-15 16:57:00,433 CONDITIONS SELL: True, False, False, False, False

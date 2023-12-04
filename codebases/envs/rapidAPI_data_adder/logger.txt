@@ -1,0 +1,156 @@
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:23 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:58:52 
+	Error: [Errno 2] No such file or directory: 'data/jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:59:56 
+	Error: [Errno 2] No such file or directory: 'data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:59:56 
+	Error: [Errno 2] No such file or directory: 'data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:59:56 
+	Error: [Errno 2] No such file or directory: 'data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:59:56 
+	Error: [Errno 2] No such file or directory: 'data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 10:59:56 
+	Error: [Errno 2] No such file or directory: 'data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 11:05:00 
+	Error: [Errno 2] No such file or directory: 'C:\\Users\\tashin\\Desktop\\AriSafTech Projects\\1. trading_bot\\1. FOREX\\auto_trade\\data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 11:05:00 
+	Error: [Errno 2] No such file or directory: 'C:\\Users\\tashin\\Desktop\\AriSafTech Projects\\1. trading_bot\\1. FOREX\\auto_trade\\data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 11:05:00 
+	Error: [Errno 2] No such file or directory: 'C:\\Users\\tashin\\Desktop\\AriSafTech Projects\\1. trading_bot\\1. FOREX\\auto_trade\\data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 11:05:00 
+	Error: [Errno 2] No such file or directory: 'C:\\Users\\tashin\\Desktop\\AriSafTech Projects\\1. trading_bot\\1. FOREX\\auto_trade\\data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 11:05:00 
+	Error: [Errno 2] No such file or directory: 'C:\\Users\\tashin\\Desktop\\AriSafTech Projects\\1. trading_bot\\1. FOREX\\auto_trade\\data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 11:05:00 
+	Error: [Errno 2] No such file or directory: 'C:\\Users\\tashin\\Desktop\\AriSafTech Projects\\1. trading_bot\\1. FOREX\\auto_trade\\data\\jpy_usd.csv'
+
+Date: 2021-11-19  Time: 11:05:00 
+	Error: [Errno 2] No such file or directory: 'C:\\Users\\tashin\\Desktop\\AriSafTech Projects\\1. trading_bot\\1. FOREX\\auto_trade\\data\\jpy_usd.csv'
+

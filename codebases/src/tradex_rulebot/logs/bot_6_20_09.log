@@ -1,0 +1,595 @@
+                          exchange     open  ...  trade_count         vwap
+timestamp                                    ...                          
+2022-09-20 05:00:00+00:00     CBSE  1356.85  ...          269  1356.182745
+2022-09-20 05:01:00+00:00     CBSE  1356.30  ...          202  1357.649860
+2022-09-20 05:02:00+00:00     CBSE  1357.91  ...          356  1357.613303
+2022-09-20 05:03:00+00:00     CBSE  1357.99  ...          272  1357.356668
+2022-09-20 05:04:00+00:00     CBSE  1357.56  ...          277  1357.905377
+...                            ...      ...  ...          ...          ...
+2022-09-20 07:44:00+00:00     CBSE  1356.16  ...          360  1356.050106
+2022-09-20 07:45:00+00:00     CBSE  1355.49  ...          821  1353.437186
+2022-09-20 07:46:00+00:00     CBSE  1353.84  ...          703  1352.902060
+2022-09-20 07:47:00+00:00     CBSE  1355.56  ...          469  1357.343884
+2022-09-20 07:48:00+00:00     CBSE  1358.34  ...          531  1360.041076
+
+[169 rows x 8 columns]
+Fast 1359.5175  /  Slow: 1363.2704166666667
+Position: 0 / Should Buy: False
+Sleep for 25
+********************
+Fast 1359.5175  /  Slow: 1363.2704166666667
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1359.1983333333333  /  Slow: 1362.8620833333332
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.6933333333334  /  Slow: 1362.4295833333333
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.36  /  Slow: 1362.0529166666668
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.2833333333333  /  Slow: 1361.7129166666666
+Position: 0 / Should Buy: False
+Sleep for 0
+********************
+Fast 1358.2775000000001  /  Slow: 1361.3620833333332
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.2866666666666  /  Slow: 1361.3666666666666
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.4141666666667  /  Slow: 1361.0733333333333
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.6575  /  Slow: 1360.7591666666665
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.6175  /  Slow: 1360.3966666666668
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.9433333333334  /  Slow: 1360.0395833333334
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1359.1225000000002  /  Slow: 1359.76875
+Position: 0 / Should Buy: False
+Sleep for 0
+********************
+Fast 1359.1583333333333  /  Slow: 1359.5291666666665
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1359.1583333333333  /  Slow: 1359.5291666666665
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.9741666666666  /  Slow: 1359.2458333333332
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.8458333333333  /  Slow: 1359.0220833333335
+Position: 0 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.8841666666667  /  Slow: 1358.78875
+Position: 0 / Should Buy: True
+Symbol: ETHUSD / Side: BUY / Quantity: 1
+Sleep for 59
+********************
+Fast 1358.7858333333334  /  Slow: 1358.5729166666667
+Position: 0.9975 / Should Buy: True
+Symbol: ETHUSD / Side: BUY / Quantity: 1
+Sleep for 59
+********************
+Fast 1358.5933333333332  /  Slow: 1358.4383333333333
+Position: 1.995 / Should Buy: True
+Symbol: ETHUSD / Side: BUY / Quantity: 1
+Sleep for 59
+********************
+Fast 1358.1583333333333  /  Slow: 1358.2862499999999
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.155  /  Slow: 1358.2845833333333
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.9475  /  Slow: 1358.3025
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.9666666666665  /  Slow: 1358.2920833333333
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.8733333333332  /  Slow: 1358.4083333333333
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.6674999999998  /  Slow: 1358.395
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.4241666666667  /  Slow: 1358.29125
+Position: 2.9925 / Should Buy: False
+Sleep for 0
+********************
+Fast 1357.2658333333331  /  Slow: 1358.1200000000001
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.2658333333331  /  Slow: 1358.1200000000001
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.9408333333333  /  Slow: 1357.8933333333332
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.6508333333334  /  Slow: 1357.7675
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.4408333333333  /  Slow: 1357.6133333333335
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.2208333333333  /  Slow: 1357.4070833333333
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1355.97  /  Slow: 1357.14875
+Position: 2.9925 / Should Buy: False
+Sleep for 0
+********************
+Fast 1355.9183333333333  /  Slow: 1357.0366666666666
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.0658333333333  /  Slow: 1357.0066666666667
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.0658333333333  /  Slow: 1357.0066666666667
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.1125  /  Slow: 1357.0395833333332
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.1133333333335  /  Slow: 1356.993333333333
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.2125  /  Slow: 1356.94
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.2408333333333  /  Slow: 1356.8325
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.3758333333333  /  Slow: 1356.8208333333334
+Position: 2.9925 / Should Buy: False
+Sleep for 0
+********************
+Fast 1356.5233333333333  /  Slow: 1356.7320833333333
+Position: 2.9925 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.7641666666666  /  Slow: 1356.7075
+Position: 2.9925 / Should Buy: True
+Symbol: ETHUSD / Side: BUY / Quantity: 1
+Sleep for 59
+********************
+Fast 1357.2  /  Slow: 1356.8204166666667
+Position: 3.99 / Should Buy: True
+Symbol: ETHUSD / Side: BUY / Quantity: 1
+Sleep for 58
+********************
+Fast 1357.2  /  Slow: 1356.8204166666667
+Position: 4.9875 / Should Buy: True
+Symbol: ETHUSD / Side: BUY / Quantity: 1
+Sleep for 59
+********************
+Fast 1357.6725  /  Slow: 1356.9466666666665
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1358.25  /  Slow: 1357.11
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1358.7583333333334  /  Slow: 1357.3383333333334
+Position: 5.985 / Should Buy: True
+Sleep for 0
+********************
+Fast 1358.9775  /  Slow: 1357.5216666666665
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1358.9558333333332  /  Slow: 1357.5108333333333
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1359.5583333333334  /  Slow: 1357.8354166666666
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1360.1441666666667  /  Slow: 1358.12875
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1360.89  /  Slow: 1358.55125
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1361.5558333333333  /  Slow: 1358.8983333333333
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1361.9991666666667  /  Slow: 1359.1875
+Position: 5.985 / Should Buy: True
+Sleep for 0
+********************
+Fast 1362.4  /  Slow: 1359.4545833333334
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1362.6225  /  Slow: 1359.6933333333334
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1362.6225  /  Slow: 1359.6933333333334
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1362.765  /  Slow: 1359.9824999999998
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.0258333333334  /  Slow: 1360.3491666666666
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.1758333333335  /  Slow: 1360.7129166666666
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.2391666666665  /  Slow: 1360.99875
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.4733333333334  /  Slow: 1361.2145833333334
+Position: 5.985 / Should Buy: True
+Sleep for 0
+********************
+Fast 1363.5591666666667  /  Slow: 1361.55875
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.5175000000002  /  Slow: 1361.8308333333332
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.5175000000002  /  Slow: 1361.8308333333332
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.2508333333333  /  Slow: 1362.0704166666667
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.0841666666668  /  Slow: 1362.32
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1363.0191666666667  /  Slow: 1362.5091666666667
+Position: 5.985 / Should Buy: True
+Sleep for 59
+********************
+Fast 1362.4633333333334  /  Slow: 1362.5429166666665
+Position: 5.985 / Should Buy: False
+Symbol: ETHUSD / Side: SELL / Quantity: 1
+Sleep for 58
+********************
+Fast 1362.445  /  Slow: 1362.53375
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1362.2333333333333  /  Slow: 1362.4991666666667
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1361.8166666666666  /  Slow: 1362.42125
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1361.4641666666666  /  Slow: 1362.32
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1361.0158333333331  /  Slow: 1362.1275
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1360.6266666666668  /  Slow: 1362.05
+Position: 4.985 / Should Buy: False
+Sleep for 0
+********************
+Fast 1360.1991666666665  /  Slow: 1361.8708333333334
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1359.7808333333332  /  Slow: 1361.6491666666666
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1359.7808333333332  /  Slow: 1361.6491666666666
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1359.361666666667  /  Slow: 1361.3062499999999
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1359.0033333333333  /  Slow: 1361.04375
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.7  /  Slow: 1360.8595833333331
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.5900000000001  /  Slow: 1360.6954166666667
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.67  /  Slow: 1360.5575
+Position: 4.985 / Should Buy: False
+Sleep for 0
+********************
+Fast 1358.4608333333333  /  Slow: 1360.3470833333333
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.3733333333334  /  Slow: 1360.095
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.3591666666669  /  Slow: 1360.0879166666666
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.22  /  Slow: 1359.8420833333332
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.1850000000002  /  Slow: 1359.6004166666667
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1358.1425  /  Slow: 1359.3845833333332
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.9333333333334  /  Slow: 1359.0683333333334
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.8100000000002  /  Slow: 1358.7954166666666
+Position: 4.985 / Should Buy: False
+Sleep for 0
+********************
+Fast 1357.6416666666667  /  Slow: 1358.5016666666668
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.445  /  Slow: 1358.2241666666666
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.2083333333333  /  Slow: 1357.9541666666667
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.2083333333333  /  Slow: 1357.9541666666667
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1357.0625  /  Slow: 1357.82625
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.845  /  Slow: 1357.7575
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.725  /  Slow: 1357.5858333333333
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.5533333333333  /  Slow: 1357.45625
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1356.4108333333331  /  Slow: 1357.3154166666666
+Position: 4.985 / Should Buy: False
+Sleep for 0
+********************
+Fast 1356.2524999999998  /  Slow: 1357.21875
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1355.8899999999999  /  Slow: 1357.01625
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1355.8899999999999  /  Slow: 1357.01625
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1355.6433333333334  /  Slow: 1356.7883333333334
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1355.41  /  Slow: 1356.6100000000001
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1355.3  /  Slow: 1356.4708333333335
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1355.1616666666666  /  Slow: 1356.3033333333335
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1354.875  /  Slow: 1356.0416666666667
+Position: 4.985 / Should Buy: False
+Sleep for 0
+********************
+Fast 1354.1266666666668  /  Slow: 1355.5945833333333
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.7625  /  Slow: 1355.30375
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.4991666666667  /  Slow: 1355.1120833333334
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.4991666666667  /  Slow: 1355.1120833333334
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.2766666666666  /  Slow: 1354.915
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.0191666666667  /  Slow: 1354.715
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1352.6975  /  Slow: 1354.4791666666667
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1352.8483333333334  /  Slow: 1354.3691666666666
+Position: 4.985 / Should Buy: False
+Sleep for 0
+********************
+Fast 1353.0341666666666  /  Slow: 1354.3387500000001
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.1000000000001  /  Slow: 1354.2549999999999
+Position: 4.985 / Should Buy: False
+Sleep for 58
+********************
+Fast 1353.0825  /  Slow: 1354.24625
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.0516666666667  /  Slow: 1354.1758333333335
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1352.9116666666666  /  Slow: 1354.0366666666666
+Position: 4.985 / Should Buy: False
+Sleep for 0
+********************
+Fast 1352.8608333333334  /  Slow: 1353.8679166666668
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.2141666666666  /  Slow: 1353.6704166666666
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.2341666666666  /  Slow: 1353.4983333333332
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.2341666666666  /  Slow: 1353.4983333333332
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.3491666666666  /  Slow: 1353.4241666666667
+Position: 4.985 / Should Buy: False
+Sleep for 59
+********************
+Fast 1353.2841666666668  /  Slow: 1353.2804166666667
+Position: 4.985 / Should Buy: True
+Symbol: ETHUSD / Side: BUY / Quantity: 1
+Sleep for 59
+********************
+Fast 1353.3483333333334  /  Slow: 1353.18375
+Position: 5.9825 / Should Buy: True
+Sleep for 59
+********************
+Fast 1353.2775  /  Slow: 1353.0629166666668
+Position: 5.9825 / Should Buy: True
+Sleep for 59
+********************
+Fast 1352.7341666666666  /  Slow: 1352.8841666666667
+Position: 5.9825 / Should Buy: False
+Symbol: ETHUSD / Side: SELL / Quantity: 1
+Sleep for 58
+********************
+Fast 1352.7191666666665  /  Slow: 1352.8766666666668
+Position: 4.9825 / Should Buy: False
+Sleep for 0
+********************
+Fast 1352.1708333333333  /  Slow: 1352.6266666666666
+Position: 4.9825 / Should Buy: False
+Sleep for 59
+********************
+Fast 1351.7616666666665  /  Slow: 1352.4066666666665
+Position: 4.9825 / Should Buy: False
+Sleep for 59
+********************
+Fast 1351.7616666666665  /  Slow: 1352.4066666666665
+Position: 4.9825 / Should Buy: False
+Sleep for 59
+********************
+Fast 1351.6925  /  Slow: 1352.3020833333333
+Position: 4.9825 / Should Buy: False
+Sleep for 59
+********************
+Fast 1351.635  /  Slow: 1352.2479166666665
+Position: 4.9825 / Should Buy: False
+Sleep for 59
+********************
+Fast 1351.5991666666666  /  Slow: 1352.40625
+Position: 4.9825 / Should Buy: False
+Sleep for 59
+********************
+Fast 1351.5658333333333  /  Slow: 1352.4
+Position: 4.9825 / Should Buy: False
+Sleep for 0
+********************
+Fast 1351.3825  /  Slow: 1352.3658333333333
+Position: 4.9825 / Should Buy: False
+Sleep for 57
+********************
+Fast 1351.3825  /  Slow: 1352.3658333333333
+Position: 4.9825 / Should Buy: False
+Sleep for 0
+********************
+Fast 1351.2224999999999  /  Slow: 1352.2533333333333
+Position: 4.9825 / Should Buy: False
+Sleep for 59

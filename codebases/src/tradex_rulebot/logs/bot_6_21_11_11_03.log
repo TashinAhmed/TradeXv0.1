@@ -1,0 +1,225 @@
+INFO 2022-11-21 11:03:18,336 close: 1127.74 tenkan_prev: 1126.835 tenkan: 1126.835 kijun: 1127.145 senkou_a: 1131.26 senkou_b: 1132.5549999999998 chikou: 1126.11 close_chikou: 1129.32
+WARNING 2022-11-21 11:03:18,336 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-11-21 11:03:18,337 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-21 11:04:02,852 close: 1128.7 tenkan_prev: 1126.835 tenkan: 1127.29 kijun: 1127.29 senkou_a: 1131.0524999999998 senkou_b: 1132.5549999999998 chikou: 1127.75 close_chikou: 1128.31
+WARNING 2022-11-21 11:04:02,854 CONDITIONS BUY: True, True, False, False, False
+WARNING 2022-11-21 11:04:02,854 CONDITIONS SELL: False, True, True, True, True
+INFO 2022-11-21 11:05:03,330 close: 1129.29 tenkan_prev: 1127.29 tenkan: 1127.595 kijun: 1127.595 senkou_a: 1130.9899999999998 senkou_b: 1132.5549999999998 chikou: 1128.7 close_chikou: 1128.03
+WARNING 2022-11-21 11:05:03,332 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-21 11:05:03,332 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-21 11:06:02,720 close: 1128.74 tenkan_prev: 1127.595 tenkan: 1127.595 kijun: 1127.595 senkou_a: 1131.0575 senkou_b: 1132.5549999999998 chikou: 1129.29 close_chikou: 1128.63
+WARNING 2022-11-21 11:06:02,722 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-21 11:06:02,722 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-21 11:06:03,007 Symbol:  ETHUSD | Position:    0 | close price:  1128.74 | Side:  BUY 🔴 | Profits:  -1128.74 | Quantity:    1 🤑
+INFO 2022-11-21 11:07:02,431 close: 1128.83 tenkan_prev: 1127.595 tenkan: 1127.595 kijun: 1127.595 senkou_a: 1131.0575 senkou_b: 1132.5549999999998 chikou: 1128.74 close_chikou: 1127.81
+WARNING 2022-11-21 11:07:02,432 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-21 11:07:02,432 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-21 11:07:02,720 Symbol:  ETHUSD | Position:    1 | close price:  1128.83 | Side:  BUY 🔴 | Profits:  -2257.57 | Quantity:    1 🤑
+INFO 2022-11-21 11:08:03,210 close: 1128.9 tenkan_prev: 1127.595 tenkan: 1127.595 kijun: 1127.595 senkou_a: 1131.0225 senkou_b: 1132.52 chikou: 1128.69 close_chikou: 1126.79
+WARNING 2022-11-21 11:08:03,210 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-21 11:08:03,210 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-21 11:08:03,586 Symbol:  ETHUSD | Position:    2 | close price:   1128.9 | Side:  BUY 🔴 | Profits:  -3386.47 | Quantity:    1 🤑
+INFO 2022-11-21 11:09:03,055 close: 1129.42 tenkan_prev: 1127.595 tenkan: 1127.595 kijun: 1127.595 senkou_a: 1131.0225 senkou_b: 1132.52 chikou: 1128.9 close_chikou: 1127.21
+WARNING 2022-11-21 11:09:03,056 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-21 11:09:03,056 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-21 11:09:03,388 Symbol:  ETHUSD | Position:    3 | close price:  1129.42 | Side:  BUY 🔴 | Profits:  -4515.89 | Quantity:    1 🤑
+INFO 2022-11-21 11:10:02,826 close: 1129.89 tenkan_prev: 1127.595 tenkan: 1128.2649999999999 kijun: 1128.2649999999999 senkou_a: 1130.6525000000001 senkou_b: 1132.15 chikou: 1129.57 close_chikou: 1126.25
+WARNING 2022-11-21 11:10:02,827 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-21 11:10:02,827 CONDITIONS SELL: False, True, True, True, False
+INFO 2022-11-21 11:10:03,187 Symbol:  ETHUSD | Position:    4 | close price:  1129.89 | Side:  BUY 🔴 | Profits:  -5645.78 | Quantity:    1 🤑
+INFO 2022-11-21 11:11:02,609 close: 1130.17 tenkan_prev: 1128.2649999999999 tenkan: 1128.6999999999998 kijun: 1128.2649999999999 senkou_a: 1130.3925 senkou_b: 1131.8899999999999 chikou: 1129.89 close_chikou: 1126.57
+WARNING 2022-11-21 11:11:02,610 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-21 11:11:02,610 CONDITIONS SELL: False, False, True, True, False
+INFO 2022-11-21 11:11:02,898 Symbol:  ETHUSD | Position:    5 | close price:  1130.17 | Side:  BUY 🔴 | Profits:  -6775.95 | Quantity:    1 🤑
+INFO 2022-11-21 11:12:03,332 close: 1130.04 tenkan_prev: 1128.6999999999998 tenkan: 1129.13 kijun: 1128.2649999999999 senkou_a: 1130.13 senkou_b: 1131.365 chikou: 1130.17 close_chikou: 1127.12
+WARNING 2022-11-21 11:12:03,332 CONDITIONS BUY: False, True, False, False, True
+WARNING 2022-11-21 11:12:03,333 CONDITIONS SELL: True, False, True, True, False
+INFO 2022-11-21 11:12:03,723 Symbol:  ETHUSD | Position:    6 | close price:  1130.04 | Side:  BUY 🔴 | Profits:  -7905.99 | Quantity:    1 🤑
+INFO 2022-11-21 11:13:03,177 close: 1130.06 tenkan_prev: 1129.13 tenkan: 1129.13 kijun: 1128.2649999999999 senkou_a: 1129.6825 senkou_b: 1130.635 chikou: 1129.83 close_chikou: 1127.03
+WARNING 2022-11-21 11:13:03,177 CONDITIONS BUY: False, True, True, False, True
+WARNING 2022-11-21 11:13:03,177 CONDITIONS SELL: True, False, False, True, False
+INFO 2022-11-21 11:13:03,516 Symbol:  ETHUSD | Position:    7 | close price:  1130.06 | Side:  BUY 🔴 | Profits:  -9036.05 | Quantity:    1 🤑
+INFO 2022-11-21 11:14:04,275 close: 1130.46 tenkan_prev: 1129.13 tenkan: 1129.21 kijun: 1128.345 senkou_a: 1129.1499999999999 senkou_b: 1129.81 chikou: 1130.06 close_chikou: 1126.91
+WARNING 2022-11-21 11:14:04,276 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:14:04,276 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:14:04,573 Symbol:  ETHUSD | Position:    8 | close price:  1130.46 | Side:  BUY 🔴 | Profits: -10166.51 | Quantity:    1 🤑
+INFO 2022-11-21 11:15:02,997 close: 1130.97 tenkan_prev: 1129.21 tenkan: 1129.37 kijun: 1128.505 senkou_a: 1128.6175 senkou_b: 1129.795 chikou: 1130.46 close_chikou: 1127.2
+WARNING 2022-11-21 11:15:02,998 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:15:02,998 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:15:03,285 Symbol:  ETHUSD | Position:    9 | close price:  1130.97 | Side:  BUY 🔴 | Profits: -11297.48 | Quantity:    1 🤑
+INFO 2022-11-21 11:16:09,481 close: 1130.73 tenkan_prev: 1129.37 tenkan: 1129.43 kijun: 1128.565 senkou_a: 1128.4575 senkou_b: 1129.6799999999998 chikou: 1130.97 close_chikou: 1128.07
+WARNING 2022-11-21 11:16:09,481 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:16:09,481 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:16:09,782 Symbol:  ETHUSD | Position:   10 | close price:  1130.73 | Side:  BUY 🔴 | Profits: -12428.21 | Quantity:    1 🤑
+INFO 2022-11-21 11:17:03,169 close: 1129.54 tenkan_prev: 1129.43 tenkan: 1129.43 kijun: 1128.565 senkou_a: 1128.0974999999999 senkou_b: 1128.975 chikou: 1130.73 close_chikou: 1128.17
+WARNING 2022-11-21 11:17:03,169 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:17:03,169 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:17:03,534 Symbol:  ETHUSD | Position:   11 | close price:  1129.54 | Side:  BUY 🔴 | Profits: -13557.75 | Quantity:    1 🤑
+INFO 2022-11-21 11:18:02,921 close: 1129.67 tenkan_prev: 1129.43 tenkan: 1129.43 kijun: 1128.565 senkou_a: 1128.0949999999998 senkou_b: 1128.975 chikou: 1129.38 close_chikou: 1127.55
+WARNING 2022-11-21 11:18:02,921 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:18:02,921 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:18:03,299 Symbol:  ETHUSD | Position:   12 | close price:  1129.67 | Side:  BUY 🔴 | Profits: -14687.42 | Quantity:    1 🤑
+INFO 2022-11-21 11:19:02,665 close: 1130.24 tenkan_prev: 1129.43 tenkan: 1129.43 kijun: 1128.565 senkou_a: 1128.0275 senkou_b: 1128.975 chikou: 1129.56 close_chikou: 1127.68
+WARNING 2022-11-21 11:19:02,666 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:19:02,666 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:19:02,953 Symbol:  ETHUSD | Position:   13 | close price:  1130.24 | Side:  BUY 🔴 | Profits: -15817.66 | Quantity:    1 🤑
+INFO 2022-11-21 11:20:03,314 close: 1129.99 tenkan_prev: 1129.43 tenkan: 1129.43 kijun: 1128.565 senkou_a: 1128.0125 senkou_b: 1128.895 chikou: 1130.05 close_chikou: 1127.19
+WARNING 2022-11-21 11:20:03,315 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:20:03,315 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:20:03,617 Symbol:  ETHUSD | Position:   14 | close price:  1129.99 | Side:  BUY 🔴 | Profits: -16947.65 | Quantity:    1 🤑
+INFO 2022-11-21 11:21:02,986 close: 1130.05 tenkan_prev: 1129.43 tenkan: 1130.315 kijun: 1128.565 senkou_a: 1127.81 senkou_b: 1128.4899999999998 chikou: 1129.99 close_chikou: 1126.2
+WARNING 2022-11-21 11:21:02,988 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:21:02,988 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:21:03,282 Symbol:  ETHUSD | Position:   15 | close price:  1130.05 | Side:  BUY 🔴 | Profits: -18077.70 | Quantity:    1 🤑
+INFO 2022-11-21 11:22:02,580 close: 1128.98 tenkan_prev: 1130.315 tenkan: 1130.125 kijun: 1128.565 senkou_a: 1127.81 senkou_b: 1128.4899999999998 chikou: 1130.05 close_chikou: 1127.38
+WARNING 2022-11-21 11:22:02,581 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:22:02,581 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:22:02,865 Symbol:  ETHUSD | Position:   16 | close price:  1128.98 | Side:  BUY 🔴 | Profits: -19206.68 | Quantity:    1 🤑
+INFO 2022-11-21 11:23:03,245 close: 1128.65 tenkan_prev: 1130.125 tenkan: 1130.025 kijun: 1128.565 senkou_a: 1127.8799999999999 senkou_b: 1128.4899999999998 chikou: 1128.98 close_chikou: 1127.47
+WARNING 2022-11-21 11:23:03,247 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:23:03,247 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:23:03,535 Symbol:  ETHUSD | Position:   17 | close price:  1128.65 | Side:  BUY 🔴 | Profits: -20335.33 | Quantity:    1 🤑
+INFO 2022-11-21 11:24:02,978 close: 1129.91 tenkan_prev: 1130.025 tenkan: 1130.025 kijun: 1128.565 senkou_a: 1127.83 senkou_b: 1128.4899999999998 chikou: 1128.65 close_chikou: 1127.06
+WARNING 2022-11-21 11:24:02,979 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:24:02,979 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:24:03,271 Symbol:  ETHUSD | Position:   18 | close price:  1129.91 | Side:  BUY 🔴 | Profits: -21465.24 | Quantity:    1 🤑
+INFO 2022-11-21 11:25:02,623 close: 1130.44 tenkan_prev: 1130.025 tenkan: 1129.965 kijun: 1128.565 senkou_a: 1127.83 senkou_b: 1128.4899999999998 chikou: 1129.91 close_chikou: 1126.85
+WARNING 2022-11-21 11:25:02,624 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:25:02,624 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:25:02,929 Symbol:  ETHUSD | Position:   19 | close price:  1130.44 | Side:  BUY 🔴 | Profits: -22595.68 | Quantity:    1 🤑
+INFO 2022-11-21 11:26:04,692 close: 1131.19 tenkan_prev: 1129.965 tenkan: 1129.965 kijun: 1128.565 senkou_a: 1127.83 senkou_b: 1128.4899999999998 chikou: 1130.44 close_chikou: 1126.36
+WARNING 2022-11-21 11:26:04,693 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:26:04,693 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:26:04,981 Symbol:  ETHUSD | Position:   20 | close price:  1131.19 | Side:  BUY 🔴 | Profits: -23726.87 | Quantity:    1 🤑
+INFO 2022-11-21 11:27:03,389 close: 1131.5 tenkan_prev: 1129.965 tenkan: 1130.36 kijun: 1128.9 senkou_a: 1127.83 senkou_b: 1128.4899999999998 chikou: 1131.19 close_chikou: 1126.49
+WARNING 2022-11-21 11:27:03,390 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:27:03,390 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:27:03,760 Symbol:  ETHUSD | Position:   21 | close price:   1131.5 | Side:  BUY 🔴 | Profits: -24858.37 | Quantity:    1 🤑
+INFO 2022-11-21 11:28:08,154 close: 1131.5 tenkan_prev: 1130.36 tenkan: 1130.36 kijun: 1129.335 senkou_a: 1127.83 senkou_b: 1128.4899999999998 chikou: 1131.54 close_chikou: 1126.56
+WARNING 2022-11-21 11:28:08,155 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:28:08,155 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:28:08,475 Symbol:  ETHUSD | Position:   22 | close price:   1131.5 | Side:  BUY 🔴 | Profits: -25989.87 | Quantity:    1 🤑
+INFO 2022-11-21 11:29:04,371 close: 1131.16 tenkan_prev: 1130.36 tenkan: 1130.36 kijun: 1129.7649999999999 senkou_a: 1127.7275 senkou_b: 1128.4899999999998 chikou: 1131.58 close_chikou: 1126.11
+WARNING 2022-11-21 11:29:04,372 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:29:04,372 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:29:04,655 Symbol:  ETHUSD | Position:   23 | close price:  1131.16 | Side:  BUY 🔴 | Profits: -27121.03 | Quantity:    1 🤑
+INFO 2022-11-21 11:30:03,083 close: 1132.4 tenkan_prev: 1130.36 tenkan: 1130.4 kijun: 1129.805 senkou_a: 1127.7275 senkou_b: 1128.4899999999998 chikou: 1131.16 close_chikou: 1127.75
+WARNING 2022-11-21 11:30:03,084 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:30:03,084 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:30:03,370 Symbol:  ETHUSD | Position:   24 | close price:   1132.4 | Side:  BUY 🔴 | Profits: -28253.43 | Quantity:    1 🤑
+INFO 2022-11-21 11:31:02,768 close: 1132.47 tenkan_prev: 1130.4 tenkan: 1130.485 kijun: 1129.8899999999999 senkou_a: 1127.7275 senkou_b: 1128.4899999999998 chikou: 1132.36 close_chikou: 1128.7
+WARNING 2022-11-21 11:31:02,769 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:31:02,769 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:31:03,075 Symbol:  ETHUSD | Position:   25 | close price:  1132.47 | Side:  BUY 🔴 | Profits: -29385.90 | Quantity:    1 🤑
+INFO 2022-11-21 11:32:02,475 close: 1131.26 tenkan_prev: 1130.485 tenkan: 1130.56 kijun: 1129.8899999999999 senkou_a: 1127.0925 senkou_b: 1127.35 chikou: 1132.47 close_chikou: 1129.29
+WARNING 2022-11-21 11:32:02,475 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:32:02,475 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:32:02,759 Symbol:  ETHUSD | Position:   26 | close price:  1131.26 | Side:  BUY 🔴 | Profits: -30517.16 | Quantity:    1 🤑
+INFO 2022-11-21 11:33:03,235 close: 1131.08 tenkan_prev: 1130.56 tenkan: 1131.13 kijun: 1129.8899999999999 senkou_a: 1126.99 senkou_b: 1127.145 chikou: 1131.38 close_chikou: 1128.74
+WARNING 2022-11-21 11:33:03,235 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:33:03,236 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:33:03,584 Symbol:  ETHUSD | Position:   27 | close price:  1131.08 | Side:  BUY 🔴 | Profits: -31648.24 | Quantity:    1 🤑
+INFO 2022-11-21 11:34:02,942 close: 1131.93 tenkan_prev: 1131.13 tenkan: 1131.5549999999998 kijun: 1129.8899999999999 senkou_a: 1127.29 senkou_b: 1127.29 chikou: 1131.08 close_chikou: 1128.69
+WARNING 2022-11-21 11:34:02,943 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:34:02,943 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:34:03,245 Symbol:  ETHUSD | Position:   28 | close price:  1131.93 | Side:  BUY 🔴 | Profits: -32780.17 | Quantity:    1 🤑
+INFO 2022-11-21 11:35:02,668 close: 1130.88 tenkan_prev: 1131.5549999999998 tenkan: 1131.5549999999998 kijun: 1129.8899999999999 senkou_a: 1127.595 senkou_b: 1127.595 chikou: 1131.93 close_chikou: 1128.9
+WARNING 2022-11-21 11:35:02,670 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:35:02,670 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:35:02,980 Symbol:  ETHUSD | Position:   29 | close price:  1130.88 | Side:  BUY 🔴 | Profits: -33911.05 | Quantity:    1 🤑
+INFO 2022-11-21 11:36:03,989 close: 1130.58 tenkan_prev: 1131.5549999999998 tenkan: 1131.31 kijun: 1129.8899999999999 senkou_a: 1127.595 senkou_b: 1127.595 chikou: 1130.88 close_chikou: 1129.57
+WARNING 2022-11-21 11:36:03,990 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:36:03,990 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:36:04,274 Symbol:  ETHUSD | Position:   30 | close price:  1130.58 | Side:  BUY 🔴 | Profits: -35041.63 | Quantity:    1 🤑
+INFO 2022-11-21 11:37:02,722 close: 1131.06 tenkan_prev: 1131.31 tenkan: 1131.31 kijun: 1129.8899999999999 senkou_a: 1127.595 senkou_b: 1127.595 chikou: 1130.58 close_chikou: 1129.89
+WARNING 2022-11-21 11:37:02,723 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:37:02,723 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:37:03,009 Symbol:  ETHUSD | Position:   31 | close price:  1131.06 | Side:  BUY 🔴 | Profits: -36172.69 | Quantity:    1 🤑
+INFO 2022-11-21 11:38:02,492 close: 1132.1 tenkan_prev: 1131.31 tenkan: 1131.31 kijun: 1130.485 senkou_a: 1127.595 senkou_b: 1127.595 chikou: 1131.06 close_chikou: 1130.17
+WARNING 2022-11-21 11:38:02,493 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:38:02,493 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:38:02,791 Symbol:  ETHUSD | Position:   32 | close price:   1132.1 | Side:  BUY 🔴 | Profits: -37304.79 | Quantity:    1 🤑
+INFO 2022-11-21 11:39:04,254 close: 1132.52 tenkan_prev: 1131.31 tenkan: 1131.3400000000001 kijun: 1130.5149999999999 senkou_a: 1127.595 senkou_b: 1127.595 chikou: 1132.18 close_chikou: 1129.83
+WARNING 2022-11-21 11:39:04,256 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:39:04,256 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:39:04,643 Symbol:  ETHUSD | Position:   33 | close price:  1132.52 | Side:  BUY 🔴 | Profits: -38437.31 | Quantity:    1 🤑
+INFO 2022-11-21 11:40:02,980 close: 1133.22 tenkan_prev: 1131.3400000000001 tenkan: 1131.8200000000002 kijun: 1130.995 senkou_a: 1128.2649999999999 senkou_b: 1128.2649999999999 chikou: 1132.52 close_chikou: 1130.06
+WARNING 2022-11-21 11:40:02,981 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:40:02,981 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:40:03,267 Symbol:  ETHUSD | Position:   34 | close price:  1133.22 | Side:  BUY 🔴 | Profits: -39570.53 | Quantity:    1 🤑
+INFO 2022-11-21 11:41:02,654 close: 1133.55 tenkan_prev: 1131.8200000000002 tenkan: 1131.955 kijun: 1131.13 senkou_a: 1128.4824999999998 senkou_b: 1128.2649999999999 chikou: 1133.22 close_chikou: 1130.46
+WARNING 2022-11-21 11:41:02,655 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:41:02,655 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:41:03,011 Symbol:  ETHUSD | Position:   35 | close price:  1133.55 | Side:  BUY 🔴 | Profits: -40704.08 | Quantity:    1 🤑
+INFO 2022-11-21 11:42:02,415 close: 1133.9 tenkan_prev: 1131.955 tenkan: 1132.56 kijun: 1131.735 senkou_a: 1128.6975 senkou_b: 1128.2649999999999 chikou: 1133.55 close_chikou: 1130.97
+WARNING 2022-11-21 11:42:02,416 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:42:02,416 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:42:02,694 Symbol:  ETHUSD | Position:   36 | close price:   1133.9 | Side:  BUY 🔴 | Profits: -41837.98 | Quantity:    1 🤑
+INFO 2022-11-21 11:43:03,036 close: 1134.53 tenkan_prev: 1132.56 tenkan: 1132.56 kijun: 1131.735 senkou_a: 1128.6975 senkou_b: 1128.2649999999999 chikou: 1133.9 close_chikou: 1130.73
+WARNING 2022-11-21 11:43:03,038 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:43:03,038 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:43:03,332 Symbol:  ETHUSD | Position:   37 | close price:  1134.53 | Side:  BUY 🔴 | Profits: -42972.51 | Quantity:    1 🤑
+INFO 2022-11-21 11:44:02,703 close: 1134.2 tenkan_prev: 1132.56 tenkan: 1132.56 kijun: 1131.735 senkou_a: 1128.7775000000001 senkou_b: 1128.345 chikou: 1134.53 close_chikou: 1129.38
+WARNING 2022-11-21 11:44:02,704 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:44:02,705 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:44:02,990 Symbol:  ETHUSD | Position:   38 | close price:   1134.2 | Side:  BUY 🔴 | Profits: -44106.71 | Quantity:    1 🤑
+INFO 2022-11-21 11:45:03,353 close: 1134.66 tenkan_prev: 1132.56 tenkan: 1132.6399999999999 kijun: 1131.735 senkou_a: 1128.9375 senkou_b: 1128.505 chikou: 1134.2 close_chikou: 1129.56
+WARNING 2022-11-21 11:45:03,355 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:45:03,355 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:45:03,637 Symbol:  ETHUSD | Position:   39 | close price:  1134.66 | Side:  BUY 🔴 | Profits: -45241.37 | Quantity:    1 🤑
+INFO 2022-11-21 11:46:03,170 close: 1134.38 tenkan_prev: 1132.6399999999999 tenkan: 1132.8449999999998 kijun: 1131.735 senkou_a: 1128.9975 senkou_b: 1128.565 chikou: 1134.66 close_chikou: 1130.05
+WARNING 2022-11-21 11:46:03,171 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:46:03,171 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:46:03,457 Symbol:  ETHUSD | Position:   40 | close price:  1134.38 | Side:  BUY 🔴 | Profits: -46375.75 | Quantity:    1 🤑
+INFO 2022-11-21 11:47:02,839 close: 1133.61 tenkan_prev: 1132.8449999999998 tenkan: 1133.5 kijun: 1131.735 senkou_a: 1128.9975 senkou_b: 1128.565 chikou: 1134.38 close_chikou: 1129.99
+WARNING 2022-11-21 11:47:02,840 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:47:02,840 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:47:03,130 Symbol:  ETHUSD | Position:   41 | close price:  1133.61 | Side:  BUY 🔴 | Profits: -47509.36 | Quantity:    1 🤑
+INFO 2022-11-21 11:48:02,525 close: 1133.58 tenkan_prev: 1133.5 tenkan: 1133.5349999999999 kijun: 1131.735 senkou_a: 1128.9975 senkou_b: 1128.565 chikou: 1133.99 close_chikou: 1130.05
+WARNING 2022-11-21 11:48:02,525 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:48:02,525 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:48:02,823 Symbol:  ETHUSD | Position:   42 | close price:  1133.58 | Side:  BUY 🔴 | Profits: -48642.94 | Quantity:    1 🤑
+INFO 2022-11-21 11:49:03,321 close: 1134.18 tenkan_prev: 1133.5349999999999 tenkan: 1133.6799999999998 kijun: 1131.81 senkou_a: 1128.9975 senkou_b: 1128.565 chikou: 1133.58 close_chikou: 1128.98
+WARNING 2022-11-21 11:49:03,321 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:49:03,322 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:49:03,611 Symbol:  ETHUSD | Position:   43 | close price:  1134.18 | Side:  BUY 🔴 | Profits: -49777.12 | Quantity:    1 🤑
+INFO 2022-11-21 11:50:03,032 close: 1134.54 tenkan_prev: 1133.6799999999998 tenkan: 1134.0949999999998 kijun: 1132.38 senkou_a: 1128.9975 senkou_b: 1128.565 chikou: 1134.18 close_chikou: 1128.65
+WARNING 2022-11-21 11:50:03,032 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:50:03,033 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:50:03,320 Symbol:  ETHUSD | Position:   44 | close price:  1134.54 | Side:  BUY 🔴 | Profits: -50911.66 | Quantity:    1 🤑
+INFO 2022-11-21 11:51:04,085 close: 1134.02 tenkan_prev: 1134.0949999999998 tenkan: 1134.045 kijun: 1132.56 senkou_a: 1129.44 senkou_b: 1128.565 chikou: 1134.77 close_chikou: 1129.91
+WARNING 2022-11-21 11:51:04,086 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:51:04,086 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:51:04,370 Symbol:  ETHUSD | Position:   45 | close price:  1134.02 | Side:  BUY 🔴 | Profits: -52045.68 | Quantity:    1 🤑
+INFO 2022-11-21 11:52:02,795 close: 1134.5 tenkan_prev: 1134.045 tenkan: 1134.045 kijun: 1132.56 senkou_a: 1129.345 senkou_b: 1128.565 chikou: 1134.08 close_chikou: 1130.44
+WARNING 2022-11-21 11:52:02,795 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:52:02,795 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:52:03,077 Symbol:  ETHUSD | Position:   46 | close price:   1134.5 | Side:  BUY 🔴 | Profits: -53180.18 | Quantity:    1 🤑
+INFO 2022-11-21 11:53:02,465 close: 1134.27 tenkan_prev: 1134.045 tenkan: 1134.045 kijun: 1132.56 senkou_a: 1129.295 senkou_b: 1128.565 chikou: 1134.5 close_chikou: 1131.19
+WARNING 2022-11-21 11:53:02,466 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:53:02,466 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:53:02,756 Symbol:  ETHUSD | Position:   47 | close price:  1134.27 | Side:  BUY 🔴 | Profits: -54314.45 | Quantity:    1 🤑
+INFO 2022-11-21 11:54:03,108 close: 1133.76 tenkan_prev: 1134.045 tenkan: 1134.025 kijun: 1132.56 senkou_a: 1129.295 senkou_b: 1128.565 chikou: 1134.27 close_chikou: 1131.54
+WARNING 2022-11-21 11:54:03,108 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:54:03,108 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:54:04,014 Symbol:  ETHUSD | Position:   48 | close price:  1133.76 | Side:  BUY 🔴 | Profits: -55448.21 | Quantity:    1 🤑
+INFO 2022-11-21 11:55:02,404 close: 1133.59 tenkan_prev: 1134.025 tenkan: 1134.025 kijun: 1132.56 senkou_a: 1129.2649999999999 senkou_b: 1128.565 chikou: 1133.76 close_chikou: 1131.58
+WARNING 2022-11-21 11:55:02,404 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:55:02,404 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:55:02,694 Symbol:  ETHUSD | Position:   49 | close price:  1133.59 | Side:  BUY 🔴 | Profits: -56581.80 | Quantity:    1 🤑
+INFO 2022-11-21 11:56:03,109 close: 1133.59 tenkan_prev: 1134.025 tenkan: 1134.0700000000002 kijun: 1132.56 senkou_a: 1129.2649999999999 senkou_b: 1128.565 chikou: 1133.59 close_chikou: 1131.16
+WARNING 2022-11-21 11:56:03,110 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:56:03,110 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:56:03,403 Symbol:  ETHUSD | Position:   50 | close price:  1133.59 | Side:  BUY 🔴 | Profits: -57715.39 | Quantity:    1 🤑
+INFO 2022-11-21 11:57:02,862 close: 1132.85 tenkan_prev: 1134.0700000000002 tenkan: 1133.875 kijun: 1132.56 senkou_a: 1129.63 senkou_b: 1128.9 chikou: 1133.59 close_chikou: 1132.36
+WARNING 2022-11-21 11:57:02,864 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:57:02,864 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:57:03,155 Symbol:  ETHUSD | Position:   51 | close price:  1132.85 | Side:  BUY 🔴 | Profits: -58848.24 | Quantity:    1 🤑
+INFO 2022-11-21 11:58:02,557 close: 1133.0 tenkan_prev: 1133.795 tenkan: 1133.76 kijun: 1132.56 senkou_a: 1129.8474999999999 senkou_b: 1129.335 chikou: 1132.62 close_chikou: 1132.47
+WARNING 2022-11-21 11:58:02,558 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:58:02,558 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:58:02,850 Symbol:  ETHUSD | Position:   52 | close price:   1133.0 | Side:  BUY 🔴 | Profits: -59981.24 | Quantity:    1 🤑
+INFO 2022-11-21 11:59:03,223 close: 1132.84 tenkan_prev: 1133.76 tenkan: 1133.76 kijun: 1132.56 senkou_a: 1130.0625 senkou_b: 1129.7649999999999 chikou: 1133.07 close_chikou: 1131.38
+WARNING 2022-11-21 11:59:03,225 CONDITIONS BUY: False, True, True, True, True
+WARNING 2022-11-21 11:59:03,225 CONDITIONS SELL: True, False, False, False, False
+INFO 2022-11-21 11:59:03,518 Symbol:  ETHUSD | Position:   53 | close price:  1132.84 | Side:  BUY 🔴 | Profits: -61114.08 | Quantity:    1 🤑

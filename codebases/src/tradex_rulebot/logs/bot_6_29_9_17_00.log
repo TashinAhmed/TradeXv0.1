@@ -1,0 +1,8 @@
+INFO 2022-09-29 17:00:26,189 Symbol:  ETHUSD | Position:    0 | close price:   1336.6 | Side:  BUY 🟢 |  Profits:  -1336.6 | Quantity:   1 🤑
+INFO 2022-09-29 17:01:00,533 Symbol:  ETHUSD | Position:    1 | close price:   1336.6 | Side:  BUY 🟢 |  Profits:  -2673.2 | Quantity:   1 🤑
+INFO 2022-09-29 17:02:01,008 Symbol:  ETHUSD | Position:    2 | close price:  1338.11 | Side:  BUY 🟢 |  Profits: -4011.3099999999995 | Quantity:   1 🤑
+INFO 2022-09-29 17:03:00,370 Symbol:  ETHUSD | Position:    3 | close price:  1337.41 | Side:  BUY 🟢 |  Profits: -5348.719999999999 | Quantity:   1 🤑
+INFO 2022-09-29 17:04:00,704 Symbol:  ETHUSD | Position:    4 | close price:   1336.2 | Side:  BUY 🟢 |  Profits: -6684.919999999999 | Quantity:   1 🤑
+INFO 2022-09-29 17:05:00,975 Symbol:  ETHUSD | Position:    5 | close price:   1333.6 | Side:  BUY 🟢 |  Profits: -8018.519999999999 | Quantity:   1 🤑
+INFO 2022-09-29 17:06:01,315 Symbol:  ETHUSD | Position:    6 | close price:  1332.57 | Side:  BUY 🟢 |  Profits: -9351.089999999998 | Quantity:   1 🤑
+INFO 2022-09-29 17:07:00,646 Symbol:  ETHUSD | Position:    7 | close price:  1334.23 | Side:  BUY 🟢 |  Profits: -10685.319999999998 | Quantity:   1 🤑

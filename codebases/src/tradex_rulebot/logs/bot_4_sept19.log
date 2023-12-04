@@ -1,0 +1,81 @@
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18452.52, 'h': 18456.21, 'l': 18442.0, 'c': 18447.54, 'v': 9.83249925, 't': Timestamp(seconds=1663577400, nanoseconds=0), 'n': 317, 'vw': 18446.87690804}
+Price: 18447.54
+Super Trend Indicator: 18485.683788844162
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18447.55, 'h': 18451.46, 'l': 18443.61, 'c': 18448.61, 'v': 4.6863829, 't': Timestamp(seconds=1663577460, nanoseconds=0), 'n': 233, 'vw': 18447.4277621677}
+Price: 18448.61
+Super Trend Indicator: 18485.683788844162
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18447.42, 'h': 18449.68, 'l': 18430.03, 'c': 18441.61, 'v': 10.80034629, 't': Timestamp(seconds=1663577520, nanoseconds=0), 'n': 313, 'vw': 18439.5061397766}
+Price: 18441.61
+Super Trend Indicator: 18485.683788844162
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18442.31, 'h': 18446.65, 'l': 18426.87, 'c': 18434.33, 'v': 6.36275731, 't': Timestamp(seconds=1663577580, nanoseconds=0), 'n': 230, 'vw': 18435.8044793994}
+Price: 18434.33
+Super Trend Indicator: 18485.6344337118
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18434.2, 'h': 18436.46, 'l': 18425.0, 'c': 18431.73, 'v': 4.78732052, 't': Timestamp(seconds=1663577640, nanoseconds=0), 'n': 194, 'vw': 18430.336503528}
+Price: 18431.73
+Super Trend Indicator: 18484.47665746726
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18431.37, 'h': 18437.95, 'l': 18423.0, 'c': 18424.35, 'v': 21.80906396, 't': Timestamp(seconds=1663577700, nanoseconds=0), 'n': 317, 'vw': 18427.1211839826}
+Price: 18424.35
+Super Trend Indicator: 18476.541420686222
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18416.9, 'h': 18427.4, 'l': 18409.82, 'c': 18427.34, 'v': 25.58641828, 't': Timestamp(seconds=1663577760, nanoseconds=0), 'n': 433, 'vw': 18418.9820898118}
+Price: 18427.34
+Super Trend Indicator: 18475.713360588194
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18428.87, 'h': 18433.26, 'l': 18419.68, 'c': 18426.96, 'v': 6.10078536, 't': Timestamp(seconds=1663577820, nanoseconds=0), 'n': 278, 'vw': 18426.2514870479}
+Price: 18426.96
+Super Trend Indicator: 18467.534309075592
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18426.93, 'h': 18427.99, 'l': 18417.31, 'c': 18422.63, 'v': 5.27598482, 't': Timestamp(seconds=1663577880, nanoseconds=0), 'n': 232, 'vw': 18422.8091416148}
+Price: 18422.63
+Super Trend Indicator: 18467.534309075592
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18422.64, 'h': 18425.16, 'l': 18410.58, 'c': 18417.35, 'v': 10.47815512, 't': Timestamp(seconds=1663577940, nanoseconds=0), 'n': 290, 'vw': 18415.6433618043}
+Price: 18417.35
+Super Trend Indicator: 18467.534309075592
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18417.52, 'h': 18422.41, 'l': 18412.56, 'c': 18417.28, 'v': 9.60495011, 't': Timestamp(seconds=1663578000, nanoseconds=0), 'n': 318, 'vw': 18417.809772876}
+Price: 18417.28
+Super Trend Indicator: 18463.1272325374
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18417.53, 'h': 18421.19, 'l': 18412.7, 'c': 18416.18, 'v': 20.29687915, 't': Timestamp(seconds=1663578060, nanoseconds=0), 'n': 420, 'vw': 18418.0467394256}
+Price: 18416.18
+Super Trend Indicator: 18460.498342174913
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18418.65, 'h': 18418.68, 'l': 18405.18, 'c': 18408.35, 'v': 9.58671473, 't': Timestamp(seconds=1663578120, nanoseconds=0), 'n': 312, 'vw': 18409.853172935}
+Price: 18408.35
+Super Trend Indicator: 18457.452150435638
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18408.18, 'h': 18433.79, 'l': 18403.94, 'c': 18427.07, 'v': 22.16183339, 't': Timestamp(seconds=1663578180, nanoseconds=0), 'n': 325, 'vw': 18420.1564375877}
+Price: 18427.07
+Super Trend Indicator: 18452.43612894483
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18424.23, 'h': 18437.11, 'l': 18422.11, 'c': 18434.19, 'v': 5.91366834, 't': Timestamp(seconds=1663578240, nanoseconds=0), 'n': 255, 'vw': 18432.0028912716}
+Price: 18434.19
+Super Trend Indicator: 18452.43612894483
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18433.57, 'h': 18434.76, 'l': 18425.0, 'c': 18431.49, 'v': 10.8730663, 't': Timestamp(seconds=1663578300, nanoseconds=0), 'n': 318, 'vw': 18430.3646539021}
+Price: 18431.49
+Super Trend Indicator: 18452.43612894483
+Position: 0.9975 | Should Buy: False
+insufficient balance for BTC (requested: 1, available: 0.9975)
+keyboard interrupt, bye

@@ -1,0 +1,35 @@
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18474.76, 'h': 18482.5, 'l': 18471.85, 'c': 18474.89, 'v': 9.99354848, 't': Timestamp(seconds=1663575960, nanoseconds=0), 'n': 287, 'vw': 18475.1190690406}
+Price: 18474.89
+Super Trend Indicator: 18452.732810022175
+Position: 0 | Should Buy: True
+Symbol: BTCUSD | Side: Buy | Quantity: 1
+--------------------
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18476.27, 'h': 18480.32, 'l': 18459.09, 'c': 18461.29, 'v': 6.50510371, 't': Timestamp(seconds=1663576020, nanoseconds=0), 'n': 254, 'vw': 18470.3394359308}
+Price: 18461.29
+Super Trend Indicator: 18452.732810022175
+Position: 0.9975 | Should Buy: True
+--------------------
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18460.73, 'h': 18480.89, 'l': 18457.67, 'c': 18480.0, 'v': 10.53956401, 't': Timestamp(seconds=1663576080, nanoseconds=0), 'n': 223, 'vw': 18472.9782828977}
+Price: 18480.0
+Super Trend Indicator: 18452.732810022175
+Position: 0.9975 | Should Buy: True
+--------------------
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18480.71, 'h': 18487.99, 'l': 18473.11, 'c': 18478.55, 'v': 16.02801278, 't': Timestamp(seconds=1663576140, nanoseconds=0), 'n': 317, 'vw': 18481.6279195054}
+Price: 18478.55
+Super Trend Indicator: 18452.732810022175
+Position: 0.9975 | Should Buy: True
+--------------------
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18477.44, 'h': 18484.05, 'l': 18470.2, 'c': 18477.13, 'v': 10.34284125, 't': Timestamp(seconds=1663576200, nanoseconds=0), 'n': 316, 'vw': 18477.7367934982}
+Price: 18477.13
+Super Trend Indicator: 18452.732810022175
+Position: 0.9975 | Should Buy: True
+--------------------
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18477.11, 'h': 18479.89, 'l': 18474.73, 'c': 18478.19, 'v': 4.77179902, 't': Timestamp(seconds=1663576260, nanoseconds=0), 'n': 196, 'vw': 18477.3106502026}
+Price: 18478.19
+Super Trend Indicator: 18452.732810022175
+Position: 0.9975 | Should Buy: True
+--------------------
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18483.7, 'h': 18484.83, 'l': 18474.46, 'c': 18481.61, 'v': 6.70610863, 't': Timestamp(seconds=1663576980, nanoseconds=0), 'n': 220, 'vw': 18478.9638342411}
+HTTPSConnectionPool(host='data.alpaca.markets', port=443): Read timed out. (read timeout=None)
+{'T': 'b', 'S': 'BTCUSD', 'x': 'CBSE', 'o': 18481.61, 'h': 18481.61, 'l': 18475.15, 'c': 18478.64, 'v': 4.17299988, 't': Timestamp(seconds=1663577040, nanoseconds=0), 'n': 250, 'vw': 18478.2907707561}
+keyboard interrupt, bye

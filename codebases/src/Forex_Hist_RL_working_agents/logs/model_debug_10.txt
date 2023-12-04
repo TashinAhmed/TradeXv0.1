@@ -1,0 +1,1299 @@
+2021-08-09 03:42:57 c01ae99aeb99 root[60] DEBUG switching to TensorFlow for CPU
+/usr/local/lib/python3.7/dist-packages/tensorflow/python/keras/optimizer_v2/optimizer_v2.py:375: UserWarning: The `lr` argument is deprecated, use `learning_rate` instead.
+  "The `lr` argument is deprecated, use `learning_rate` instead.")
+Episode 1/10: 100%|██████████| 2317/2317 [31:04<00:00,  1.24it/s]
+2021-08-09 04:14:02 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 04:14:02 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: +$1.0500
+2021-08-09 04:14:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.17
+2021-08-09 04:14:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 04:14:03 c01ae99aeb99 root[60] DEBUG Sell at: $108.55 | Position: +$0.3800
+2021-08-09 04:14:03 c01ae99aeb99 root[60] DEBUG Sell at: $108.17 | Position: -$0.2500
+2021-08-09 04:14:03 c01ae99aeb99 root[60] DEBUG Buy at: $109.36
+2021-08-09 04:14:03 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$0.0300
+2021-08-09 04:14:03 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 04:14:03 c01ae99aeb99 root[60] DEBUG Sell at: $109.97 | Position: +$0.0000
+2021-08-09 04:14:03 c01ae99aeb99 root[60] DEBUG Buy at: $110.48
+2021-08-09 04:14:03 c01ae99aeb99 root[60] DEBUG Sell at: $110.50 | Position: +$0.0200
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Sell at: $111.06 | Position: +$0.3700
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $110.58
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Sell at: $111.39 | Position: +$0.8100
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $111.42
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $110.81
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $109.92
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Sell at: $110.52 | Position: -$0.6500
+2021-08-09 04:14:04 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Buy at: $110.86
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Buy at: $111.36
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.3100
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$0.2500
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.73 | Position: +$0.3400
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.7900
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.14 | Position: +$0.3300
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$1.7500
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$2.0600
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$1.3900
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Buy at: $112.06
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Buy at: $111.97
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.94 | Position: +$1.0800
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Buy at: $111.86
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $112.19 | Position: +$0.8300
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.64 | Position: -$0.4200
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Sell at: $111.42 | Position: -$0.5500
+2021-08-09 04:14:05 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $111.52
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $110.25
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $109.76
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $109.94
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Sell at: $110.08 | Position: -$1.7800
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $110.06
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $110.36
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $108.08
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $108.14
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: -$3.1700
+2021-08-09 04:14:06 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.52 | Position: -$2.8700
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.50 | Position: -$3.0200
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.39 | Position: -$1.8600
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.56 | Position: -$1.2000
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.56 | Position: -$1.3800
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: -$1.1400
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$1.9500
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Buy at: $107.19
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $107.80 | Position: -$2.5600
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $107.89 | Position: -$1.4200
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.44 | Position: -$1.1500
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Buy at: $107.81
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: +$0.3900
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: +$0.5800
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$0.4400
+2021-08-09 04:14:07 c01ae99aeb99 root[60] DEBUG Buy at: $107.91
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Sell at: $108.24 | Position: +$0.0500
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: +$0.6400
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $107.72
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $107.88
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $108.22
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $108.64
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$1.4800
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Sell at: $108.78 | Position: +$0.9700
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$0.7000
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Sell at: $108.75 | Position: +$1.4500
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $106.59
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $105.95
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $106.28
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $106.08
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $105.67
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $106.75
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $105.91
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $106.12
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Buy at: $106.38
+2021-08-09 04:14:08 c01ae99aeb99 root[60] DEBUG Sell at: $106.23 | Position: -$1.4900
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Buy at: $106.62
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Buy at: $106.52
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Buy at: $106.31
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Buy at: $106.22
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Buy at: $105.94
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $107.25 | Position: -$0.6300
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $107.55 | Position: -$0.6700
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: -$0.3600
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$0.5300
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: +$1.4900
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: +$2.1900
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: +$1.8600
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: +$2.3700
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $108.02 | Position: +$2.3500
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: +$0.8100
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: +$1.6500
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Buy at: $107.06
+2021-08-09 04:14:09 c01ae99aeb99 root[60] DEBUG Sell at: $107.78 | Position: +$1.6600
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: +$1.4500
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: +$1.3200
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: +$1.5600
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $107.75 | Position: +$1.4400
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Buy at: $107.08
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Buy at: $107.47
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $107.97 | Position: +$1.7500
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.42 | Position: +$2.4800
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.39 | Position: +$1.4700
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$1.9400
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$1.6100
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Buy at: $108.43
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$1.6900
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Buy at: $108.69
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Buy at: $108.66
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.95 | Position: +$1.8700
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.89 | Position: +$1.4200
+2021-08-09 04:14:10 c01ae99aeb99 root[60] DEBUG Sell at: $108.84 | Position: +$0.4100
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Sell at: $108.58 | Position: -$0.1100
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Sell at: $109.16 | Position: +$0.5500
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Sell at: $108.97 | Position: +$0.3100
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Buy at: $109.28
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$0.0000
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Buy at: $108.67
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: -$0.1100
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Sell at: $108.66 | Position: -$0.0100
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Buy at: $108.76
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 04:14:11 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 04:14:12 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 04:14:12 c01ae99aeb99 root[60] DEBUG Sell at: $109.31 | Position: +$0.5500
+2021-08-09 04:14:12 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$0.7700
+2021-08-09 04:14:12 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$0.9400
+2021-08-09 04:14:12 c01ae99aeb99 root[60] DEBUG Sell at: $109.48 | Position: +$0.9200
+2021-08-09 04:14:12 c01ae99aeb99 root[60] DEBUG Buy at: $109.39
+2021-08-09 04:14:12 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$0.0000
+2021-08-09 04:14:12 c01ae99aeb99 root[60] INFO Episode 1/10 - Train Position: +$421.3800  Val Position: +$28.0400  Train Loss: 0.0728558)
+Episode 2/10: 100%|██████████| 2317/2317 [31:10<00:00,  1.24it/s]
+2021-08-09 04:45:22 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 04:45:22 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: +$1.0500
+2021-08-09 04:45:22 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 04:45:22 c01ae99aeb99 root[60] DEBUG Buy at: $108.17
+2021-08-09 04:45:22 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: -$0.0800
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Buy at: $109.09
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Sell at: $109.24 | Position: +$1.0700
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Sell at: $109.78 | Position: +$1.3600
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Buy at: $109.38
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Sell at: $109.55 | Position: +$0.4600
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Buy at: $109.36
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Buy at: $109.03
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$0.1200
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Sell at: $109.89 | Position: +$0.5300
+2021-08-09 04:45:23 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Buy at: $110.38
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Sell at: $110.48 | Position: +$1.4500
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Sell at: $111.00 | Position: +$1.0300
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Buy at: $110.50
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Sell at: $110.62 | Position: +$0.2400
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Sell at: $110.62 | Position: +$0.1200
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Buy at: $111.59
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Buy at: $111.47
+2021-08-09 04:45:24 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $110.81
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $109.92
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $110.86
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $111.33
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$0.0800
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Sell at: $111.73 | Position: +$0.5600
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.3100
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Sell at: $111.14 | Position: -$0.3300
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $111.02
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$0.6400
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $112.06
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $111.97
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $111.92
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Sell at: $111.94 | Position: +$1.1300
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Sell at: $111.86 | Position: +$1.9400
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Sell at: $112.19 | Position: +$2.2200
+2021-08-09 04:45:25 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $110.78
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $110.25
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $110.11
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $109.94
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $109.86
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $110.06
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 04:45:26 c01ae99aeb99 root[60] DEBUG Buy at: $109.52
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $108.08
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $108.14
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $108.47
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $108.39
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Sell at: $108.56 | Position: -$2.0800
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: -$2.4100
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$3.2200
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $107.31
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $107.78
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $108.44
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Buy at: $107.81
+2021-08-09 04:45:27 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: -$2.3000
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: -$3.2000
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $108.47
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $107.91
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $107.92
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Sell at: $108.24 | Position: -$3.7300
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: -$3.9800
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $108.22
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $108.64
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: -$2.9700
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Sell at: $108.78 | Position: -$2.8600
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: -$2.1700
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Sell at: $108.75 | Position: -$1.5000
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $107.34
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $106.59
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $105.95
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $106.48
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $105.67
+2021-08-09 04:45:28 c01ae99aeb99 root[60] DEBUG Buy at: $105.31
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $105.91
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $106.38
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $106.64
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $106.23
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $106.62
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $105.41
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $106.14
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $106.52
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $105.94
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Sell at: $107.25 | Position: -$2.8600
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: -$2.1100
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$1.2000
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: -$1.5300
+2021-08-09 04:45:29 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$1.4500
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$1.7200
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: -$1.6100
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.02 | Position: -$1.5900
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: -$1.7500
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Buy at: $107.56
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: -$1.6900
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: -$0.1400
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: -$0.0600
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $107.75 | Position: -$0.7200
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Buy at: $106.94
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $107.97 | Position: -$0.4500
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.42 | Position: +$0.0300
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Buy at: $108.39
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$0.3000
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$1.3600
+2021-08-09 04:45:30 c01ae99aeb99 root[60] DEBUG Buy at: $108.43
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Buy at: $108.69
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Sell at: $108.95 | Position: +$1.1700
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Sell at: $108.84 | Position: +$0.4000
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Buy at: $108.03
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Buy at: $108.97
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Buy at: $109.28
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$1.4700
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Sell at: $109.02 | Position: +$0.5500
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Sell at: $108.83 | Position: +$0.9200
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Buy at: $108.41
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 04:45:31 c01ae99aeb99 root[60] DEBUG Sell at: $108.66 | Position: +$0.7400
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.05 | Position: +$0.8300
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.56 | Position: +$0.9200
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.52 | Position: +$2.1800
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.52 | Position: +$2.9300
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.00 | Position: +$3.0500
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Buy at: $108.64
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Buy at: $108.71
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$2.9000
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$3.8300
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.48 | Position: +$4.1700
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.53 | Position: +$3.6200
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$3.0000
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Buy at: $109.39
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$2.7500
+2021-08-09 04:45:32 c01ae99aeb99 root[60] DEBUG Buy at: $109.36
+2021-08-09 04:45:33 c01ae99aeb99 root[60] INFO Episode 2/10 - Train Position: +$450.0100  Val Position: +$1.7200  Train Loss: 0.1410396)
+Episode 3/10: 100%|██████████| 2317/2317 [31:20<00:00,  1.23it/s]
+2021-08-09 05:16:53 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 05:16:53 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: +$1.0500
+2021-08-09 05:16:53 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 05:16:53 c01ae99aeb99 root[60] DEBUG Sell at: $108.55 | Position: +$0.1300
+2021-08-09 05:16:53 c01ae99aeb99 root[60] DEBUG Buy at: $109.09
+2021-08-09 05:16:53 c01ae99aeb99 root[60] DEBUG Sell at: $109.24 | Position: +$0.1500
+2021-08-09 05:16:54 c01ae99aeb99 root[60] DEBUG Buy at: $109.38
+2021-08-09 05:16:54 c01ae99aeb99 root[60] DEBUG Sell at: $109.60 | Position: +$0.2200
+2021-08-09 05:16:54 c01ae99aeb99 root[60] DEBUG Buy at: $109.73
+2021-08-09 05:16:54 c01ae99aeb99 root[60] DEBUG Sell at: $110.38 | Position: +$0.6500
+2021-08-09 05:16:54 c01ae99aeb99 root[60] DEBUG Buy at: $110.58
+2021-08-09 05:16:54 c01ae99aeb99 root[60] DEBUG Buy at: $111.00
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Sell at: $111.39 | Position: +$0.8100
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Sell at: $111.92 | Position: +$0.9200
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $111.20
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $111.42
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $109.92
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $110.52
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Sell at: $111.33 | Position: +$0.1600
+2021-08-09 05:16:55 c01ae99aeb99 root[60] DEBUG Sell at: $111.73 | Position: +$0.5300
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.3100
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $111.14 | Position: -$0.2800
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$0.2800
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$1.3400
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$2.1100
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $112.00 | Position: +$2.0300
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $111.92
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $111.94 | Position: +$1.3000
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $111.86 | Position: +$1.3400
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Sell at: $112.19 | Position: +$1.5500
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $111.42
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $111.52
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $110.78
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $110.25
+2021-08-09 05:16:56 c01ae99aeb99 root[60] DEBUG Buy at: $109.76
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.94
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.52
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.38
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $108.28
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Sell at: $108.42 | Position: -$3.5000
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $108.44
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $108.50
+2021-08-09 05:16:57 c01ae99aeb99 root[60] DEBUG Buy at: $108.39
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Sell at: $108.56 | Position: -$3.0800
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: -$3.1900
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$3.3100
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.31
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.19
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.78
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Sell at: $107.89 | Position: -$3.5000
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $108.44
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.83
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.81
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: -$2.8000
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: -$1.9200
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: -$1.7800
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.91
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.92
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.94
+2021-08-09 05:16:58 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $108.64
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: -$1.0900
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Sell at: $108.78 | Position: -$1.1600
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: -$0.7000
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $107.34
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.59
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $105.95
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.48
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.28
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.08
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $105.67
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.75
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $105.91
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.12
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.38
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.62
+2021-08-09 05:16:59 c01ae99aeb99 root[60] DEBUG Buy at: $106.44
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Buy at: $105.41
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Buy at: $105.73
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Buy at: $106.22
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Buy at: $106.39
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Buy at: $107.55
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: -$1.7800
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$1.4800
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: -$1.5300
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$1.1700
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$1.3800
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $108.02 | Position: -$1.3600
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: -$2.0300
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: -$2.0500
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $107.06 | Position: -$1.2200
+2021-08-09 05:17:00 c01ae99aeb99 root[60] DEBUG Sell at: $107.78 | Position: -$0.6600
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: -$0.5600
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: -$0.3100
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $107.75 | Position: -$0.8100
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $107.30 | Position: -$0.0100
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $107.08 | Position: -$0.2200
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Buy at: $107.47
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $107.97 | Position: +$0.7800
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.42 | Position: +$0.6400
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.39 | Position: -$0.0500
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.8400
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Buy at: $108.43
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.95 | Position: +$1.1400
+2021-08-09 05:17:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.84 | Position: +$0.9300
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.03
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $108.58 | Position: +$0.6600
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.16 | Position: +$1.2200
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $108.97 | Position: +$1.6700
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$0.6400
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.06 | Position: +$1.7200
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.02 | Position: +$2.4300
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $108.83 | Position: +$2.8800
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.55
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $108.66 | Position: +$2.1800
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $108.92 | Position: +$2.6400
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.05 | Position: +$2.9700
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.56 | Position: +$3.8900
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.52 | Position: +$2.7700
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.52 | Position: +$3.6100
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.00 | Position: +$2.8800
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: +$2.2600
+2021-08-09 05:17:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.86
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.76
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.71
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$2.7600
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$3.0600
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Sell at: $109.48 | Position: +$4.0700
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$3.6500
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Buy at: $109.39
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Sell at: $109.36 | Position: +$3.1400
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Buy at: $109.64
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Buy at: $109.42
+2021-08-09 05:17:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.88
+2021-08-09 05:17:03 c01ae99aeb99 root[60] INFO Episode 3/10 - Train Position: +$561.8400  Val Position: +$27.3800  Train Loss: 0.1512609)
+Episode 4/10: 100%|██████████| 2317/2317 [31:07<00:00,  1.24it/s]
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: +$1.0500
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Buy at: $108.17
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Sell at: $108.17 | Position: -$0.5800
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.5000
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Buy at: $109.36
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$0.0300
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Buy at: $109.03
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Sell at: $108.88 | Position: -$0.1500
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 05:48:11 c01ae99aeb99 root[60] DEBUG Sell at: $109.97 | Position: +$0.0000
+2021-08-09 05:48:12 c01ae99aeb99 root[60] DEBUG Buy at: $110.48
+2021-08-09 05:48:12 c01ae99aeb99 root[60] DEBUG Sell at: $110.50 | Position: +$0.0200
+2021-08-09 05:48:12 c01ae99aeb99 root[60] DEBUG Buy at: $111.59
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Sell at: $111.20 | Position: -$0.3900
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Buy at: $111.47
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Buy at: $111.42
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Sell at: $110.64 | Position: -$0.8300
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Buy at: $110.52
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Sell at: $111.36 | Position: -$0.0600
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Sell at: $111.33 | Position: +$0.8100
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Buy at: $111.48
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$0.1900
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Buy at: $111.14
+2021-08-09 05:48:13 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$0.5300
+2021-08-09 05:48:14 c01ae99aeb99 root[60] DEBUG Buy at: $109.86
+2021-08-09 05:48:14 c01ae99aeb99 root[60] DEBUG Sell at: $110.50 | Position: +$0.6400
+2021-08-09 05:48:15 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 05:48:15 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 05:48:15 c01ae99aeb99 root[60] DEBUG Sell at: $108.44 | Position: -$1.1500
+2021-08-09 05:48:15 c01ae99aeb99 root[60] DEBUG Buy at: $108.52
+2021-08-09 05:48:15 c01ae99aeb99 root[60] DEBUG Sell at: $108.50 | Position: +$0.0800
+2021-08-09 05:48:15 c01ae99aeb99 root[60] DEBUG Sell at: $108.56 | Position: +$0.0400
+2021-08-09 05:48:15 c01ae99aeb99 root[60] DEBUG Buy at: $108.45
+2021-08-09 05:48:15 c01ae99aeb99 root[60] DEBUG Buy at: $107.31
+2021-08-09 05:48:16 c01ae99aeb99 root[60] DEBUG Sell at: $107.89 | Position: -$0.5600
+2021-08-09 05:48:16 c01ae99aeb99 root[60] DEBUG Buy at: $107.83
+2021-08-09 05:48:16 c01ae99aeb99 root[60] DEBUG Sell at: $107.81 | Position: +$0.5000
+2021-08-09 05:48:16 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: +$0.6400
+2021-08-09 05:48:17 c01ae99aeb99 root[60] DEBUG Buy at: $106.59
+2021-08-09 05:48:17 c01ae99aeb99 root[60] DEBUG Buy at: $106.08
+2021-08-09 05:48:17 c01ae99aeb99 root[60] DEBUG Buy at: $105.91
+2021-08-09 05:48:17 c01ae99aeb99 root[60] DEBUG Sell at: $105.73 | Position: -$0.8600
+2021-08-09 05:48:17 c01ae99aeb99 root[60] DEBUG Buy at: $106.31
+2021-08-09 05:48:18 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: +$0.8400
+2021-08-09 05:48:18 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: +$1.9200
+2021-08-09 05:48:18 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: +$1.8000
+2021-08-09 05:48:18 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 05:48:18 c01ae99aeb99 root[60] DEBUG Sell at: $107.30 | Position: +$0.3800
+2021-08-09 05:48:19 c01ae99aeb99 root[60] DEBUG Buy at: $108.67
+2021-08-09 05:48:19 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: -$0.0600
+2021-08-09 05:48:19 c01ae99aeb99 root[60] DEBUG Buy at: $108.03
+2021-08-09 05:48:19 c01ae99aeb99 root[60] DEBUG Sell at: $108.58 | Position: +$0.5500
+2021-08-09 05:48:20 c01ae99aeb99 root[60] DEBUG Buy at: $108.55
+2021-08-09 05:48:20 c01ae99aeb99 root[60] DEBUG Sell at: $108.66 | Position: +$0.1100
+2021-08-09 05:48:21 c01ae99aeb99 root[60] INFO Episode 4/10 - Train Position: +$1807.4300  Val Position: +$5.9900  Train Loss: 0.1798538)
+Episode 5/10: 100%|██████████| 2317/2317 [31:09<00:00,  1.24it/s]
+2021-08-09 06:19:30 c01ae99aeb99 root[60] DEBUG Buy at: $108.88
+2021-08-09 06:19:30 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 06:19:31 c01ae99aeb99 root[60] DEBUG Sell at: $108.53 | Position: -$0.3500
+2021-08-09 06:19:31 c01ae99aeb99 root[60] DEBUG Sell at: $108.17 | Position: +$0.5000
+2021-08-09 06:19:31 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 06:19:31 c01ae99aeb99 root[60] DEBUG Sell at: $108.55 | Position: +$0.1300
+2021-08-09 06:19:31 c01ae99aeb99 root[60] DEBUG Buy at: $108.17
+2021-08-09 06:19:31 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.5000
+2021-08-09 06:19:31 c01ae99aeb99 root[60] DEBUG Buy at: $109.89
+2021-08-09 06:19:31 c01ae99aeb99 root[60] DEBUG Sell at: $109.97 | Position: +$0.0800
+2021-08-09 06:19:32 c01ae99aeb99 root[60] DEBUG Buy at: $109.73
+2021-08-09 06:19:32 c01ae99aeb99 root[60] DEBUG Sell at: $110.38 | Position: +$0.6500
+2021-08-09 06:19:32 c01ae99aeb99 root[60] DEBUG Buy at: $110.70
+2021-08-09 06:19:32 c01ae99aeb99 root[60] DEBUG Sell at: $110.69 | Position: -$0.0100
+2021-08-09 06:19:32 c01ae99aeb99 root[60] DEBUG Buy at: $111.77
+2021-08-09 06:19:32 c01ae99aeb99 root[60] DEBUG Sell at: $111.20 | Position: -$0.5700
+2021-08-09 06:19:33 c01ae99aeb99 root[60] DEBUG Buy at: $111.67
+2021-08-09 06:19:33 c01ae99aeb99 root[60] DEBUG Sell at: $111.73 | Position: +$0.0600
+2021-08-09 06:19:33 c01ae99aeb99 root[60] DEBUG Buy at: $111.14
+2021-08-09 06:19:33 c01ae99aeb99 root[60] DEBUG Buy at: $111.02
+2021-08-09 06:19:33 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$0.5300
+2021-08-09 06:19:33 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$1.0100
+2021-08-09 06:19:33 c01ae99aeb99 root[60] DEBUG Buy at: $111.86
+2021-08-09 06:19:33 c01ae99aeb99 root[60] DEBUG Sell at: $112.19 | Position: +$0.3300
+2021-08-09 06:19:34 c01ae99aeb99 root[60] DEBUG Buy at: $111.52
+2021-08-09 06:19:34 c01ae99aeb99 root[60] DEBUG Sell at: $109.61 | Position: -$1.9100
+2021-08-09 06:19:35 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 06:19:35 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 06:19:35 c01ae99aeb99 root[60] DEBUG Sell at: $107.31 | Position: -$1.2500
+2021-08-09 06:19:35 c01ae99aeb99 root[60] DEBUG Sell at: $107.80 | Position: -$0.7600
+2021-08-09 06:19:35 c01ae99aeb99 root[60] DEBUG Buy at: $107.83
+2021-08-09 06:19:35 c01ae99aeb99 root[60] DEBUG Sell at: $107.81 | Position: -$0.0200
+2021-08-09 06:19:35 c01ae99aeb99 root[60] DEBUG Buy at: $108.47
+2021-08-09 06:19:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.50 | Position: +$0.0300
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Sell at: $107.72 | Position: +$0.4200
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Buy at: $108.64
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Sell at: $108.75 | Position: +$0.1100
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Buy at: $107.34
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Buy at: $106.59
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Sell at: $106.48 | Position: -$0.8600
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Sell at: $106.64 | Position: +$0.0500
+2021-08-09 06:19:36 c01ae99aeb99 root[60] DEBUG Buy at: $106.62
+2021-08-09 06:19:37 c01ae99aeb99 root[60] DEBUG Sell at: $106.14 | Position: -$0.4800
+2021-08-09 06:19:37 c01ae99aeb99 root[60] DEBUG Buy at: $106.22
+2021-08-09 06:19:37 c01ae99aeb99 root[60] DEBUG Sell at: $105.94 | Position: -$0.2800
+2021-08-09 06:19:37 c01ae99aeb99 root[60] DEBUG Buy at: $108.14
+2021-08-09 06:19:37 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: +$0.3100
+2021-08-09 06:19:37 c01ae99aeb99 root[60] DEBUG Buy at: $108.02
+2021-08-09 06:19:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: -$0.4600
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.39
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$0.4700
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.77
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: -$0.1000
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.66
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Sell at: $108.95 | Position: +$0.2900
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.89
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.84
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Sell at: $108.58 | Position: -$0.3100
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Sell at: $109.16 | Position: +$0.3200
+2021-08-09 06:19:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.97
+2021-08-09 06:19:39 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$0.3100
+2021-08-09 06:19:39 c01ae99aeb99 root[60] DEBUG Buy at: $108.41
+2021-08-09 06:19:39 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.2600
+2021-08-09 06:19:39 c01ae99aeb99 root[60] DEBUG Buy at: $109.52
+2021-08-09 06:19:39 c01ae99aeb99 root[60] DEBUG Sell at: $109.52 | Position: +$0.0000
+2021-08-09 06:19:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.36
+2021-08-09 06:19:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.64
+2021-08-09 06:19:40 c01ae99aeb99 root[60] INFO Episode 5/10 - Train Position: +$2245.9600  Val Position: -$1.0000  Train Loss: 0.2359842)
+Episode 6/10: 100%|██████████| 2317/2317 [30:49<00:00,  1.25it/s]
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Buy at: $109.72
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Buy at: $108.88
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Buy at: $108.53
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: -$1.0000
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.17 | Position: -$0.7100
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.55 | Position: +$0.8800
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.1400
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Sell at: $109.09 | Position: +$0.3400
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Buy at: $109.55
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Buy at: $109.36
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: -$0.1600
+2021-08-09 06:50:30 c01ae99aeb99 root[60] DEBUG Sell at: $108.88 | Position: -$0.4800
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Buy at: $109.73
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Sell at: $110.38 | Position: +$0.6500
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Buy at: $110.86
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Sell at: $110.70 | Position: -$0.1600
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Buy at: $110.58
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Sell at: $111.39 | Position: +$0.7000
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Sell at: $111.92 | Position: +$1.3400
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Buy at: $111.89
+2021-08-09 06:50:31 c01ae99aeb99 root[60] DEBUG Sell at: $111.77 | Position: -$0.1200
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Buy at: $109.92
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.0900
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$1.5600
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Buy at: $111.14
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Buy at: $111.02
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$1.7000
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$1.3900
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$0.8900
+2021-08-09 06:50:32 c01ae99aeb99 root[60] DEBUG Sell at: $112.00 | Position: +$0.9800
+2021-08-09 06:50:33 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 06:50:33 c01ae99aeb99 root[60] DEBUG Sell at: $111.64 | Position: +$0.0000
+2021-08-09 06:50:33 c01ae99aeb99 root[60] DEBUG Buy at: $111.52
+2021-08-09 06:50:33 c01ae99aeb99 root[60] DEBUG Buy at: $110.78
+2021-08-09 06:50:33 c01ae99aeb99 root[60] DEBUG Buy at: $109.76
+2021-08-09 06:50:33 c01ae99aeb99 root[60] DEBUG Buy at: $109.94
+2021-08-09 06:50:33 c01ae99aeb99 root[60] DEBUG Buy at: $110.08
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $110.06
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Sell at: $110.50 | Position: -$1.0200
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Sell at: $110.36 | Position: -$0.4200
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $109.52
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $109.38
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $108.28
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$1.6200
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $108.47
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $108.44
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $108.52
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Sell at: $108.39 | Position: -$1.5500
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $108.45
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$1.9700
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $107.31
+2021-08-09 06:50:34 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $107.78 | Position: -$2.2800
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.44 | Position: -$0.8700
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Buy at: $107.89
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Buy at: $107.83
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $107.81 | Position: -$1.7100
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: -$0.9100
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: -$0.8900
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$0.5800
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: +$0.0000
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.50 | Position: +$0.3100
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Buy at: $108.24
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: +$0.2000
+2021-08-09 06:50:35 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$0.0900
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Sell at: $108.75 | Position: +$0.3000
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $107.34
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $106.59
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $105.95
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Sell at: $106.48 | Position: -$0.8300
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $106.12
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $106.64
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $106.23
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $106.62
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $105.41
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Sell at: $105.73 | Position: -$1.5700
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Sell at: $106.52 | Position: -$1.3700
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Buy at: $106.31
+2021-08-09 06:50:36 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: -$0.9100
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Buy at: $107.25
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$0.1300
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: +$0.7800
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$0.0500
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: +$0.8000
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $108.02 | Position: +$1.4300
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Buy at: $107.56
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: +$1.6100
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.06 | Position: +$0.9400
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.78 | Position: +$1.1400
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: +$1.6000
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: +$1.3200
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.75 | Position: +$2.3400
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: +$0.6100
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.30 | Position: +$0.3800
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.08 | Position: -$0.1700
+2021-08-09 06:50:37 c01ae99aeb99 root[60] DEBUG Sell at: $107.47 | Position: -$0.0900
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.69
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Sell at: $108.66 | Position: -$0.0300
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Sell at: $108.95 | Position: +$0.3400
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.03
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Sell at: $108.58 | Position: +$0.5500
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Buy at: $109.16
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Sell at: $108.97 | Position: +$0.7800
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$0.1200
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.67
+2021-08-09 06:50:38 c01ae99aeb99 root[60] DEBUG Buy at: $108.55
+2021-08-09 06:50:39 c01ae99aeb99 root[60] DEBUG Sell at: $108.66 | Position: -$0.0100
+2021-08-09 06:50:39 c01ae99aeb99 root[60] DEBUG Sell at: $108.92 | Position: +$0.3700
+2021-08-09 06:50:39 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 06:50:39 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$0.0700
+2021-08-09 06:50:39 c01ae99aeb99 root[60] DEBUG Buy at: $109.48
+2021-08-09 06:50:39 c01ae99aeb99 root[60] DEBUG Sell at: $109.53 | Position: +$0.0500
+2021-08-09 06:50:39 c01ae99aeb99 root[60] DEBUG Buy at: $109.39
+2021-08-09 06:50:39 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$0.0000
+2021-08-09 06:50:40 c01ae99aeb99 root[60] DEBUG Buy at: $108.88
+2021-08-09 06:50:40 c01ae99aeb99 root[60] INFO Episode 6/10 - Train Position: +$1220.2400  Val Position: +$6.3400  Train Loss: 0.2638975)
+Episode 7/10: 100%|██████████| 2317/2317 [31:18<00:00,  1.23it/s]
+2021-08-09 07:21:59 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 07:21:59 c01ae99aeb99 root[60] DEBUG Sell at: $108.53 | Position: +$0.8600
+2021-08-09 07:21:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.78
+2021-08-09 07:21:59 c01ae99aeb99 root[60] DEBUG Sell at: $109.67 | Position: -$0.1100
+2021-08-09 07:21:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.60
+2021-08-09 07:21:59 c01ae99aeb99 root[60] DEBUG Sell at: $109.64 | Position: +$0.0400
+2021-08-09 07:21:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.36
+2021-08-09 07:21:59 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$0.0300
+2021-08-09 07:22:00 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 07:22:00 c01ae99aeb99 root[60] DEBUG Sell at: $109.97 | Position: +$0.0000
+2021-08-09 07:22:00 c01ae99aeb99 root[60] DEBUG Buy at: $111.06
+2021-08-09 07:22:00 c01ae99aeb99 root[60] DEBUG Buy at: $110.58
+2021-08-09 07:22:00 c01ae99aeb99 root[60] DEBUG Sell at: $111.00 | Position: -$0.0600
+2021-08-09 07:22:00 c01ae99aeb99 root[60] DEBUG Sell at: $111.39 | Position: +$0.8100
+2021-08-09 07:22:00 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Buy at: $110.81
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Sell at: $110.64 | Position: -$0.5300
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Sell at: $110.52 | Position: -$0.1700
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Sell at: $111.33 | Position: +$0.5200
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Sell at: $111.73 | Position: +$1.0900
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Buy at: $111.14
+2021-08-09 07:22:01 c01ae99aeb99 root[60] DEBUG Sell at: $111.02 | Position: -$0.1200
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Buy at: $111.97
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Sell at: $111.92 | Position: -$0.0500
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Buy at: $111.11
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Buy at: $110.78
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Sell at: $109.86 | Position: -$1.7800
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Buy at: $110.08
+2021-08-09 07:22:02 c01ae99aeb99 root[60] DEBUG Buy at: $110.06
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Buy at: $109.38
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Sell at: $109.61 | Position: -$1.5000
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$2.6400
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: -$0.8400
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Sell at: $108.19 | Position: -$1.8900
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.52
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Sell at: $108.50 | Position: -$1.5600
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Sell at: $108.39 | Position: -$0.9900
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.45
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Buy at: $107.31
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Sell at: $107.31 | Position: -$2.2800
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Buy at: $107.78
+2021-08-09 07:22:03 c01ae99aeb99 root[60] DEBUG Buy at: $107.80
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Buy at: $108.44
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Sell at: $107.89 | Position: -$0.5300
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: +$0.2000
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$0.4100
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Buy at: $107.92
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.24 | Position: +$0.9300
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Buy at: $108.22
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.78 | Position: +$1.0000
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Buy at: $107.34
+2021-08-09 07:22:04 c01ae99aeb99 root[60] DEBUG Buy at: $106.59
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Sell at: $106.48 | Position: -$1.3200
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Buy at: $105.91
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Buy at: $106.12
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Buy at: $106.38
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Sell at: $106.64 | Position: -$1.8000
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Buy at: $106.23
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Buy at: $106.44
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Buy at: $105.41
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Sell at: $106.31 | Position: -$1.6100
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Buy at: $106.22
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Buy at: $105.94
+2021-08-09 07:22:05 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: -$0.3800
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: -$1.3000
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: +$0.4900
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: +$1.5200
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: +$2.2300
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: +$2.0200
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: +$2.0700
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.02 | Position: +$1.7900
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: +$1.1200
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: +$2.1500
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $107.06 | Position: +$0.8400
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $107.78 | Position: +$1.8400
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Buy at: $107.47
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Buy at: $107.97
+2021-08-09 07:22:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.42 | Position: +$0.9500
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.7000
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Buy at: $108.69
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: -$0.0800
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Buy at: $108.89
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.58 | Position: -$0.3100
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Buy at: $109.28
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.06 | Position: -$0.2200
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 07:22:07 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: -$0.0800
+2021-08-09 07:22:08 c01ae99aeb99 root[60] DEBUG Buy at: $108.55
+2021-08-09 07:22:08 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$0.0600
+2021-08-09 07:22:08 c01ae99aeb99 root[60] DEBUG Buy at: $109.00
+2021-08-09 07:22:08 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: -$0.3600
+2021-08-09 07:22:08 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 07:22:08 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$0.8200
+2021-08-09 07:22:09 c01ae99aeb99 root[60] DEBUG Buy at: $109.64
+2021-08-09 07:22:09 c01ae99aeb99 root[60] DEBUG Sell at: $109.42 | Position: -$0.2200
+2021-08-09 07:22:09 c01ae99aeb99 root[60] INFO Episode 7/10 - Train Position: +$1422.3100  Val Position: +$1.7600  Train Loss: 0.2630537)
+Episode 8/10: 100%|██████████| 2317/2317 [31:27<00:00,  1.23it/s]
+2021-08-09 07:53:36 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 07:53:36 c01ae99aeb99 root[60] DEBUG Sell at: $108.53 | Position: +$0.8600
+2021-08-09 07:53:36 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Buy at: $108.17
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.2500
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Sell at: $109.24 | Position: +$1.0700
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Buy at: $109.03
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Buy at: $108.88
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$0.4700
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Buy at: $109.89
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Sell at: $109.97 | Position: +$1.0900
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Sell at: $109.97 | Position: +$0.0800
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Buy at: $109.73
+2021-08-09 07:53:37 c01ae99aeb99 root[60] DEBUG Sell at: $110.38 | Position: +$0.6500
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Sell at: $111.06 | Position: +$0.3700
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $110.58
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Sell at: $111.00 | Position: +$0.4200
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Sell at: $111.20 | Position: +$0.0300
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $111.72
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $110.81
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $109.92
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 07:53:38 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $110.52
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $110.86 | Position: -$0.8600
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $111.36
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $111.33 | Position: -$0.0600
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.7900
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $111.73 | Position: +$0.9200
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$1.5600
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $111.02
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$1.7000
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$1.3900
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$1.5100
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $112.06 | Position: +$1.4200
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $111.92
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $111.86
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Sell at: $112.19 | Position: +$0.8300
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $111.59
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $111.64
+2021-08-09 07:53:39 c01ae99aeb99 root[60] DEBUG Buy at: $111.42
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $111.11
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $110.78
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $110.25
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $110.11
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.76
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.94
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.86
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $110.50
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.52
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Buy at: $109.38
+2021-08-09 07:53:40 c01ae99aeb99 root[60] DEBUG Sell at: $109.61 | Position: -$1.4100
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.14
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.47
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.42
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.44
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.52
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.50
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Sell at: $108.39 | Position: -$3.5300
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Sell at: $108.56 | Position: -$3.3000
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.45
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$3.5300
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.31
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.31
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.19
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.78
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Sell at: $107.80 | Position: -$3.7900
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.89
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.89
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.83
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $107.81
+2021-08-09 07:53:41 c01ae99aeb99 root[60] DEBUG Buy at: $108.47
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Sell at: $108.72 | Position: -$2.9200
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: -$2.5600
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Sell at: $108.50 | Position: -$2.8900
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $107.91
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $107.92
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Sell at: $108.24 | Position: -$2.8700
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Sell at: $107.72 | Position: -$3.0600
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Sell at: $108.19 | Position: -$2.0600
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $108.64
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Sell at: $108.78 | Position: -$1.3300
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: -$1.1500
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $107.34
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $106.59
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $105.95
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $106.48
+2021-08-09 07:53:42 c01ae99aeb99 root[60] DEBUG Buy at: $105.67
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $105.91
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.12
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.64
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.62
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.14
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $105.73
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Sell at: $106.52 | Position: -$3.4200
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.31
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.22
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.39
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: -$1.4800
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Sell at: $108.11 | Position: -$1.5000
+2021-08-09 07:53:43 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: -$1.5100
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$1.7200
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: -$2.3600
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: -$1.1600
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $108.02 | Position: -$1.2900
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Buy at: $107.56
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: -$1.9600
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $107.06 | Position: -$2.3200
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $107.78 | Position: -$0.3600
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: -$0.6400
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: -$0.4800
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: -$0.1100
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $107.75 | Position: -$0.6900
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Buy at: $107.18
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: -$1.6000
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Buy at: $106.94
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $107.08 | Position: -$1.4200
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Buy at: $107.47
+2021-08-09 07:53:44 c01ae99aeb99 root[60] DEBUG Sell at: $107.97 | Position: -$0.4800
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Buy at: $108.39
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$1.5500
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$1.3600
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.43 | Position: +$1.1300
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$1.4200
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.48 | Position: +$0.7000
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Buy at: $108.69
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$0.7200
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Buy at: $108.66
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.95 | Position: +$1.0600
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Buy at: $108.84
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Buy at: $108.03
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.58 | Position: +$0.7500
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $109.16 | Position: +$1.3500
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$0.8100
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$1.3700
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Buy at: $109.06
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $109.02 | Position: +$1.1000
+2021-08-09 07:53:45 c01ae99aeb99 root[60] DEBUG Sell at: $108.83 | Position: +$1.5300
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.41
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.67
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.55
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: -$0.0300
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: -$0.1100
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.66
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Sell at: $109.05 | Position: +$1.7100
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Sell at: $109.56 | Position: +$2.9700
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $109.00
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: +$2.6900
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$2.3800
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.76
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.71
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$3.7100
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$3.5900
+2021-08-09 07:53:46 c01ae99aeb99 root[60] DEBUG Buy at: $109.48
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Sell at: $109.53 | Position: +$3.4100
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$2.7400
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Sell at: $109.44 | Position: +$2.8200
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$3.2500
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$3.6600
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Sell at: $109.36 | Position: +$3.0500
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Sell at: $109.64 | Position: +$3.4200
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Sell at: $109.42 | Position: +$3.0300
+2021-08-09 07:53:47 c01ae99aeb99 root[60] DEBUG Buy at: $108.88
+2021-08-09 07:53:47 c01ae99aeb99 root[60] INFO Episode 8/10 - Train Position: +$2503.0900  Val Position: +$12.7300  Train Loss: 0.2573482)
+Episode 9/10: 100%|██████████| 2317/2317 [31:29<00:00,  1.23it/s]
+2021-08-09 08:25:16 c01ae99aeb99 root[60] DEBUG Buy at: $107.67
+2021-08-09 08:25:16 c01ae99aeb99 root[60] DEBUG Sell at: $108.53 | Position: +$0.8600
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Buy at: $110.58
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Sell at: $111.00 | Position: +$0.3100
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Sell at: $111.92 | Position: +$1.3400
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Sell at: $111.20 | Position: +$0.0300
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Buy at: $111.72
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Buy at: $111.42
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 08:25:18 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Buy at: $110.81
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $110.64 | Position: -$0.5300
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $110.52 | Position: -$1.2000
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Buy at: $110.86
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $111.36 | Position: -$0.0600
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Buy at: $111.33
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.0900
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$0.9800
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.6700
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $111.14 | Position: +$1.1700
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$1.0300
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$1.1700
+2021-08-09 08:25:19 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$0.7000
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $111.59
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Sell at: $111.64 | Position: +$0.0500
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $111.42
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $111.11
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $110.78
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.76
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.94
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.86
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Sell at: $110.50 | Position: -$0.9200
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.52
+2021-08-09 08:25:20 c01ae99aeb99 root[60] DEBUG Buy at: $109.38
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Sell at: $109.59 | Position: -$1.8000
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Sell at: $109.61 | Position: -$1.5000
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Buy at: $108.08
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: -$2.3100
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Sell at: $108.42 | Position: -$1.3400
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Buy at: $108.50
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Buy at: $108.39
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Sell at: $108.56 | Position: -$1.3800
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Buy at: $108.45
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Buy at: $107.31
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 08:25:21 c01ae99aeb99 root[60] DEBUG Buy at: $107.19
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $107.89 | Position: -$1.4200
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $107.81 | Position: -$1.8000
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: -$1.1200
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $108.47 | Position: -$1.3900
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Buy at: $107.91
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $108.24 | Position: -$1.3700
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Buy at: $107.30
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Buy at: $107.72
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: -$0.8800
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: -$0.7100
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $108.78 | Position: +$0.7000
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Buy at: $107.34
+2021-08-09 08:25:22 c01ae99aeb99 root[60] DEBUG Sell at: $106.59 | Position: -$1.9100
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Sell at: $106.48 | Position: -$1.9100
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $105.67
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $105.31
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $106.75
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $106.12
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $106.23
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $106.62
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Sell at: $106.12 | Position: -$2.3300
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $106.52
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Sell at: $106.31 | Position: -$1.0000
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $106.22
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Buy at: $106.39
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: -$0.3800
+2021-08-09 08:25:23 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: -$0.2700
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: +$0.2300
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: +$0.8400
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $108.02 | Position: +$0.3000
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $107.56 | Position: +$0.2200
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Buy at: $107.06
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $107.78 | Position: +$2.1100
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $107.83 | Position: +$2.5200
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: +$1.1900
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $108.08 | Position: +$1.9600
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $107.75 | Position: +$1.5200
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Buy at: $107.18
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: +$0.3000
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Sell at: $107.30 | Position: +$0.7800
+2021-08-09 08:25:24 c01ae99aeb99 root[60] DEBUG Buy at: $107.08
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$2.6400
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Buy at: $108.67
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $108.43 | Position: +$2.0400
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$1.5500
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $108.48 | Position: +$1.3000
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Buy at: $108.69
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$1.5300
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $108.95 | Position: +$0.2800
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $108.84 | Position: +$0.1500
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $109.16 | Position: +$0.9700
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Buy at: $109.06
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Sell at: $109.02 | Position: -$0.0400
+2021-08-09 08:25:25 c01ae99aeb99 root[60] DEBUG Buy at: $108.41
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.2600
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Buy at: $108.55
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: +$0.0900
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Sell at: $108.66 | Position: +$0.0500
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Buy at: $108.76
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: -$0.1500
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Buy at: $108.71
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$0.6700
+2021-08-09 08:25:26 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$0.9400
+2021-08-09 08:25:27 c01ae99aeb99 root[60] DEBUG Buy at: $108.88
+2021-08-09 08:25:27 c01ae99aeb99 root[60] INFO Episode 9/10 - Train Position: +$4083.6000  Val Position: +$5.8200  Train Loss: 0.2564065)
+Episode 10/10: 100%|██████████| 2317/2317 [34:26<00:00,  1.12it/s]
+INFO:tensorflow:Assets written to: models/model_debug_10/assets
+2021-08-09 08:59:55 c01ae99aeb99 tensorflow[60] INFO Assets written to: models/model_debug_10/assets
+2021-08-09 08:59:55 c01ae99aeb99 root[60] DEBUG Buy at: $108.55
+2021-08-09 08:59:55 c01ae99aeb99 root[60] DEBUG Sell at: $108.67 | Position: +$0.1200
+2021-08-09 08:59:55 c01ae99aeb99 root[60] DEBUG Buy at: $109.60
+2021-08-09 08:59:55 c01ae99aeb99 root[60] DEBUG Sell at: $109.64 | Position: +$0.0400
+2021-08-09 08:59:56 c01ae99aeb99 root[60] DEBUG Buy at: $108.88
+2021-08-09 08:59:56 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$0.6200
+2021-08-09 08:59:56 c01ae99aeb99 root[60] DEBUG Buy at: $110.48
+2021-08-09 08:59:56 c01ae99aeb99 root[60] DEBUG Sell at: $111.00 | Position: +$0.5200
+2021-08-09 08:59:56 c01ae99aeb99 root[60] DEBUG Buy at: $110.62
+2021-08-09 08:59:56 c01ae99aeb99 root[60] DEBUG Buy at: $110.86
+2021-08-09 08:59:56 c01ae99aeb99 root[60] DEBUG Sell at: $110.70 | Position: +$0.0800
+2021-08-09 08:59:56 c01ae99aeb99 root[60] DEBUG Sell at: $110.69 | Position: -$0.1700
+2021-08-09 08:59:57 c01ae99aeb99 root[60] DEBUG Buy at: $111.39
+2021-08-09 08:59:57 c01ae99aeb99 root[60] DEBUG Sell at: $111.92 | Position: +$0.5300
+2021-08-09 08:59:57 c01ae99aeb99 root[60] DEBUG Buy at: $111.17
+2021-08-09 08:59:57 c01ae99aeb99 root[60] DEBUG Buy at: $111.47
+2021-08-09 08:59:57 c01ae99aeb99 root[60] DEBUG Buy at: $110.69
+2021-08-09 08:59:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.92
+2021-08-09 08:59:57 c01ae99aeb99 root[60] DEBUG Buy at: $109.97
+2021-08-09 08:59:57 c01ae99aeb99 root[60] DEBUG Buy at: $110.64
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $110.86 | Position: -$0.3100
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $111.36 | Position: -$0.1100
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $111.33 | Position: +$0.6400
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$1.5600
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $111.73 | Position: +$1.7600
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $111.48 | Position: +$0.8400
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Buy at: $111.02
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $111.67 | Position: +$0.6500
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Buy at: $112.03
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $112.03 | Position: +$0.0000
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Buy at: $111.97
+2021-08-09 08:59:58 c01ae99aeb99 root[60] DEBUG Sell at: $111.94 | Position: -$0.0300
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.94
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.61
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $110.08
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $110.50
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $110.36
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.31
+2021-08-09 08:59:59 c01ae99aeb99 root[60] DEBUG Buy at: $109.38
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Buy at: $109.59
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Buy at: $108.14
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Buy at: $108.47
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Sell at: $108.42 | Position: -$1.5200
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Sell at: $108.39 | Position: -$0.9200
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Buy at: $108.45
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Buy at: $108.11
+2021-08-09 09:00:00 c01ae99aeb99 root[60] DEBUG Buy at: $107.78
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Buy at: $107.80
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.44 | Position: -$1.1700
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Buy at: $107.89
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Buy at: $108.72
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: -$0.7300
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Buy at: $107.92
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Buy at: $108.24
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Buy at: $107.94
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Buy at: $107.72
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Sell at: $107.88 | Position: -$2.2000
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Buy at: $108.19
+2021-08-09 09:00:01 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: -$1.8600
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.67
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Sell at: $108.78 | Position: -$1.5800
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $108.75
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Sell at: $107.34 | Position: -$1.9700
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Sell at: $106.59 | Position: -$2.7900
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Sell at: $106.48 | Position: -$3.1100
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $106.08
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $105.67
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $105.91
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $106.38
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $106.64
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Buy at: $106.23
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Sell at: $106.62 | Position: -$1.5200
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Sell at: $106.44 | Position: -$2.0300
+2021-08-09 09:00:02 c01ae99aeb99 root[60] DEBUG Sell at: $105.41 | Position: -$3.1500
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Sell at: $106.12 | Position: -$2.3300
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $106.52
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $106.22
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $105.94
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Sell at: $106.92 | Position: -$1.1900
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $107.25
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $107.83
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.11
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.08
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Buy at: $108.14
+2021-08-09 09:00:03 c01ae99aeb99 root[60] DEBUG Sell at: $108.14 | Position: +$0.3600
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.45 | Position: +$0.6500
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.02 | Position: +$0.1300
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Buy at: $107.56
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $107.06 | Position: -$1.6600
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Buy at: $107.78
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Buy at: $107.83
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $107.94 | Position: +$0.0200
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $107.75 | Position: -$0.4900
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Buy at: $106.92
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $107.30 | Position: -$0.6400
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $107.08 | Position: -$0.6400
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Buy at: $107.97
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.42 | Position: +$0.2300
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.39 | Position: -$0.2800
+2021-08-09 09:00:04 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$0.2500
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Buy at: $108.67
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: -$0.1400
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $108.48 | Position: +$2.4000
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Buy at: $108.69
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Buy at: $108.61
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $108.95 | Position: +$3.2800
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $108.89 | Position: +$2.9800
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Buy at: $108.84
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $108.58 | Position: +$2.2000
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $109.16 | Position: +$2.5200
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $108.97 | Position: +$2.7400
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$2.7600
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Sell at: $109.28 | Position: +$3.0600
+2021-08-09 09:00:05 c01ae99aeb99 root[60] DEBUG Buy at: $109.02
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Buy at: $108.41
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.75 | Position: +$2.8100
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.92 | Position: +$2.0000
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Sell at: $109.05 | Position: +$1.8000
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Buy at: $109.56
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Buy at: $109.52
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Buy at: $109.52
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.64 | Position: +$0.8100
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.86 | Position: +$0.7500
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Sell at: $108.61 | Position: +$0.5300
+2021-08-09 09:00:06 c01ae99aeb99 root[60] DEBUG Buy at: $108.56
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$1.2400
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.50 | Position: +$1.9400
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.48 | Position: +$1.7000
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.53 | Position: +$1.7000
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.38 | Position: +$2.4600
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.44 | Position: +$1.4700
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.39 | Position: +$0.7200
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.64 | Position: +$0.9500
+2021-08-09 09:00:07 c01ae99aeb99 root[60] DEBUG Sell at: $109.42 | Position: +$0.8100
+2021-08-09 09:00:07 c01ae99aeb99 root[60] INFO Episode 10/10 - Train Position: +$4419.1900  Val Position: +$20.0900  Train Loss: 0.3268151)

@@ -1,0 +1,77 @@
+DEEP LEARNING
+--------------------------------------------------------------------------------
+
+LSTM
+Bi Directional LSTM
+LSTM 2 Path
+LSTM sequence 2 sequence
+LSTM sequence 2 sequence Variational Auto Encoder
+Bidirectional LSTM sequence 2 sequence
+Gated Recurrent Unit
+Bidirectional Gated Recurrent Unit
+Gated Recurrent Unit 2 Path
+Gated Recurrent Unit sequence 2 sequence
+Gated Recurrent Unit sequence 2 sequence Variational Auto Encoder
+Bidirectional Gated Recurrent Unit sequence 2 sequence
+
+Convolutional Neural Network
+Bidirectional Convolutional Neural Network
+Convolutional Neural Network 2 Path
+Convolutional Neural Network sequence 2 sequence
+Dilated Convolutional Neural Network sequence 2 sequence
+Attention
+
+
+
+REINFORCEMENT LEARNING
+--------------------------------------------------------------------------------
+Turtle
+Turtles were taught very specifically how to implement a trend-following strategy. The idea is that the "trend is your friend," so one should buy futures breaking out to the upside of trading ranges and sell short downside 		breakouts. In practice, this means, for example, buying new four-week highs as an entry signal. Figure 1 shows a typical turtle trading strategy.
+Source: https://www.investopedia.com/articles/trading/08/turtle-trading.asp
+
+Moving Average
+A moving average can be calculated in different ways. A five-day simple moving average (SMA) adds up the five most recent daily closing prices and divides it by five to create a new average each day. Each average is connected to the next, creating the singular flowing line.
+Source: https://www.investopedia.com/articles/active-trading/052014/how-use-moving-average-buy-stocks.asp
+
+Signal Rolling 
+
+
+Policy Gradient 
+The policy gradient methods target at modeling and optimizing the policy directly. The policy is usually modeled with a parameterized function respect to θ, πθ(a|s). The value of the reward (objective) function depends on this policy and then various algorithms can be applied to optimize θ for the best reward.
+Source: https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
+
+Q Learning 
+
+
+Evolution Strategy 
+Double Q Learning 
+Recurrent Q Learning 
+Double Recurrent Q Learning 
+Duel Q Learning
+Double Duel Q Learning
+Duel Recurrent Q Learning 
+Double Duel Recurrent Q Learning
+Actor Critic 
+Actor Critic Duel 
+Actor Critic Recurrent 
+Actor Critic Duel Recurrent 
+Curiosity Q Learning
+Recurrent Curiosity Q Learning
+Duel Curiosity Q Learning
+Neuro Evoultion 
+Neuro Evolution Novelity Search
+ABCD Strategy 
+
+
+
+
+
+
+
+
+FOREX
+
+
+DQN
+DDQN
+TDQN

@@ -1,0 +1,15 @@
+INFO 2022-10-19 11:38:52,916 close: 1302.84 tenkan_prev: 1304.645 tenkan: 1304.54 kijun: 1304.615 senkou_a:  nan senkou_b:  nan chikou: 1303.58 close_chikou: 1304.29
+WARNING 2022-10-19 11:38:52,916 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-10-19 11:38:52,916 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-10-19 11:39:00,521 close: 1302.84 tenkan_prev: 1304.645 tenkan: 1304.54 kijun: 1304.615 senkou_a:  nan senkou_b:  nan chikou: 1303.58 close_chikou: 1304.29
+WARNING 2022-10-19 11:39:00,521 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-10-19 11:39:00,521 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-10-19 11:40:00,116 close: 1301.74 tenkan_prev: 1304.54 tenkan: 1303.65 kijun: 1303.9450000000002 senkou_a:  nan senkou_b:  nan chikou: 1302.84 close_chikou: 1304.83
+WARNING 2022-10-19 11:40:00,116 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-10-19 11:40:00,116 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-10-19 11:40:59,732 close: 1300.8 tenkan_prev: 1303.65 tenkan: 1303.225 kijun: 1303.5500000000002 senkou_a:  nan senkou_b:  nan chikou: 1301.74 close_chikou: 1305.77
+WARNING 2022-10-19 11:40:59,734 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-10-19 11:40:59,734 CONDITIONS SELL: False, True, False, False, True
+INFO 2022-10-19 11:41:00,334 close: 1300.8 tenkan_prev: 1303.65 tenkan: 1303.225 kijun: 1303.5500000000002 senkou_a:  nan senkou_b:  nan chikou: 1301.74 close_chikou: 1305.77
+WARNING 2022-10-19 11:41:00,334 CONDITIONS BUY: True, False, False, False, False
+WARNING 2022-10-19 11:41:00,334 CONDITIONS SELL: False, True, False, False, True

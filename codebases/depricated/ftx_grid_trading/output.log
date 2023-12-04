@@ -1,0 +1,154 @@
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 8, in <module>
+    import simplejson as json
+ModuleNotFoundError: No module named 'simplejson'
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 131, in <module>
+    config = read_setting()
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 128, in read_setting
+    with open('setting.json') as json_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'setting.json'
+[Apr 15 2022 00:08:02 ] [1;37m:[0;0m ftx {"success":false,"error":"No such subaccount"}
+[Apr 15 2022 00:08:03 ] [1;37m:[0;0m ftx {"success":false,"error":"No such subaccount"}
+[Apr 15 2022 00:08:04 ] [1;37m:[0;0m ftx {"success":false,"error":"No such subaccount"}
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 647, in fetch
+    response.raise_for_status()
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/requests/models.py", line 960, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://ftx.com/api/orders
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 147, in <module>
+    main_job.place_order_init()
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 46, in place_order_init
+    order.id = self.send_request("place_order","buy",price)
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 91, in send_request
+    orderid = self.exchange.create_limit_buy_order(self.symbol,self.amount,price )["info"]["id"]
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 2223, in create_limit_buy_order
+    return self.create_order(symbol, 'limit', 'buy', amount, price, params)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/ftx.py", line 1447, in create_order
+    response = getattr(self, method)(self.extend(request, params))
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 489, in inner
+    return entry(_self, **inner_kwargs)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 540, in request
+    return self.fetch2(path, api, method, params, headers, body, config, context)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 536, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 663, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/ftx.py", line 2221, in handle_errors
+    self.throw_broadly_matched_exception(self.exceptions['broad'], error, feedback)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 559, in throw_broadly_matched_exception
+    raise broad[broad_key](message)
+ccxt.base.errors.AuthenticationError: ftx {"success":false,"error":"No such subaccount"}
+[Apr 15 2022 01:03:06 ] [1;37m:[0;0m ftx {"success":false,"error":"No such subaccount"}
+[Apr 15 2022 01:03:07 ] [1;37m:[0;0m ftx {"success":false,"error":"No such subaccount"}
+[Apr 15 2022 01:03:08 ] [1;37m:[0;0m ftx {"success":false,"error":"No such subaccount"}
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 647, in fetch
+    response.raise_for_status()
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/requests/models.py", line 960, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://ftx.com/api/orders
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 147, in <module>
+    main_job.place_order_init()
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 46, in place_order_init
+    order.id = self.send_request("place_order","buy",price)
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 91, in send_request
+    orderid = self.exchange.create_limit_buy_order(self.symbol,self.amount,price )["info"]["id"]
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 2223, in create_limit_buy_order
+    return self.create_order(symbol, 'limit', 'buy', amount, price, params)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/ftx.py", line 1447, in create_order
+    response = getattr(self, method)(self.extend(request, params))
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 489, in inner
+    return entry(_self, **inner_kwargs)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 540, in request
+    return self.fetch2(path, api, method, params, headers, body, config, context)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 536, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 663, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/ftx.py", line 2221, in handle_errors
+    self.throw_broadly_matched_exception(self.exceptions['broad'], error, feedback)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 559, in throw_broadly_matched_exception
+    raise broad[broad_key](message)
+ccxt.base.errors.AuthenticationError: ftx {"success":false,"error":"No such subaccount"}
+[Apr 15 2022 01:04:12 ] [1;37m:[0;0m ftx {"success":false,"error":"Not enough balances"}
+[Apr 15 2022 01:04:13 ] [1;37m:[0;0m ftx {"success":false,"error":"Not enough balances"}
+[Apr 15 2022 01:04:14 ] [1;37m:[0;0m ftx {"success":false,"error":"Not enough balances"}
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 647, in fetch
+    response.raise_for_status()
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/requests/models.py", line 960, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://ftx.com/api/orders
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 147, in <module>
+    main_job.place_order_init()
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 46, in place_order_init
+    order.id = self.send_request("place_order","buy",price)
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 91, in send_request
+    orderid = self.exchange.create_limit_buy_order(self.symbol,self.amount,price )["info"]["id"]
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 2223, in create_limit_buy_order
+    return self.create_order(symbol, 'limit', 'buy', amount, price, params)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/ftx.py", line 1447, in create_order
+    response = getattr(self, method)(self.extend(request, params))
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 489, in inner
+    return entry(_self, **inner_kwargs)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 540, in request
+    return self.fetch2(path, api, method, params, headers, body, config, context)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 536, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 663, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/ftx.py", line 2220, in handle_errors
+    self.throw_exactly_matched_exception(self.exceptions['exact'], error, feedback)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 554, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: ftx {"success":false,"error":"Not enough balances"}
+[Apr 15 2022 06:18:53 ] [1;37m:[0;0m ftx {"success":false,"error":"Not enough balances"}
+[Apr 15 2022 06:18:54 ] [1;37m:[0;0m ftx {"success":false,"error":"Not enough balances"}
+[Apr 15 2022 06:18:54 ] [1;37m:[0;0m ftx {"success":false,"error":"Not enough balances"}
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 647, in fetch
+    response.raise_for_status()
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/requests/models.py", line 960, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://ftx.com/api/orders
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 147, in <module>
+    main_job.place_order_init()
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 46, in place_order_init
+    order.id = self.send_request("place_order","buy",price)
+  File "/Users/zaxhyperson/WORKS/ftx_grid_trading_bot/main.py", line 91, in send_request
+    orderid = self.exchange.create_limit_buy_order(self.symbol,self.amount,price )["info"]["id"]
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 2223, in create_limit_buy_order
+    return self.create_order(symbol, 'limit', 'buy', amount, price, params)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/ftx.py", line 1447, in create_order
+    response = getattr(self, method)(self.extend(request, params))
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 489, in inner
+    return entry(_self, **inner_kwargs)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 540, in request
+    return self.fetch2(path, api, method, params, headers, body, config, context)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 536, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 663, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/ftx.py", line 2220, in handle_errors
+    self.throw_exactly_matched_exception(self.exceptions['exact'], error, feedback)
+  File "/Users/zaxhyperson/miniforge3/envs/custom_trader/lib/python3.9/site-packages/ccxt/base/exchange.py", line 554, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: ftx {"success":false,"error":"Not enough balances"}
