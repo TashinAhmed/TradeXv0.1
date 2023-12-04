@@ -1,4 +1,12 @@
 # TradeX v0.1 - [Collections Assembled]
+
+## Following versions:
+### v0.2 - architectures assembling
+### v0.3 - baseline creation non Catalysts
+### v0.4 - baseline with Catalysts 
+### v0.5 - 0.8 - Finalization I, II, III, IV
+
+
 Hub of different automatic trading system including rule based and DeepRL based systems on historical and real time data with Alapaca API
 
 > If you trade a lot, you only need to be right 51 percent of the time, we need a smaller edge on each trade.
